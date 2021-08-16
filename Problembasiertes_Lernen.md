@@ -114,3 +114,5 @@ Auf dieser Seite sind alle organisatorischen Informationen zu dieser Lehrveranst
 **Prüfungsform & Leistungsnachweise:**
 
 **Kriterien der Bewertung:**
+
+[Hier](https://github.com/pilotta314/Problembasiertes_Lernen/blob/master/docs/Kursinformationen/Formatvorlage%20Tabellarische%20Veranstaltungs%C3%BCbersicht.docx) geht es zur Vorlage für die Veranstaltungsübersicht.
