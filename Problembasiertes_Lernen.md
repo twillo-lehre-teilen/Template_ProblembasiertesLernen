@@ -33,17 +33,34 @@
 
 ## Informationen für Lehrende
 
-** OER Hinweis **
+**Das Wichtigste auf einen Blick: Problembasiertes Lernen**
 
-Diese Kursvorlage von Stefanie Hiestand, Britta Beutnagel und twillo ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz CC BY 4.0 (Logos ausgenommen).
+Problembasiertes Lernen (auch Problemorientiertes Lernen) ist ein didaktisches Konzept, in dessen Zentrum das Lernen an und in praxisrelevanten Problemlagen steht. Das Problem ist hierbei als ein authentisches Fallbeispiel - eine Schwierigkeit oder Herausforderung des beruflichen Alltags - zu verstehen, das die Lernenden selbstgesteuert lösen müssen. Da zur Lösung der Problemlage sowohl das praktische Erfahrungswissen, als auch das abstrakte (theoretische) Wissen der Lernenden aktiviert und erweitert wird, fördert Problembasiertes Lernen eine reflexive Verbindung von Theorie und Praxis in besonderem Maße (vgl. u. a. Hiestand et al. 2020, Weber 2014).
 
-Die Kursvorlage zählt aufgrund ihrer Lizenz zu den Open Educational Resources (OER). Möchten auch Sie einen Beitrag zur offenen Hochschullehre leisten? Teilen Sie Ihre Lehrmaterialien auf dem OER-Portal twillo (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur).
+Eine zentrale Methode des Problembasiertes Lernens ist der **Siebensprung**, der auf eine tiefgehende Auseinandersetzung der Lernenden mit komplexen, praxisrelevanten Zusammenhängen zielt (vgl. u. a. Weber 2004). Die Lernenden werden mit einem Problem konfrontiert, das sie in sieben Schritten in Einzel- und Gruppenarbeit analysieren und bearbeiten. Für die Problemanalyse und -lösung relevante Wissenbestände, die über das Vorwissen hinausgehen, eignen sich die Lernenden im Prozess aktiv selbst an (vgl. Hiestand et al. 2020, Konermann 2016).
 
-Sie haben Fragen zu OER im Allgemeinen oder zu diesem Template? Gern steht Ihnen das twillo-Team zur Verfügung. Sie erreichen uns via E-Mail an support.twillo@tib.eu.
+Eine Handreichung zur weiteren Auseinandersetzung mit dem Problembasierten Lernen und der Siebensprungmethode finden Sie bei [Reich 2017](http://methodenpool.uni-koeln.de/problembased/kurzbeschreibung.html).
 
-** Was ist Forschendes Lernen **
+**Ziele und Verwendungsmöglichkeiten des Templates "Problembasiertes Lernen"**
 
-**Hinweise zur Nutzung des Templates**
+Dieses Template soll Sie bei der Gestaltung von Lerneinheiten nach der Siebensprungmethode unterstützen. Es  dient als eine Vorlage für die Lehrveranstaltung eines Semesters mit einem Umfang von 2 SWS. Die Struktur und methodische Gestaltung der Veranstaltung ist bereits vorangelegt - lediglich konkrete Inhalte sowie Zeitplanung und Organisatorisches müssen von Ihnen hinzugefügt werden.
+
+Selbstverständlich können Sie das Template - im Sinne der Lizenz CC BY (4.0) - bearbeiten und verändern.
+Grundsätzlich ist es möglich, einzelne Phasen der Lehrveranstaltung auszublenden. Um der Siebensprungmethode jedoch gerecht zu werden, sollten Sie beachten, dass jeder Schritt einen essentiellen Bestandteil darstellt und die einzelnen Lehreinheiten aufeinander aufbauen.
+
+**Literatur**
+
+*Hiestand, S./Beutnagel, B./Rühling, S. (2020): Problemorientiertes Lernen in digital unterstützen Lehr-/Lernsettings – das Siebensprung-Konzept am Beispiel der (hochschulischen) Ausbildung. In: Dietl, S. F./Schmidt, H./Weiß, R.Wittwer, W. (Hrsg.): Ausbilder Handbuch. Aufgaben, Konzepte, Praxisbeispiele. Hürth, S. 1-26 (Kap. 6.1.28).*
+
+*Konermann, T. (2016): Die Methode "Siebensprung". In: Brinkmann, R. (Hrsg.): Problembasiertes Lernen im Studienfach Psychologie. Konzepte, Methoden, Evaluation. Heidelberg, S. 53-65.*
+
+*Reich, K. (2017): Methodenpool, [http://methodenpool.uni-koeln.de](http://methodenpool.uni-koeln.de/) (04.01.2021).*
+
+*Weber, A. (2014): Mit Problem-Based Learning (PBL) zum Erfolg. In: Zentrum für Hochschuldidaktik (Hrsg.): Praxisnah und Vielfältig: Problembasiertes Lernen in den Natur- und Ingenieurwissenschaften. Ingolstadt, S. 3-11.*
+
+*Weber, A. (2004): Problem-Based Learning - Ein Handbuch für die Ausbildung auf der Sekundarstufe II und der Tertiärstufe. Bern.*
+
+*Arnold, P./Kilian, L./Thillosen, A./Zimmer, G. (2018): Handbuch E-Learning (Kompetenzorientiertes Prüfen mit E-Portfolios?). Bielefeld.*
 
 **Schritte für eine Nachnutzung:**
 
@@ -56,3 +73,12 @@ Sie haben Fragen zu OER im Allgemeinen oder zu diesem Template? Gern steht Ihnen
 7. Überprüfen Sie vor der Freigabe des Kurses, ob die Sichtbarkeit in allen Lernmodul Phasen entsprechend Ihren wünschen eingestellt ist.
 
 ![Sichtbarkeit von Regieanweisungen](docs/visibility.svg)<!-- style = "text-align:center;" -->
+
+
+**OER Hinweis**
+
+Diese Kursvorlage von Stefanie Hiestand, Britta Beutnagel und twillo ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz CC BY 4.0 (Logos ausgenommen).
+
+Die Kursvorlage zählt aufgrund ihrer Lizenz zu den Open Educational Resources (OER). Möchten auch Sie einen Beitrag zur offenen Hochschullehre leisten? Teilen Sie Ihre Lehrmaterialien auf dem OER-Portal twillo (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur).
+
+Sie haben Fragen zu OER im Allgemeinen oder zu diesem Template? Gern steht Ihnen das twillo-Team zur Verfügung. Sie erreichen uns via E-Mail an support.twillo@tib.eu.
