@@ -82,3 +82,35 @@ Diese Kursvorlage von Stefanie Hiestand, Britta Beutnagel und twillo ist – sof
 Die Kursvorlage zählt aufgrund ihrer Lizenz zu den Open Educational Resources (OER). Möchten auch Sie einen Beitrag zur offenen Hochschullehre leisten? Teilen Sie Ihre Lehrmaterialien auf dem OER-Portal twillo (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur).
 
 Sie haben Fragen zu OER im Allgemeinen oder zu diesem Template? Gern steht Ihnen das twillo-Team zur Verfügung. Sie erreichen uns via E-Mail an support.twillo@tib.eu.
+
+## Kursinformationen
+
+<p>
+**Regieanweisungen für Lehrende**
+
+Diese Seite dient dazu, die Studierenden über Zielsetzungen, inhaltliche Schwerpunkte der Veranstaltung und Prüfungsanforderungen zu informieren.
+
+Legen Sie hier alle organisatorischen Informationen zu Ihrem Kurs ab. (Fach, Thema, Ziel, Anforderungen etc.). Dieses Template enthält für die einzelnen Phasen eigene Lernziele. Diese können mit Ihren inhaltlichen Zielen kombiniert oder verfeinert werden. Formulieren Sie die Lernziele so, dass erkenntlich wird, welches Wissen oder welche Kompetenzen nach Abschluss der Veranstaltung erwartet werden. Leiten Sie von den formulierten Lernzielen die Inhalte und Prüfungen ab.
+
+Eine gute Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender Handlungsanleitung: Meyer Junker, R. (o.J.): Lernziele formulieren leicht gemacht, https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.html (18.12.2020).
+
+    Tragen Sie in das u.s. Feld ein, wie viele Leistungspunkte die Studierenden in Ihrer Veranstaltung erlangen können. Geben Sie an, welche Leistungen von den Studierenden abgelegt werden sollen und beschreiben Sie, worin diese konkret bestehen.
+    Für eine Lerneinheit im Siebensprung bietet es sich an, das im Laufe des Lernprozesses zu erstellende Portfolio als Studienleistung zu setzen. Als Prüfungsleistung kann z.B. eine schriftliche Fallausarbeitung gesetzt werden.
+    Erstellen Sie zudem eine Veranstaltungsübersicht (oder Semesterfahrplan bzw. Advance Organizer), aus der hervorgeht, welche Schritte bzw. Einheiten der Lehrveranstaltung in a) individueller Arbeit, b) in selbstorganisierten Gruppenarbeit und c) im Plenum erfolgen. Passen sie hierfür bei Bedarf die u.s. Vorlage an.
+  </p>
+
+**Info**
+
+Auf dieser Seite sind alle organisatorischen Informationen zu dieser Lehrveranstaltung für Sie hinterlegt.
+
+**Fach/Disziplin:**
+
+**Leistungspunkte:**
+
+**Inhalte & Schwerpunkte der Veranstaltung:**
+
+**Lernziele:**
+
+**Prüfungsform & Leistungsnachweise:**
+
+**Kriterien der Bewertung:**
