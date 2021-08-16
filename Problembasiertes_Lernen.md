@@ -116,3 +116,22 @@ Auf dieser Seite sind alle organisatorischen Informationen zu dieser Lehrveranst
 **Kriterien der Bewertung:**
 
 [Hier](https://github.com/pilotta314/Problembasiertes_Lernen/blob/master/docs/Kursinformationen/Formatvorlage%20Tabellarische%20Veranstaltungs%C3%BCbersicht.docx) geht es zur Vorlage für die Veranstaltungsübersicht.
+
+## Thematischer Einstieg
+<p>
+**Regieanweisungen für Lehrende**
+
+Ziel dieser Einstiegsphase ist es, den Studierenden den organisatorischen Ablauf des Lehr- und Lernkonzepts Problembasiertes Lernen (nach der Siebensprungmethode) samt den Anforderungen des selbstgesteuerten Lernens darzulegen. Zudem dient die Einheit einer Einführung in die Thematik der Lehrveranstaltung.
+
+**Didaktik**
+
+Der thematische Einstieg wird in einem synchronen Plenumssetting mit Arbeitsphasen in Gruppenarbeit durchgeführt. Er dient der Gruppenfindung und bildet den Start einer Gruppenarbeit, die einen erheblichen Anteil der Lehrveranstaltung einnimmt.
+
+Wählen Sie einen Termin und virtuellen Raum für die erste Online-Sitzung Ihrer Lehrveranstaltung und tragen Sie diese Information im Kasten unten ein. Selbstverständlich können Sie anstelle einer Online-Sitzung alternativ auch eine Präsenzveranstaltung planen.
+
+**Wichtig:** Sofern Sie die didaktische Struktur des Templates beibehalten wollen, führen Sie folgende Vorbereitungen durch:
+
+    Schaffen Sie vor der Online-Sitzung Zugänge zu ausreichend virtuellen Breakout-Räumen für die geplanten Arbeitsphasen in Kleingruppen.
+    Für den inhaltlichen Einstieg nutzen Sie eine Karikatur als Impuls für einen ersten Austausch. Ersetzen Sie den **Platzhalter auf dem u.s. Arbeitsblatt zur Karikaturanalyse** durch eine Karikatur Ihrer Wahl, die thematisch zu Ihrer Veranstaltung passt.
+    Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemanalyse** durch ein eignes Fallbeispiel. (Wie Sie ein Fallbeispiel erstellen und worauf Sie dabei achten sollten, finden Sie u.a. bei Slemeyer, A. (o. J.): Aktivierung von Studierenden durch Problemorientiertes Lernen [https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/](https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/)
+</p>
