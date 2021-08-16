@@ -134,4 +134,10 @@ Wählen Sie einen Termin und virtuellen Raum für die erste Online-Sitzung Ihrer
     Schaffen Sie vor der Online-Sitzung Zugänge zu ausreichend virtuellen Breakout-Räumen für die geplanten Arbeitsphasen in Kleingruppen.
     Für den inhaltlichen Einstieg nutzen Sie eine Karikatur als Impuls für einen ersten Austausch. Ersetzen Sie den **Platzhalter auf dem u.s. Arbeitsblatt zur Karikaturanalyse** durch eine Karikatur Ihrer Wahl, die thematisch zu Ihrer Veranstaltung passt.
     Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemanalyse** durch ein eignes Fallbeispiel. (Wie Sie ein Fallbeispiel erstellen und worauf Sie dabei achten sollten, finden Sie u.a. bei Slemeyer, A. (o. J.): Aktivierung von Studierenden durch Problemorientiertes Lernen [https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/](https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/)
+
+|Zeit | Phasen    | didaktische Ausgestaltung |
+| ---- | --------- | ------------------------- |
+| 10   | Begrüßung | **Begrüßen** Sie die Studierenden und leiten Sie ggf. eine kurze Vorstellungsrunde an. |
+| 10   | Information zu Organisation | Legen Sie den Studierenden die Organisation dieser Lehrveranstaltung dar. **Informieren** Sie hierbei über |
+
 </p>
