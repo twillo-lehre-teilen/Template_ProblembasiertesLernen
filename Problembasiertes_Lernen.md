@@ -240,7 +240,7 @@ Erstellen Sie ein Deckblatt für Ihr individuelles Portfolio. Nehmen Sie unbedin
 
 * Titel Ihres Portfolios
 * Name und ggf. Logo Ihrer Hochschule, Ihrer Fakultät und Ihres Instituts
-* Studiengangs
+* Studiengang
 * Fachsemester
 * Titel und Modulzuordnung der Lehrveranstaltung
 * Name der Lehrperson
