@@ -21,9 +21,9 @@
 - [Lernmodul](#5)
 
   - [Kick-Off: Selbstgesteuertes Lernen im Siebensprung](#5)
-  - [Phase 1: Problem wahrnehmen](#6)
-  - [Phase 2: Finden einer Fragestellung](#7)
-  - [Phase 3: Erarbeiten von Informationen und theoretischen Zugängen](#8)
+  - [Phase 1: Problemkonfrontation und Begriffsklärung](#6)
+  - [Phase 2: Problemdefinition](#7)
+  - [Zwischenschritt: Sprechstunde](#8)
   - [Phase 4: Auswahl und Aneignung von Methoden](#9)
   - [Phase 5: Entwicklung eines Forschungsdesigns](#10)
   - [Phase 6: Durchführung der forschenden Tätigkeit](#11)
@@ -317,3 +317,91 @@ Besprechen Sie Ihr Glossar in Ihrer Gruppe und nehmen Sie ggf. gemeinsam Korrekt
 
 **Wichtig:**
 Überführen Sie das fertige Glossar in Ihre Portfolios.
+
+## Schritt 2: Problemdefinition
+<p>
+**Regieanweisungen für Lehrende**
+
+Ziel des Schritts *Problemdefinition* ist es, dass Studierende ausgehend von ihrem Fallbeispiel, übergeordnete Probleme der beruflichen Praxis definieren und in der Gruppe diskutieren. Dabei können Sie ihr Vorwissen einbringen: Bereits Bekanntes, das im Rahmen des Studiums erlernt wurde oder auf Alltagserfahrung beruhendes Wissen.
+
+**Methoden und Materialien**
+
+Für die Erarbeitung des Arbeitsauftrages ist als Material lediglich das von der Gruppe gewählte Fallbeispiel, sowie das u.s. Arbeitsblatt Fischgräten-Diagramm erforderlich. Bei Bedarf können Sie den Austauschprozess der Studierenden durch das Angebot weiterer Methoden unterstützen. Hierfür ist z.B. die Think-Pair-Share-Methode geeignet. Hierbei versuchen die Studierenden zunächst, für sich selbst zentrale Problemstellungen aus dem Fallbeispiel herauszustellen. im Anschluss werden diese Ideen zu zweit auf einem Arbeitsblatt zusammengetragen und diskutiert. Abschließend werden dann alle Punkte in der Arbeitsgruppe zusammengetragen und in dem Fischgräten-Diagramm systematisiert.
+
+**Hilfestellungen**
+
+*  Bieten Sie jeder Gruppe für die Zusammenarbeit a) einen Konferenzraum an
+*  Stellen Sie ergänzende Tools bereit, um den Austausch in der Gruppen zu systematisieren und dokumentieren. Die Gruppen können die Ergebnisse (z.B. Screenshots oder Links zu erstelltem Cluster, Mindmaps) mit in ihre Portfolios übernehmen.
+</p>
+
+Ziel des zweiten Schritts ist die Bestimmung der im Fall berührten (Teil-)Themen sowie der (abstrakten) Problemstellungen (bzw. Herausforderungen, Schwierigkeiten) der beruflichen Praxis, für die der Fall ein exemplarisches Beispiel darstellt.
+
+Diese Lerneinheit findet als **selbstorganisierte Arbeitsphase in Kleingruppen** statt.
+
+Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen gemeinsamen Termin. Finden Sie an diesem in einem Online-Konferenzraum zusammen. Bearbeiten Sie gemeinsam die unten formulierten Arbeitsaufträge. Teilergebnisse und Arbeitsblätter sollten ins Portfolio aufgenommen werden.
+
+-------------------------
+
+**Arbeitsauftrag 1:**
+Bestimmen Sie die  (Teil-)Themen, die Ihr Fallbeispiel berührt.
+Diskutieren Sie, welche allgemeinen Problemstellungen (oder Herausforderungen, Schwierigkeiten) der beruflichen Praxis Ihr Fall exemplarisch darstellt. Distanzieren Sie sich hierbei ein wenig von der konkreten Darstellung Ihres Falls: Schließen Sie vom Konkreten auf das Allgemeine. Notieren Sie Ihre Ergebnisse.
+
+-------------------------
+
+**Arbeitsauftrag 2:**
+Ordnen Sie den identifizierten (Teil-)Themen  Problemstellungen/Herausforderungen zu und überlegen Sie, wie die Problemstellungen entstanden sein könnten. Visualisieren Sie Ihre Ergebnisse in einem Fischgräten-Diagramm (s. Methodenglossar). Versuchen Sie hierbei vor allem auf Ursache-Wirkungszusammenhänge einzugehen.
+
+Sie können für die Visualisierung das Arbeitsblatt Fischgräten-Diagramm nutzen oder eine eigene Darstellung entwickeln.
+
+[Arbeitsblatt Fischgräten Diagramm](https://www.twillo.de/edu-sharing/components/render/1f73910c-adb1-45f3-91a5-474205a8f391/)
+
+## Zwischenschritt: Sprechstunde
+
+**Regieanweisung für Lehrende**
+
+Ziel des Zwischenschritts Sprechstunde ist es, Bedarfe und ggf. Probleme der Studierenden bzw. der Gruppen zu klären. Bei einer Lerngruppe, die bereits Erfahrung mit problembasierten und/oder selbstorganisierten Lernprozessen hat, können Sie auf die obligatorische Sprechstunde der Kleingruppen verzichten. Aufgrund der hohen Relevanz der Problemdefinition für den weiteren Verlauf der Selbstlerneinheit sollten Sie den Studierenden eine Unterstützung oder Beratung bei Bedarf jedoch grundsätzlich anbieten.
+
+**Didaktik**
+
+Diese Zwischenschritt findet als Online-Sprechstunde statt. Die Sprechstunde kann durch Reflexionsfragen oder durch Ergebnispräsentationen strukturiert werden.
+
+**Methoden und Materialien**
+
+Legen Sie im Rahmen der Sprechstunde ein besonderes Augenmerk darauf, ob die Gruppe die übergeordnete Thematik des jeweiligen Fallbeispiels erkannt hat. Heben Sie ggf. die Überlegungen der Gruppe auf die Metaebene: Unterstützen Sie das induktive Schließen der Gruppe von der Fallexemplarik hin zu allgemeinen Themen Ihres Fachbereichs.
+
+Neben den inhaltlichen Schwerpunkten oder bisherigen Teilergebnissen können auch Arbeitsorganisation und Zufriedenheit thematisiert werden:
+
+*  Wie ist der Einstieg in die Siebensprung-Methode gelungen? Wurden die Vorbereitungsphase und die ersten beiden Schritte eingehalten oder wurde anders vorgegangen?
+*  Wie verlief die Arbeit in den Gruppen? Wurden Regeln der Zusammenarbeit vereinbart (Pünktlichkeit, Verlässlichkeit, Arbeitsteilung, Kommunikationsregeln?)
+*  Wie verlief die Fallarbeit bisher? Bedarf es weitere Unterstützung?
+*  Wie zufrieden ist die Gruppe mit den bisherigen Ergebnissen?
+
+**Hilfestellungen**
+
+*  Als Nachbereitung können die Studierende für ihr Portfolio ein Gedächtnisprotokoll von der Sprechstunde anlegen.
+*  Bieten Sie sich als Ansprechpartner:in für aufkommende Probleme in diesem und den folgenden Schritten an.
+
+**Info:**
+
+Ziel dieser Sprechstunde ist es, Sie bestmöglich im Selbstlernprozess zu unterstützen.
+
+Da das induktive Schließen vom Kontext des Einzelfalls auf allgemeine Problemlagen des Themenfelds dieser Lehreinheit sehr herausfordernd sein kann, lassen Sie sich bitte von Ihrer Lehrperson beraten.
+
+Bei dieser Einheit handelt es sich um einen individuellen Sprechstundentermin der Kleingruppen bei der Lehrperson.
+
+Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen Termin mit Ihrer Lehrperson. Finden Sie an diesem in einem Online-Konferenzraum zusammen. Die Sprechstunde wird etwa 30 Minuten in Anspruch nehmen.
+
+--------------------
+
+**Aufgabe: Vorbereitung, Durchführung und Nachbereitung des Beratungsgesprächs**
+
+Stellen Sie Ihrer Lehrperson die Ergebnisse des Schrittes 2: Problemdefinition in aller Kürze vor. Nutzen Sie als Visualisierung hierbei Ihr Fischgräten-Diagramm.
+Besprechen Sie Ihre Ergebnisse anhand folgender Leitfragen:
+
+    Welche zentralen (Teil-)themen des Fallbeispiels haben wir evtl. übersehen?
+    Haben wir uns weit genug von der Spezifik unseres Falls distanziert und übergeordnete Problemstellungen erkannt?
+
+Ergänzen und korrigieren Sie ggf. im Nachgang der Sprechstunde Ihr Fischgräten-Diagramm.
+
+Wichtig:
+Überführen Sie das fertiggestellte Fischgräten-Diagramm in Ihre Portfolios.
