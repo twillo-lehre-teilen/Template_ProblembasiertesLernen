@@ -248,3 +248,72 @@ Erstellen Sie ein Deckblatt für Ihr individuelles Portfolio. Nehmen Sie unbedin
 * Ihre Matrikelnummer
 
 Fügen Sie drei Bilder, Symbole oder Grafiken hinzu, die Ihre Erwartungen an diese Lehrveranstaltung darstellen.
+
+
+## Schritt 1: Problemkonfrontation und Begriffserklärung
+<p>
+**Regieanweisungen für Lehrende**
+
+Ziel der Problemkonfrontation und Begriffsklärung ist ein Einstieg der Studierenden in den komplexen Problemfall. Die Studierenden diskutieren die Inhalte eines Fallbeispiels, klären (begriffliche) Unklarheiten und definieren zentrale Fachtermini.
+
+**Didaktik:**
+
+Die Basis des selbstgesteuerten Lernprozesses der Studierenden bildet eine Problemaufgabe. Im Siebensprung handelt es sich hierbei um ein Fallbeispiel, also die Schilderung einer komplexen, authentischen und praxisrelevanten Problemlage oder Situation. Formulieren Sie in dem u.s. Accordion **mindestens drei unterschiedliche Fallbeispiele**, die die Studierenden auswählen und bearbeiten können. Jedes Fallbeispiel sollte als eigenständige Datei abrufbar sein. Informationen, wie Sie ein Fallbeispiel erstellen, finden Sie z. B. bei Slemeyer, A. (o. J.): Aktivierung von Studierenden durch Problemorientiertes Lernen.
+
+Nach der ersten Textlektüre diskutieren die Studierenden in ihren Kleingruppen die Inhalte des von ihnen gewählte Fallbeispiel anhand von Leitfragen (s. **Arbeitsauftrag 1**).
+
+Im **zweiten Arbeitsauftrag** geht es um die Klärung von Schlüsselworten, die für das Thema des Fallbeispiel zentral sind. Dies können sowohl Termini sein, die den Gegenstand wissenschaftlich näher beschreiben oder auch Wörter, die den Studierenden noch nicht bekannt sind. Die Gruppe sollte am Ende der Phase ein **gemeinsames Verständnis** der zentralen Begriffe erarbeitet haben. Zur Sicherung der Ergebnisse legen die Studierenden gemeinsam ein Glossar an.
+
+**Hilfestellungen**
+
+* Unterstützen Sie das Zeitmanagement der Studierenden ggf. durch die Angabe des Umfangs der Bearbeitung der Aufgabenstellungen.
+* Legen Sie in ihrem LMS-Kurs für jede Gruppe vorab ein Wiki an, in dem die Studierenden ihre Begriffsdefinition eintragen können.
+* Stellen Sie einen Leitfaden zur Recherchearbeit oder Hinweise zu Begriffsannäherung bereit.
+</p>
+
+**Info:**
+
+Ziel des ersten Schrittes ist die Annäherung an Thema und Kontext eines Problemfalls. Im Zentrum steht die Definition zentraler Begriffe, die im Fallbeispiel eine Rolle spielen. Hiermit sind sowohl die konkeret im Problemfall verwendeten Fachwörter, als auch umschriebene Schlüsselworte gemeint.
+
+Diese Lerneinheit findet als selbstorganisierte Arbeitsphase in Kleingruppen statt.
+
+Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen gemeinsamen Termin. Finden Sie an diesem in einem Videokonferenzraum zusammen. Bearbeiten Sie gemeinsam die u. s. Arbeitsaufträge.
+
+--------------------------
+
+**Tipp: **
+Sie sind sich unsicher, welche digitalen Tools für Ihr virtuelles Treffen geeignet sind? Vielleicht kann Ihnen das Methodenglossar bei der Entscheidung helfen.
+
+-----------------
+
+**Arbeitsauftrag 1**
+
+Wählen Sie im Zufallsprinzip eins der Fallbeispiele aus.  Bitte beachten Sie: Das gewählte Fallbeispiel bildet die Basis für alle folgenden Lern- und Arbeitsschritte dieser Lehrveranstaltung.
+
+Lesen Sie sich Ihr Fallbeispiel gründlich durch und klären Sie Verständnisfragen. Besprechen Sie Ihren Fall anhand folgender Leitfragen:
+
+*  Worum geht es in Ihrem Fall?
+*  Was ist der Kontext Ihres Falls?
+*  Welche Informationen (Ort, zeitliche Einordnung, beteiligte Akteure, dargelegte Standpunkte) können Sie dem Fall entnehmen?
+*  Welche Fachbegriffe werden in dem Fall genannt oder umschrieben?
+
+------------------------
+
+**Arbeitsauftrag 2**
+
+Wählen Sie die zehn wichtigsten der genannten Fachbegriffe aus. Recherchieren Sie die in Ihrem Fachbereich geläufigen Definitionen dieser Begriffe. Halten Sie Ihre Ergebnisse in einem gemeinsamen Glossar (vgl. Methodenglossar) fest. Vergessen Sie hierbei nicht, anzugeben, welche Quellen Sie für die Definition der Begriffe verwendet haben.
+Das Glossar erstellen Sie bitte innerhalb eines Wikis (vgl. Methodenglossar), damit Sie zeitgleich an dem Glossar arbeiten und die Änderungen aller Gruppenmitglieder nachvollziehen können.
+
+Besprechen Sie Ihr Glossar in Ihrer Gruppe und nehmen Sie ggf. gemeinsam Korrekturen vor.
+
+----------------------------
+
+**Vorlagen und Arbeitsblätter:**
+* Fallbeispiel 1
+* Fallbeispiel 2
+* Fallbeispiel 3
+
+----------------------------
+
+**Wichtig:**
+Überführen Sie das fertige Glossar in Ihre Portfolios.
