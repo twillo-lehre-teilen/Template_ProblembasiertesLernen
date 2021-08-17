@@ -140,4 +140,111 @@ Wählen Sie einen Termin und virtuellen Raum für die erste Online-Sitzung Ihrer
 | 10   | Begrüßung | **Begrüßen** Sie die Studierenden und leiten Sie ggf. eine kurze Vorstellungsrunde an. |
 | 10   | Information zu Organisation | Legen Sie den Studierenden die Organisation dieser Lehrveranstaltung dar. **Informieren** Sie hierbei über |
 
+[**Vorlage für die Feinplanung:**](https://github.com/pilotta314/Problembasiertes_Lernen/blob/master/docs/thematischerEinstieg/Feinplanung%20Sitzung1%20PbL.docx)
 </p>
+
+**Info:**
+
+Ziel dieser Phase ist ein Einstieg in die Thematik dieser Lehrveranstaltung und eine Vorbereitung auf den selbstgesteuerten Lernprozess innerhalb der Siebensprungmethode.
+
+Diese Lerneinheit findet als **(Online-)Seminar** statt.
+
+**Datum:**
+**Uhrzeit:**
+**Virtueller Raum:**
+
+Das Online-Seminar gliedert sich wie folgt:
+
+1. Organisatorisches
+2. Thematischer Einstieg: Karikatur-Analyse
+3. Input: Grundlagen des Problembasierten Lernens
+4. Übung: Einführung in die Siebensprungmethode
+
+**Arbeitsauftrag 1:**
+
+Finden Sie in Kleingruppen zusammen. Begeben Sie sich mit Ihrer Gruppe in einen eigenen virtuellen Raum. Analysieren Sie nun gemeinsam eine Karikatur. Nutzen Sie hierfür das nebenstehende Arbeitsblatt. Kehren Sie nach etwa 25 Minuten ins Plenum zurück und stellen Sie Ihre Ergebnisse der gesamten Gruppe vor.
+
+[**Vorlage Arbeitsblatt Karikaturanalyse**](https://www.twillo.de/edu-sharing/components/render/8c002542-86b4-4b0d-babd-f07aa84e4c71/)
+
+**Input:** Grundlagen: Problembasiertes Lernen
+
+[**Foliensatz Grundlagen Problembasiertes Lernen**](https://www.twillo.de/edu-sharing/components/render/42e8a9f5-b273-4071-b3cf-caee6933b5dd/)
+
+**Arbeitsauftrag 2:**
+
+Finden Sie erneut in Kleingruppen zusammen. **Bitte wählen Sie Ihre Gruppe mit Bedacht aus, da die Gruppenzusammensetzung im restlichen Verlauf dieser Lehrveranstaltung bestehen bleiben soll.** Begeben Sie sich mit Ihrer Gruppe in einen eigenen virtuellen Raum. Führen Sie nun gemeinsam die Übung zur Problemanalyse anhand eines Beispielfalls durch. Alles, was Sie hierfür benötigen finden Sie auf dem u. s. Arbeitsblatt.
+Kehren Sie nach etwa 40 Minuten ins Plenum zurück und diskutieren Sie Ihre Ergebnisse in der Gesamtgruppe.
+
+[**Arbeitsblatt Problemanalyse**](https://www.twillo.de/edu-sharing/components/render/e1dc0991-5398-47ea-abc4-2639779e907e/)
+
+## Kick-Off: Selbstgesteuertes Lernen im Siebensprungmethode
+<p>
+**Regieanweisungen für Lehrende**
+
+Diese Einheit dient dem Einstieg der Studierenden in die selbstgesteuerte Lern- und Arbeitsphase. Als konkreter Arbeitsauftrag ist hier die Erstellung eines Deckblatts für das im Laufe der Lehrveranstaltung zu entwickelnde Portfolio angelegt.
+
+**Didaktik**
+
+* Sprechen Sie Ihre Studierende in einer E-Mail direkt an und motivieren Sie sie für die erste Selbstlerneinheit. Informieren Sie die Lerngruppe zudem über eine Kontaktmöglichkeiten bei Rückfragen oder Schwierigkeiten, die während dem selbstgesteuerten Lernprozess auftreten.
+* Setzen Sie das Portfolio als Studien- oder Prüfungsleistung, so können auch Erklärungen oder Beispiele als Hilfestellung angeführt werden.
+* Wenn Zwischenergebnisse eingereicht werden, sollten Studierende eine Rückmeldung von Ihnen oder der Gruppe erhalten.
+
+**Methoden & Materialien**
+
+* Nutzen Sie die E-Mail- oder Ankündigungsfunktion des LMS
+* Bieten Sie ein Beispiel-Portfolio zur Veranschaulichung an
+
+**Hilfestellungen**
+
+Wie bereits erwähnt ist in diesem Template als Leistung der Studierenden die Erarbeitung eines Portfolios vorangelegt. Es handelt sich um ein Arbeitsportfolio mit Relfexionseinheiten. Selbstverständlich können Sie die Ausrichtung entlang Ihres eigenen Lehr-Lerneinstiegs anpassen. Einige Anhaltspunkte hierfür finden Sie in dem Methodenglossar.
+
+Dient das Portfolio als Prüfungs- oder Studienleistung, sollten Studierende durch Hinweise über Angaben zur Ausrichtung, Gestaltungskriterien und Strukturierung unterstützt werden. Arnold et al. (2018) verweisen auf einige Risiken, die mit einem unvorbereiteten Einsatz einhergehen könnten: "Es werden wahllos und unreflektiert viel zu viele Artefakte gesammelt (over-acting), oder die Reflexion werden aufgrund der Bewertungssituation über ein sinnvolles Maß intensiviert und ausschließlicch auf die eigene Person bezogen (over-reflecting) " (ebd. 2018: 341) sowie "Auch kann die Reflexion an der Oberfläche stehen bleiben und eher der Selbstdarstellung im Sinne der Selbstvermarktung dienen" oder "in Hinblick auf ausgewählte Artefakte und Reflexionsbeiträge (werden) Fehler und Umwege ausgeblendet und (dienen) nicht als Quelle für weitere Lernimpulse (ebd.).
+
+Offenlegung des Portfolio-Einsatzes
+
+* Informieren Sie die Studierenden über die Ausrichtung des Portfolios (Arbeitsportfolio, Reflexionsportfolio, Präsentationsportfolio, Entwicklungsportfolio etc.)
+* Geben Sie an, ob es sich um eine Studienleistung handelt oder für Prüfungszwecken oder Beurteilungen dient
+* Legen Sie dar, ob und wann die Abgabe des Portfolios erfolgen soll und wer die Lerndokumentation einsehen darf
+
+-------------------------------
+
+</p>
+
+
+Diese Lerneinheit findet im **Selbststudium** statt.
+
+-----------------------------------
+
+Liebe Studierende,
+willkommen in Ihrer selbstgesteuerten Lernphase nach der Siebensprungmethode. Die Selbstlernphase findet in Ihren Kleingruppen sowie in Einzelarbeit statt.
+Alle Informationen, Arbeitsaufträge und Materialien, die Sie im Verlauf der Veranstaltung benötigen, sind in diesem Online-Lernmodul hinterlegt. Bitte gehen Sie die einzelnen Lerneinheiten chronologisch durch: Lesen Sie die Informationen auf jeder Seite sorgfältig und bearbeiten Sie die Arbeitsaufträge nacheinander.
+
+Im Laufe des Kurses erstellen Sie ein Portfolio, in dem Sie Ihren Lernprozess und Ihre Arbeitsergebnisse dokumentieren. Am Ende dieser Lehrveranstaltung geben Sie Ihr Portfolio an die Lehrperson ab.
+
+Sollten Sie innerhalb der selbstgesteuerten Lernphase Fragen haben oder Unterstützung benötigen, gehen Sie bitte auf Ihre Lehrperson zu.
+
+Wir wünschen Ihnen viel Spaß und gutes Gelingen im Lernprozess!
+
+----------------------------------
+
+**Tipp:**
+Das [Arbeitsblatt "Was ist ein Portfolio"](https://www.twillo.de/edu-sharing/components/render/68c581ba-3d5e-42e4-9203-0de8eb03cad1/) gibt Ihnen wichtige Informationen zu Zielen, Inhalten und der Gestaltung eines Portfolios.
+
+**Tipp:**
+Das [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/./) enthält einen Überblick sämtlicher Methoden, die im Rahmen der folgenden Lerneinheiten zum Einsatz kommen. Zudem finden Sie in dem Dokument eine Liste an Software, die Sie bei Bedarf für die Bearbeitung der einzelnen Aufgabenstellungen dieser Veranstaltung nutzen können.
+
+--------------------------------
+
+**Arbeitsauftrag:**
+Erstellen Sie ein Deckblatt für Ihr individuelles Portfolio. Nehmen Sie unbedingt folgende Informationen auf:
+
+* Titel Ihres Portfolios
+* Name und ggf. Logo Ihrer Hochschule, Ihrer Fakultät und Ihres Instituts
+* Studiengangs
+* Fachsemester
+* Titel und Modulzuordnung der Lehrveranstaltung
+* Name der Lehrperson
+* Ihr Name und Ihre Anschrift, E-Mail-Adresse und Telefonnummer
+* Ihre Matrikelnummer
+
+Fügen Sie drei Bilder, Symbole oder Grafiken hinzu, die Ihre Erwartungen an diese Lehrveranstaltung darstellen.
