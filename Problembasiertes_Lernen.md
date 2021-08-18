@@ -21,10 +21,10 @@
 - [Lernmodul](#5)
 
   - [Kick-Off: Selbstgesteuertes Lernen im Siebensprung](#5)
-  - [Phase 1: Problemkonfrontation und Begriffsklärung](#6)
-  - [Phase 2: Problemdefinition](#7)
+  - [Schritt 1: Problemkonfrontation und Begriffsklärung](#6)
+  - [Schritt 2: Problemdefinition](#7)
   - [Zwischenschritt: Sprechstunde](#8)
-  - [Phase 4: Auswahl und Aneignung von Methoden](#9)
+  - [Schritt 3: Problemanalyse und Aktivierung von Vorwissen](#9)
   - [Phase 5: Entwicklung eines Forschungsdesigns](#10)
   - [Phase 6: Durchführung der forschenden Tätigkeit](#11)
   - [Phase 7: Erarbeitung und Präsentation der Ergebnisse](#12)
@@ -405,3 +405,57 @@ Ergänzen und korrigieren Sie ggf. im Nachgang der Sprechstunde Ihr Fischgräten
 
 Wichtig:
 Überführen Sie das fertiggestellte Fischgräten-Diagramm in Ihre Portfolios.
+
+## Schritt 3: Problemanalyse und Aktivierung von Vorwissen
+<p>
+**Regieanweisungen für Lehrende**
+
+Ziel dieses Schritts ist es, dass die Studierenden tiefer in die Fallproblematik und deren Analyse einsteigen. Im Vordergrund steht die Aktivierung bereits vorhandener Wissensbestände. Die in den vorausgegangenen Arbeitsschritten identifizierten Problemstellungen werden auf mögliche Problemursachen hin untersucht. Auch können erste Ideen zu Lösungsansätzen durch Abstraktionen oder Kausalitäten entworfen werden.
+
+**Methoden und Materialien**
+
+Unterstützen Sie die Gruppen ggf. durch die Bereitstellung von Online-Tools oder Vorlagen, die bei der Strukturierung unterstützen.
+
+**Hilfestellungen**
+
+Da das Problembasierte Lernen im Siebensprung eine kollaborative Arbeitsweise verlangt, sollen Sie sich regelmäßig eine Rückmeldung aus den Kleingruppen Gruppe einholen. Hier können Abstimmungs-Tools oder auch die E-Mail-Funktion zum Einsatz kommen. Sollten Probleme aus der Umfrage oder den Antworten hervorgehen, sollten Sie sich dieser annehmen.
+
+*  Erstellen Sie eine Umfrage mit geschlossenen oder offenen Fragen, um die Stimmung der Studierenden im Hinblick auf Teamarbeit und Gruppendynamik abzufragen. (Hier können Umfragefunktion des LMS oder externe Tools verwendet werden.)
+*  Formulieren Sie in einer E-Mail an die Studierenden zwei bis drei Leitfragen zur Teamarbeit und Gruppenstimmung und bitten Sie sie diese zu beantworten.
+</p>
+
+**Info:**
+
+Das Ziel des dritten Schritts ist es, tiefer in die Problemanalyse einzusteigen und Ihr Vorwissen zu den in Schritt 2 identifizierten (Teil-)Themen und Problemstellungen zu aktivieren.
+
+Diese Lerneinheit findet im **Selbststudium** statt. Es ist lediglich eine **kurze Absprache mit Ihrer Kleingruppe** zu Beginn der Leineinheit notwendig (s. Arbeitsauftrag 1)
+
+--------------------------
+
+**Arbeitsauftrag 1:**
+
+Teilen Sie die in Schritt 2 und innerhalb der Sprechstunde identifizierten (Teil-)Themen/Problemstellungen innerhalb Ihrer Kleingruppe untereinander auf.
+
+--------------------------
+
+**Arbeitsauftrag 2:**
+
+Setzen Sie sich in Einzelarbeit mit dem Ihnen zugeteilten (Teil-)Thema/der Problemstellung auseinander. Orientieren Sie sich dabei an folgenden Leitfragen:
+
+*  Was fällt mir spontan zu dem (Teil-)Thema/der Problemstellung ein?
+*  Welche Erfahrungen habe ich in dem Themenbereich bereits gesammelt?
+*  Welche Ideen habe ich - basierend auf meinem bisherigen Wissen - für den Umgang mit dem Thema/der Problemstellung?
+*  Welche Lösungsstrategien fallen mir ein?
+
+Halten Sie Ihre Ergebnisse stichpunktartig auf einer Zettelwand (vgl. Methodenglossar) fest.
+Bilden Sie eine Hypothese, die konkret darauf eingeht, wie sich die Problemstellung (ausgehend von Ihrem Vorwissen) lösen ließe. Notieren Sie zudem Fragen, die sich Ihnen während der Entwicklung Ihrer Hypothese gestellt haben.
+
+Sie können bei der Bearbeitung der Aufgabenstellung das Arbeitsblatt Zettelwand nutzen oder eine eigene Darstellung entwickeln.
+
+[Arbeitsblatt Zettelwand](https://www.twillo.de/edu-sharing/components/render/cb697d8d-54d8-4073-a4b4-ca8035e3b71e/)
+
+----------------------
+
+**Wichtig:**
+
+Überführen Sie die Zettelwand in Ihre Portfolios.
