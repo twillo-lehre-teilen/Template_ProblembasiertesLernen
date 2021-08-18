@@ -751,3 +751,58 @@ Sie möchten mehr über die Relevanz von Reflexion im Lernprozess erfahren oder 
 **Wichtig:**
 
 Überführen Sie das Arbeitsblatt zur Selbstreflexion in Ihr Portfolio
+
+## Abschluss: Fallpräsentation und Diskussion
+<p>
+**Regieanweisungen für Lehrende**
+
+Ziel des Abschlusses Fallpräsentation und Diskussion ist es, dass die Studierenden ihre Ergebnisse im Plenum vorstellen und Lösungsvorschläge mit der Gesamtgruppe diskutieren.
+
+**Ablauf der Online-Sitzung**
+
+Wählen Sie einen Termin und virtuellen Raum für die abschließende Online-Sitzung und tragen Sie diese Information im Kasten unten. Selbstverständlich können Sie anstelle einer Online-Sitzung alternativ auch eine Präsenzveranstaltung planen.
+
+|Zeit|Phasen|didaktische Ausgestaltung|Methoden|Materialien|
+|---------|----------|---------|--------|-------|
+|10|Begrüßung und Stimmungsbild|Lassen Sie zum Einstieg in die Veranstaltung den selbstgesteuerten Lernprozess der Studierenden Revue passieren. Nutzen Sie hierfür eine aktivierende Methode.|||
+|60|Ergebnispräsentation Gruppe 1 Gruppe 2 Gruppe 3|Die Präsentation der Fallbeispiele soll in Eigenregie durch die Studierenden erfolgen. Nehmen Sie die Rolle einer aktiven Zuhörerin/eines aktiven Zuhörers ein und unterstützen Sie bei Bedarf durch Kommentare, Informationen oder Korrekturen.||||
+|20|Evaluation und Abschluss|Die Evaluation der Veranstaltung (s. u. s. Arbeitsauftrag) soll die Lehrveranstaltung abschließen und Ihnen als Hilfestellung zur Verbesserung Ihrer Lehre dienen. Gern können Sie hierfür die u. s. Aufgabenstellung und das Arbeitsblatt zum Ampelfeedback nutzen.  Alternativ besteht selbstverständlich auch die Möglichkeit, das Feedback der Studierenden mündlich im Plenum einzuholen. |||
+</p>
+
+**Info:**
+
+Ziel dieser Einheit ist die Präsentation und Diskussion der Ergebnisse des selbstgesteuerten Lernprozesses in Kleingruppen- und Einzelarbeit nach der Siebensprungmethode.
+
+Diese Lerneinheit findet als Online-Seminar statt .
+
+Datum:
+Uhrzeit:
+virtueller Raum:
+
+Das Online-Seminar gliedert sich wie folgt:
+
+1.  Einstieg: Kurzreflexion des Lernprozesses (Wie es Ihnen in der selbstgesteuerten Arbeitsphase ergangen ist)
+2.  Präsentation der Fallbeispiele und dessen Lösungen durch die Kleingruppen, Diskussion der einzelnen Fälle im Plenum
+3.  Abschluss: Evaluation des Seminars
+
+Die Moderation der Punkte 1 und 3 wird von Ihrer Lehrperson übernommen, für den Punkt 2 sind die einzelnen Kleingruppen zuständig.
+
+-----------------------
+
+**Arbeitsauftrag:**
+
+Reflektieren Sie die Lehrveranstaltung insgesamt und füllen Sie das nebenstehende Arbeitsblatt zum Ampelfeedback aus.
+
+[Arbeitsblatt Ampelfeedback](https://www.twillo.de/edu-sharing/components/render/205f22b7-e325-46bc-bcc1-7876d29d791a/)
+
+------------------------
+
+**Wichtig:**
+
+Überführen Sie das Arbeitsblatt zum Ampelfeedback in Ihr Portfolio.
+
+Nutzen Sie den Input aus der Präsentation und Diskussion Ihres Fallbeispiels, um Ihr Portfolio noch einmal zu korrigieren oder zu ergänzen.
+
+Denken Sie daran, Ihr Portfolio fristgrecht bei Ihrer Lehrperson abzugeben.
+
+**✔️Ende der Lehreinheit - Herzlichen Dank für Ihre aktive Teilnahme!**
