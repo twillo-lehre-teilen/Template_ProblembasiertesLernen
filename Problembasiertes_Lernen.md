@@ -555,3 +555,68 @@ Entwickeln Sie in Einzelarbeit mit einer Softwareanwendung ein interaktives Quiz
 **Wichtig:**
 
 Überführen Sie Ihr Quiz/Rätsel in Ihr E-Portfolios und bringen Sie es zum nächsten Treffen in Ihrer Kleingruppe (Schritt 5: Entwicklung von Lernzielen) mit.
+
+## Schritt 5: Entwicklung von Lernzielen
+<p>
+**Regieanweisungen für Lehrende**
+
+Ziel des Schritts Entwicklung von Lernzielen ist es, dass sich die Studierenden unter Berücksichtigung ihres bereits vorhandenen Wissens sowie der noch offenen Fragen eigenständig Lernziele setzen. Die Identifikation noch vorhandener Wissenslücken muss dabei selbstkritisch vorgenommen werden. Aus den formulierten Lernzielen werden dann Arbeitspakete gebündelt und in der Gruppe aufgeteilt.
+
+**Methoden und Materialien**
+
+Digitale und kollaborative Tools können für die Dokumentation der gemeinsam verabschiedeten Lernziele und Aufgabenpakte sowie deren Verteilung nützlich sein. Des Weiteren können Vorlagen für Arbeitspläne angeboten werden. Zu berücksichtigende Aspekte können sein: Zielformulierung, Identifikation von Wissenslücken, Operationalisierung der Aufgabenpakte, Zuständigkeit.
+
+**Hilfestellungen**
+
+Wenn die Gruppe wenig Erfahrung in der Formulierung von Lernzielen hat, können Leitfragen formuliert werden, die in den weiteren Schritten beantwortet werden sollen.
+</p>
+
+**Info:**
+
+Ziel des fünften Schritts ist es, Wissenslücken zu identifizieren und konkrete Lernziele zu operationalisieren, um diesen begegnen zu können. Durch die eigene Bestimmung der zu erreichenden Lernziele erhalten Sie die Freiheit, eigene Schwerpunkte in der Veranstaltung zu setzen und Ihre Expertise in einem Bereich zu erhöhen, der sie besonders interessiert und motiviert.
+
+Diese Lerneinheit findet als **selbstorganisierte Arbeitsphase in Kleingruppen** statt.
+
+Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen Termin. Finden Sie an diesem in einem Online-Konferenzraum zusammen. Bearbeiten Sie gemeinsam die u. s. Arbeitsaufträge.
+
+-------------------------------
+
+**Arbeitsauftrag 1:**
+
+Rätseln Sie gemeinsam: Stellen Sie nacheinander die in der inhaltlichen Reflexion entwickelten Quizze/Rätsel in der Kleingruppe vor und lassen Sie sie von den anderen Gruppenmitgliedern lösen.
+
+-------------------------------
+
+**Arbeitsauftrag 2:**
+
+Bilanzieren Sie, in welchen Bereichen Ihrer Themen Sie sich bereits gut auskennen und wo Sie Wissenslücken erkennen.
+Gestalten Sie mit einer Softwareanwendung in eine kreative Mind-Map (vgl. Methodenglossar), die darstellt mit welchen Inhalten Sie sich tiefergehend auseinandersetzen müssen, um die (Teil-)themen besser zu verstehen und die Problemstellung (wissenschaftlich) systematisch zu bearbeiten.
+
+--------------------------------
+
+**Arbeitsauftrag 3:**
+
+Formulieren Sie Lernziele für eine weitere Auseinandersetzung mit den in der Mind-Map festgehaltenen, zu vertiefenden Inhalten.
+Entwerfen Sie einen Arbeitsplan, in dem Sie die Lernziele in Form von Lernaufträge (konkreten Arbeitsaufträgen) festhalten. Teilen Sie hierbei auch ein, welches Gruppenmitglied sich mit den einzelnen Lernauftrag beschäftigt und in welchem Zeitraum die Bearbeitung abgeschlossen werden soll.
+
+Sie können bei der Bearbeitung dieser Aufgabenstellung das untenstehende Arbeitsblatt nutzen oder eine eigene Darstellung entwickeln.
+
+[Arbeitsblatt Arbeitsplan](https://www.twillo.de/edu-sharing/components/render/0d7845f6-e82f-49c9-b906-347bd8c5057c/)
+
+-----------------------------------
+
+**Tipp:**
+
+Eine Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender Handlungsanleitung: Meyer Junker, R. (o.J.): Lernziele formulieren leicht gemacht.
+
+--------------------------------
+
+**Tipp:**
+
+Überlegen Sie gut, auf welche Weise Ihre Ergebnisse später präsentiert werden sollen und halten Sie dies in Ihrem Arbeitsplan fest. Bei der Wahl eines geeigneten Formats sind Sie vollkommen frei. Sie können z. B. ein wiss. Poster, eine Präsentation, ein Lernvideo, einen Podcast o.ä. erstellen. Mögliche digitale Tools hierfür finden Sie im Methodenglossar.
+
+----------------------------------
+
+**Wichtig:**
+
+Überführen Sie die Mind-Map und den Arbeitsplan in Ihre Portfolios.
