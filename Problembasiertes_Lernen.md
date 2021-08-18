@@ -650,6 +650,8 @@ Wissen und Informationen können Sie hierbei auf jedwede Weise gewinnen, die Ihn
 
 Dokumentieren Sie Ihre Ergebnisse und halten Sie die während Ihrer Recherche genutzten Quellen in einem Literaturverzeichnis fest. Sie sollten mindestens zehn Quellen angeben, um Ihre Erkenntnisse ausreichend zu belegen. Nutzen Sie die u.s. Vorlage oder entwickeln Sie eine eigene Darstellung für Ihre Literatur.
 
+[Vorlage Kommentierte Literaturliste](https://www.twillo.de/edu-sharing/components/render/64508e37-df25-4b2c-b5a2-f47cf654c930/)
+
 ---------------------------
 
 **Tipp:**
@@ -659,3 +661,93 @@ Wählen Sie für die Dokumentation Ihrer Ergebnisse eine Form, die für die in I
 
 **Wichtig:**
 Überführen Sie die Ergebnisse Ihres Selbststudiums und Ihr Literaturverzeichnis in Ihr Portfolio.
+
+## Schritt 7: Informationsaustausch und Ergebnisaufbereitung
+<p>
+**Regieanweisungen für Lehrende**
+
+Ziel des Schritts *Informationsaustausch und Ergebnisaufbereitung* ist es, dass die Studierenden ihre Ergebnisse in der Gruppe zusammentragen, diskutieren, kritisch reflektieren und bilanzieren. Am Ende stellt die Gruppe fest, inwiefern sich die einzelnen Beiträge zur konkreten Problemlösung eignen. Anschließend entscheiden die Studierenden wie ihr Fall und mögliche Lösungsansätze für die Ergebnispräsentation im Plenum aufbereitet und visualisiert werden sollen und entwickeln eine Präsentation
+
+**Methoden und Materialien**
+
+Im Arbeitsauftrag formulierte Leitfragen unterstützen die Ergebnisaufbereitung und inhaltliche Reflexion.
+</p>
+
+**Info:**
+Ziel des siebten Schrittes ist eine selbstorganisierte Ergebnissicherung und -aufbereitung. Innerhalb Ihrer Kleingruppe diskutieren Sie ihre Rechercheergebnisse zunächst kritisch und ziehen ein Fazit für Ihre Problemlösung(en). Anschließend entwickelt Sie eine Präsentation, um Ihren Kommiliton*innen Ihre Ergebnisse in der abschließenden Sitzung vorzustellen.
+
+Diese Lerneinheit findet als **selbstorganisierte Arbeitsphase in Kleingruppen** statt.
+
+Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen Termin. Finden Sie an diesem in einem Webinarraum zusammen. Bearbeiten Sie gemeinsam die u. s. Arbeitsaufträge.
+
+----------------------------
+
+**Arbeitsauftrag 1:**
+
+**Tauschen Sie sich über die Ergebnisse Ihrer Selbststudienphase aus. Ordnen Sie Ihre Gesamtergebnisse und entwickeln Sie systematische Lösungen für die Fallproblematik.  Orientieren Sie sich dabei an folgenden Leitfragen:**
+
+*  Wenn wir in der Position wären, etwas gegen die Problemstellung zu unternehmen, was würden wir tun? Warum würden wir genau diese Lösung anstreben?
+*  Mit welchen Chancen und Herausforderungen ist unsere Lösungsstrategie verbunden?
+
+----------------------------
+
+**Arbeitsauftrag 2:**
+
+Bereiten Sie eine kurze Präsentation vor, um Ihren Kommiliton*innen im folgenden Webinar die Problematik Ihres Fallbeispiels und Ihre Lösungsstrategie vorzustellen. Nutzen Sie hierbei die in Schritt 5 festgelegte Präsentationsform.
+
+Formulieren Sie eine Diskussionsfrage, die Sie nach Ihrer Präsentation im abschließenden Online-Sitzung "Fallpräsentation und Diskussion" mit Ihren Kommiliton*innen im Plenum behandeln können. Überlegen Sie sich für die Bearbeitung der Diskussionsfrage eine kleine Übung.
+
+**Ihre Fallpräsentation inkl. der anschließenden Übung sollte einen Umfang von 20 Minuten nicht überschreiten.**
+
+---------------------------
+
+**Tipp:**
+
+Motivierende Methoden zur Gestaltung einer Übung finden Sie zum Beispiel bei Reich,  hierfür finden Sie u. a. hier: Reich, K. (2017): Methodenpool.
+
+----------------------------
+
+**Wichtig:**
+
+Überführen Sie Ihre Ergebnispräsentation in Ihre Portfolios.
+
+## Zusätzlicher Schritt: Selbstreflexion
+<p>
+**Regieanweisungen für Lehrende**
+
+Ziel des zusätzlichen Schritts Selbstreflexion ist es, dass Studierende eine Bewertung des eigenen Lernprozesses und der eigenen Arbeitsweise vornehmen.
+
+**Methoden und Materialien**
+
+Die Methode des Siebensprungs erfordert von den Studierenden Verantwortung für ihr eigenes Lernen zu übernehmen. Hier können von der Lehrperson Fragen formuliert werden, die zur Selbstreflexion anregen. Zum Beispiel sind Motivation und Neugier zentrale Gelingensbedingungen. Wie konnten diese in den selbstgesteuerten Lerneinheiten aufrechterhalten werden? Wie gut ist es Ihnen gelungen?
+
+**Hilfestellungen**
+
+Da es sich bei einer Selbstreflexion um eine individuelle und auch persönliche Aufgabe handelt, informieren Sie die Studierenden darüber, dass das Arbeitsblatt zur Selbstreflexion keinen Leistungsnachweis darstellt.
+
+Das Angebot eines freiwilligen Beratungsgesprächs, um den Studierenden bei Bedarf Möglichkeiten aufzuzeigen, wie sie ihre Kompetenzen weiterentwickeln können, ist sinnvoll.
+</p>
+
+**Info:**
+
+Ziel dieses zusätzlichen Schrittes ist eine Reflexion Ihres individuellen Lernprozesses innerhalb des Siebensprungs. Ein besonderer Fokus soll zum einen auf Ihrer Kompetenzentwicklung, zum anderen auf der Bedeutung des Erlernten für Ihre (zukünftige) berufliche Praxis liegen.
+
+Diese **Lerneinheit findet im Selbststudium** statt.
+
+----------------------------
+
+**Arbeitsauftrag:**
+
+Füllen Sie das nebenstehende Arbeitsblatt zur Selbstreflexion aus. Nehmen Sie sich hierfür ruhig etwas Zeit und nutzen Sie die Gelegenheit intensiv um über Ihren Lernprozess und Ihre Kompetenzentwicklung in dieser Lehrveranstaltung nachzudenken.
+
+[Arbeitsblatt Selbstreflexion](https://www.twillo.de/edu-sharing/components/render/be5845f2-1a34-4a52-b899-2eee477890f3/)
+
+---------------------------
+
+**Tipp:**
+
+Sie möchten mehr über die Relevanz von Reflexion im Lernprozess erfahren oder wünschen sich Unterstützung bei der Bearbeitung des Arbeitsauftrags? Lesen Sie die Handreichung des Forschungsprojekts "KomNetz": [Gillen, J./Proß, G. (2005): Kompetenzreflektor](https://www.ifbe.uni-hannover.de/fileadmin/ifbe/publications/Handreichung_Kompetenzreflektor.pdf).
+
+**Wichtig:**
+
+Überführen Sie das Arbeitsblatt zur Selbstreflexion in Ihr Portfolio
