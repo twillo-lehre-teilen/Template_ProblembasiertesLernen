@@ -620,3 +620,42 @@ Eine Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender Handl
 **Wichtig:**
 
 Überführen Sie die Mind-Map und den Arbeitsplan in Ihre Portfolios.
+
+## Schritt 6: Selbststudium (Recherche)
+<p>
+**Regieanweisungen für die Lehrperson:**
+
+Ziel dieses Schritts ist es, dass eine eigenständige wissenschaftliche Recherche der Studierenden. Hierbei sollen Informationen zur Erreichung der selbstformulierten Lernziele und Arbeitspakete gesammelt und diese möglichst nachvollziehbar für die Arbeitsgruppe aufbereitet werden.
+
+**Methoden & Materialien**
+
+Als Lehrperson können Sie das Selbststudium der Studierenden aktiv unterstützen, indem Sie geeignete Lernmaterialien zur Verfügung stellen oder Tipps geben, wo diese zu finden sind. Legen Sie z. B. eine Linksammlung an, in der die Studierenden interessante Open Access Publikationen zu den Themen der Lehrveranstaltung finden können. Eine Vorlage für eine kommentierte Literaturliste könnte die Ergebnispräsentation unterstützen, indem zum einen alle Quellen sauber aufgeführt werden und b) mithilfe der Kommentarfunktion Relevanz und Begründungen der Zielführung festgehalten werden.
+
+**Hilfestellungen**
+
+Erinnern Sie die Studierenden daran, das Portfolio regelmäßig zu pflegen. Auch während der Recherche entwickelte Materialien (z.B. Notizen, Exzerpte) können in das Portfolio einfließen.
+</p>
+
+**Info:**
+Ziel des sechsten Schritts ist eine selbstständige und tiefgehende Auseinandersetzung mit den im vorangegangenen Schritt entwickelten Lernaufträgen.
+
+Diese **Lerneinheit findet im Selbststudium** statt.
+
+-------------------------------
+
+**Arbeitsauftrag:**
+Bearbeiten Sie den Ihnen zugeteilten Lernauftrag in Einzelarbeit innerhalb der durch Ihre Gruppe gesetzten zeitlichen Vorgaben.
+
+Wissen und Informationen können Sie hierbei auf jedwede Weise gewinnen, die Ihnen sinnvoll erscheint. Sie können z. B. ein Interview mit Expert*innen des Themengebiets führen, eine Gruppendiskussion mit Praxisvertreter*innen anregen, eine Recherche im Internet oder in Fachpublikationen durchführen oder einen Prototyp erstellen.
+
+Dokumentieren Sie Ihre Ergebnisse und halten Sie die während Ihrer Recherche genutzten Quellen in einem Literaturverzeichnis fest. Sie sollten mindestens zehn Quellen angeben, um Ihre Erkenntnisse ausreichend zu belegen. Nutzen Sie die u.s. Vorlage oder entwickeln Sie eine eigene Darstellung für Ihre Literatur.
+
+---------------------------
+
+**Tipp:**
+Wählen Sie für die Dokumentation Ihrer Ergebnisse eine Form, die für die in Ihrer Gruppe festgelegte Präsentationsform (s. Schritt 5) angemessen ist.
+
+--------------------------
+
+**Wichtig:**
+Überführen Sie die Ergebnisse Ihres Selbststudiums und Ihr Literaturverzeichnis in Ihr Portfolio.
