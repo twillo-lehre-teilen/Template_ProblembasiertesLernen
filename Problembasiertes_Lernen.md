@@ -25,8 +25,8 @@
   - [Schritt 2: Problemdefinition](#7)
   - [Zwischenschritt: Sprechstunde](#8)
   - [Schritt 3: Problemanalyse und Aktivierung von Vorwissen](#9)
-  - [Phase 5: Entwicklung eines Forschungsdesigns](#10)
-  - [Phase 6: Durchführung der forschenden Tätigkeit](#11)
+  - [Schritt 4: Systematisierung von Erklärungen](#10)
+  - [Zwischenschritt: Inhaltliche Reflexion](#11)
   - [Phase 7: Erarbeitung und Präsentation der Ergebnisse](#12)
   - [Phase 8: Reflexion des gesamten Prozesses](#13)
 
@@ -99,6 +99,8 @@ Eine gute Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender 
     Erstellen Sie zudem eine Veranstaltungsübersicht (oder Semesterfahrplan bzw. Advance Organizer), aus der hervorgeht, welche Schritte bzw. Einheiten der Lehrveranstaltung in a) individueller Arbeit, b) in selbstorganisierten Gruppenarbeit und c) im Plenum erfolgen. Passen sie hierfür bei Bedarf die u.s. Vorlage an.
   </p>
 
+-----------------------------
+
 **Info**
 
 Auf dieser Seite sind alle organisatorischen Informationen zu dieser Lehrveranstaltung für Sie hinterlegt.
@@ -142,6 +144,8 @@ Wählen Sie einen Termin und virtuellen Raum für die erste Online-Sitzung Ihrer
 
 [**Vorlage für die Feinplanung:**](https://github.com/pilotta314/Problembasiertes_Lernen/blob/master/docs/thematischerEinstieg/Feinplanung%20Sitzung1%20PbL.docx)
 </p>
+
+--------------------------
 
 **Info:**
 
@@ -210,6 +214,7 @@ Offenlegung des Portfolio-Einsatzes
 
 </p>
 
+---------------------------------------------
 
 Diese Lerneinheit findet im **Selbststudium** statt.
 
@@ -270,6 +275,8 @@ Im **zweiten Arbeitsauftrag** geht es um die Klärung von Schlüsselworten, die 
 * Legen Sie in ihrem LMS-Kurs für jede Gruppe vorab ein Wiki an, in dem die Studierenden ihre Begriffsdefinition eintragen können.
 * Stellen Sie einen Leitfaden zur Recherchearbeit oder Hinweise zu Begriffsannäherung bereit.
 </p>
+
+----------------------------------
 
 **Info:**
 
@@ -334,6 +341,8 @@ Für die Erarbeitung des Arbeitsauftrages ist als Material lediglich das von der
 *  Stellen Sie ergänzende Tools bereit, um den Austausch in der Gruppen zu systematisieren und dokumentieren. Die Gruppen können die Ergebnisse (z.B. Screenshots oder Links zu erstelltem Cluster, Mindmaps) mit in ihre Portfolios übernehmen.
 </p>
 
+--------------------------------
+
 Ziel des zweiten Schritts ist die Bestimmung der im Fall berührten (Teil-)Themen sowie der (abstrakten) Problemstellungen (bzw. Herausforderungen, Schwierigkeiten) der beruflichen Praxis, für die der Fall ein exemplarisches Beispiel darstellt.
 
 Diese Lerneinheit findet als **selbstorganisierte Arbeitsphase in Kleingruppen** statt.
@@ -356,7 +365,7 @@ Sie können für die Visualisierung das Arbeitsblatt Fischgräten-Diagramm nutze
 [Arbeitsblatt Fischgräten Diagramm](https://www.twillo.de/edu-sharing/components/render/1f73910c-adb1-45f3-91a5-474205a8f391/)
 
 ## Zwischenschritt: Sprechstunde
-
+<p>
 **Regieanweisung für Lehrende**
 
 Ziel des Zwischenschritts Sprechstunde ist es, Bedarfe und ggf. Probleme der Studierenden bzw. der Gruppen zu klären. Bei einer Lerngruppe, die bereits Erfahrung mit problembasierten und/oder selbstorganisierten Lernprozessen hat, können Sie auf die obligatorische Sprechstunde der Kleingruppen verzichten. Aufgrund der hohen Relevanz der Problemdefinition für den weiteren Verlauf der Selbstlerneinheit sollten Sie den Studierenden eine Unterstützung oder Beratung bei Bedarf jedoch grundsätzlich anbieten.
@@ -380,6 +389,9 @@ Neben den inhaltlichen Schwerpunkten oder bisherigen Teilergebnissen können auc
 
 *  Als Nachbereitung können die Studierende für ihr Portfolio ein Gedächtnisprotokoll von der Sprechstunde anlegen.
 *  Bieten Sie sich als Ansprechpartner:in für aufkommende Probleme in diesem und den folgenden Schritten an.
+</p>
+
+--------------------------------
 
 **Info:**
 
@@ -424,6 +436,8 @@ Da das Problembasierte Lernen im Siebensprung eine kollaborative Arbeitsweise ve
 *  Formulieren Sie in einer E-Mail an die Studierenden zwei bis drei Leitfragen zur Teamarbeit und Gruppenstimmung und bitten Sie sie diese zu beantworten.
 </p>
 
+------------------------------------
+
 **Info:**
 
 Das Ziel des dritten Schritts ist es, tiefer in die Problemanalyse einzusteigen und Ihr Vorwissen zu den in Schritt 2 identifizierten (Teil-)Themen und Problemstellungen zu aktivieren.
@@ -459,3 +473,85 @@ Sie können bei der Bearbeitung der Aufgabenstellung das Arbeitsblatt Zettelwand
 **Wichtig:**
 
 Überführen Sie die Zettelwand in Ihre Portfolios.
+
+
+## Schritt 4: Systematisierung von Erklärungen
+<p>
+**Regieanweisungen für Lehrende**
+
+Ziel dieser Einheit ist die Systematisierung der Ergebnisse des vorangehenden Schrittes innerhalb der Kleingruppen. In einem kommunikativen Prozess begründen die Studierenden, welche Lösungsansätze für ihren Problemfall verfolgt oder verworfen werden sollen.
+
+**Methoden und Materialien**
+
+Für die Ergebnisdarstellung soll ein Produkt gemeinsam in der Gruppe erarbeitet werden. Die Studierenden müssen zunächst dafür sensibilisiert werden, dass ihre Problemlösung (die in der aufgestellten Hypothese enthalten sind) zunächst eine bloße Behauptung darstellt. Deshalb bietet sich hier methodisch das Denkwerkzeug der Thesenbildung an: So muss zunächst die Richtigkeit der These (hier Hypothese) in einer anschließenden Diskussion durch Argumentationen und Belege erfolgen. Hierfür wird in diesem Template ein Thesenpapier verwendet. Kurz: Die Studierenden müssen begründet darlegen, warum die Lösung zum Problem passt.
+
+**Hilfestellungen**
+
+In dem Template ist als Hilfestellung zur Erstellung eines Thesenpapiers bereits eine Handreichung verlinkt [https://www.uni-hildesheim.de/media/fb2/medien_theater/Downloads/Leitfaden_zur_Erstellung_eines_Thesenpapiers_1014.pdf](https://www.uni-hildesheim.de/media/fb2/medien_theater/Downloads/Leitfaden_zur_Erstellung_eines_Thesenpapiers_1014.pdf). Bei Bedarf, können Sie jedoch auch selbst ein Handout erstellen, aus dem hervorgeht, was die Studierenden bei der Erstellung eines Thesenpapiers beachten sollten.
+</p>
+
+--------------------------
+
+**Info:**
+
+Ziel des vierten Schrittes ist es, durch Diskussion und Kommunikation Ihr Vorwissen zu systematisieren und zu ordnen.
+
+Diese Lerneinheit findet als **selbstorganisierte Arbeitsphase in Kleingruppen** statt.
+
+Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen gemeinsamen Termin. Finden Sie an diesem in einer einer Videokonferenz zusammen. Bearbeiten Sie gemeinsam den u. s. Arbeitsauftrag.
+
+**Arbeitsauftrag:**
+
+Stellen Sie sich die Ergebnisse Ihrer Zettelwand gegenseitig vor. Gehen Sie hierbei insbesondere auf die aufgestellten Hypothesen zur Falllösung ein.
+
+Diskutieren Sie die Hypothesen im Rahmen einer Pro- und Contra-Debatte kritisch und strukturieren Sie Ihre Ergebnisse in einem gemeinsamen Thesenpapier (s. Methodenglossar).  Halten Sie hierbei mindestens drei Pro- und drei Contra-Argumente pro These fest und erläutern Sie diese kurz und prägnant. Legen Sie für jede Hypothese ein pointiertes Fazit dar, das sich aus Ihrer Argumentation ergibt und Ihre persönliche Perspektive auf die Hypothese begründet.
+Die Diskussion jeder Hypothese sollte etwa 200 Worte umfassen. Für Ihr Thesenpapier können Sie die u.s. Vorlage nutzen, oder eine eigene Darstellung wählen.
+
+[Vorlage Thesenpapier](https://www.twillo.de/edu-sharing/components/render/58ade5cb-41a8-43fa-8562-1d7d74822578/)
+
+--------------------------
+
+**Tipp:**
+
+Eine Handreichung, die Sie bei der Erstellung eines Thesenpapiers unterstützt, finden Sie [hier](https://www.uni-hildesheim.de/media/fb2/medien_theater/Downloads/Leitfaden_zur_Erstellung_eines_Thesenpapiers_1014.pdf).
+
+-----------------------------
+
+**Wichtig:**
+
+Überführen Sie das Thesenpapier in Ihre E-Portfolios.  
+
+## Zwischenschritt: Inhaltliche Reflexion
+<p>
+**Regieanweisungen für Lehrende**
+
+Ziel des Zwischenschritts Inhaltliche Reflexion ist es, Lern- und Behaltensprozesse der Studierenden durch eine interaktive und kreative Gestaltung zu fördern. Hierfür entwickeln die Studierenden in selbstgesteuerter Einzelarbeit ein Quiz, Rätsel oder andere Aufgaben.
+
+**Methoden und Materialien**
+
+Für die Erstellung können Softwareanwendungen vorgegeben werden. Eine Anzahl der Quizfragen sollte vorgegeben werden. Zu allen Fragen, ob Multiple-Choice, Lückentexte oder anderen Formen, sollten von den Studierenden auch Musterlösungen hinterlegt werden.
+
+**Hilfestellungen**
+
+In dem Methodenglossar, finden die Studierenden im Bereich Software auch Tools für die Erstellung von Umfragen oder Wissensabfragen, um Quizze oder Rätsel zu erstellen.
+</p>
+
+----------------------------------
+
+**Info:**
+
+Ziel dieses Zwischenschrittes ist eine Reflexion und Festigung der neu erlernten Inhalte. Die Einheit stellt zudem einen Einstieg in Schritt 5: Entwicklung von Lernzielen dar, da Sie sich neu erlernte Inhalte bewusst machen und somit weitere individuelle Lernbedarfe besser identifiziern können.
+
+Diese **Lerneinheit findet im Selbststudium** statt.
+
+-------------------------------
+
+**Arbeitsauftrag:**
+
+Entwickeln Sie in Einzelarbeit mit einer Softwareanwendung ein interaktives Quiz/Rätsel (vgl. Methodenglossar), das die bisher in der Lerneinheit fokussierten Aspekte aufgreift. Entwickeln Sie mind. drei Fragen/Aufgaben inkl. der entsprechenden Lösungen. Werden Sie dabei kreativ. Die Form des Quizzes oder Rätsels (z. B. Multiple-Choice-Fragen, Lückentext, Schwedenrätsel) liegt ganz bei Ihnen.
+
+-------------------------------------
+
+**Wichtig:**
+
+Überführen Sie Ihr Quiz/Rätsel in Ihr E-Portfolios und bringen Sie es zum nächsten Treffen in Ihrer Kleingruppe (Schritt 5: Entwicklung von Lernzielen) mit.
