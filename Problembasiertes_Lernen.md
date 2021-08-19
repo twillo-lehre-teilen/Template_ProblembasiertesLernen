@@ -99,7 +99,7 @@ Eine gute Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender 
     Erstellen Sie zudem eine Veranstaltungsübersicht (oder Semesterfahrplan bzw. Advance Organizer), aus der hervorgeht, welche Schritte bzw. Einheiten der Lehrveranstaltung in a) individueller Arbeit, b) in selbstorganisierten Gruppenarbeit und c) im Plenum erfolgen. Passen sie hierfür bei Bedarf die u.s. Vorlage an.
   </p>
 
------------------------------
+![Kursübersicht](docs/introbild.svg)<!-- style = "text-align:center;" -->
 
 **Info**
 
@@ -117,7 +117,9 @@ Auf dieser Seite sind alle organisatorischen Informationen zu dieser Lehrveranst
 
 **Kriterien der Bewertung:**
 
-[Hier](https://www.twillo.de/edu-sharing/components/render/7eca4ffb-9d58-4cad-8bee-5a01e85f0a4c/) geht es zur Vorlage für die Veranstaltungsübersicht.
+
+**Vorlage Veranstaltungsübersicht:**
+[![Veranstaltungsübersicht Vorlage](docs/Kursinformationen/VAuebersicht.jpg)](https://www.twillo.de/edu-sharing/components/render/7eca4ffb-9d58-4cad-8bee-5a01e85f0a4c/)
 
 ## Thematischer Einstieg
 <p>
