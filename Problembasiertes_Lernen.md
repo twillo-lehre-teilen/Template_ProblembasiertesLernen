@@ -139,10 +139,92 @@ Wählen Sie einen Termin und virtuellen Raum für die erste Online-Sitzung Ihrer
     Für den inhaltlichen Einstieg nutzen Sie eine Karikatur als Impuls für einen ersten Austausch. Ersetzen Sie den **Platzhalter auf dem u.s. Arbeitsblatt zur Karikaturanalyse** durch eine Karikatur Ihrer Wahl, die thematisch zu Ihrer Veranstaltung passt.
     Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemanalyse** durch ein eignes Fallbeispiel. (Wie Sie ein Fallbeispiel erstellen und worauf Sie dabei achten sollten, finden Sie u.a. bei Slemeyer, A. (o. J.): Aktivierung von Studierenden durch Problemorientiertes Lernen [https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/](https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/)
 
-|Zeit | Phasen    | didaktische Ausgestaltung |
-| ---- | --------- | ------------------------- |
-| 10   | Begrüßung | **Begrüßen** Sie die Studierenden und leiten Sie ggf. eine kurze Vorstellungsrunde an. |
-| 10   | Information zu Organisation | Legen Sie den Studierenden die Organisation dieser Lehrveranstaltung dar. **Informieren** Sie hierbei über |
+<table>
+  <tr>
+    <th>
+      **Zeit**
+    </th>
+    <th>
+      **Phasen**
+    </th>
+    <th>
+      **didaktische Ausgestaltung**
+    </th>
+  </tr>
+  <tr>
+    <td>
+      10
+    </td>
+    <td>
+      Begrüßung
+    </td>
+    <td>
+      **Begrüßen** Sie die Studierenden und leiten Sie ggf. eine kurze Vorstellungsrunde an.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      10
+    </td>
+    <td>
+      Information zu Organisation
+    </td>
+    <td>
+      Legen Sie den Studierenden die Organisation dieser Lehrveranstaltung dar. Informieren Sie hierbei über
+
+      * Organisatorisches (z. B. Studien- und Prüfungsleistungen, Semestertermine, Zeitplanung etc.) und die Struktur der Veranstaltung
+
+      *  Phase 1: (Online-)Sitzung Thematischer Einstieg,
+      *  Phase 2: ausgiebige selbstgesteuerte Lernphase in Kleingruppen mit der Siebensprung-Methode
+      *  Phase 3: (Online-)Sitzung Fallpräsentation und Diskussion
+    </td>
+  </tr>
+  <tr>
+    <td>
+      20
+    </td>
+    <td>
+      Einstieg
+    </td>
+    <td>
+      Teilen Sie die Gruppe nun in **Kleingruppen** ein und entsenden Sie die Kleingruppen zur Bearbeitung des **ersten Arbeitsauftrags** in individuelle virtuelle Räume. Leiten Sie nach der Bearbeitung des Arbeitsauftrags eine Ergebnisvorstellung an.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      20
+    </td>
+    <td>
+      Information
+    </td>
+    <td>
+      Geben Sie den Studierenden einen kurzen **Input zu den Zielen des Problembasierten Lernens** und der Siebensprungmethode. Nutzen Sie hierfür die u. s. Präsentation "Grundlagen: Problembasiertes Lernen". Gern können Sie sie nach Ihren individuellen Bedarfen bearbeiten, ergänzen und weiterentwickeln.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      20
+    </td>
+    <td>
+      Vertiefung
+    </td>
+    <td>
+      Ermöglichen Sie der Gruppe nun, sich in selbstgewählte Kleingruppen einzuteilen. Entsenden Sie die Kleingruppen zur Bearbeitung des **zweiten Arbeitsauftrags** in individuelle virtuelle Räume. Leiten Sie nach der Bearbeitung des Arbeitsauftrags eine Ergebnisdiskussion an.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      10
+    </td>
+    <td>
+      Abschluss
+    </td>
+    <td>
+      Entsenden Sie die Studierenden am Ende der Online-Sitzung in die selbstgesteuerte Lernphase im Siebensprung.
+    </td>
+  </tr>
+</table>
+
 
 [**Vorlage für die Feinplanung:**](https://github.com/pilotta314/Problembasiertes_Lernen/blob/master/docs/thematischerEinstieg/Feinplanung%20Sitzung1%20PbL.docx)
 </p>
