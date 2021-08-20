@@ -225,8 +225,8 @@ Wählen Sie einen Termin und virtuellen Raum für die erste Online-Sitzung Ihrer
   </tr>
 </table>
 
-
-[**Vorlage für die Feinplanung:**](https://github.com/pilotta314/Problembasiertes_Lernen/blob/master/docs/thematischerEinstieg/Feinplanung%20Sitzung1%20PbL.docx)
+**Vorlage Feinplanung**
+[![Vorlage Feinplanung](docs/thematischerEinstieg/vorlageFeinplanung.jpg)](https://github.com/pilotta314/Problembasiertes_Lernen/blob/master/docs/thematischerEinstieg/Feinplanung%20Sitzung1%20PbL.docx)
 </p>
 
 --------------------------
