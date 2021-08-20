@@ -139,8 +139,8 @@ Wählen Sie einen Termin und virtuellen Raum für die erste Online-Sitzung Ihrer
     Für den inhaltlichen Einstieg nutzen Sie eine Karikatur als Impuls für einen ersten Austausch. Ersetzen Sie den **Platzhalter auf dem u.s. Arbeitsblatt zur Karikaturanalyse** durch eine Karikatur Ihrer Wahl, die thematisch zu Ihrer Veranstaltung passt.
     Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemanalyse** durch ein eignes Fallbeispiel. (Wie Sie ein Fallbeispiel erstellen und worauf Sie dabei achten sollten, finden Sie u.a. bei Slemeyer, A. (o. J.): Aktivierung von Studierenden durch Problemorientiertes Lernen [https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/](https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/)
 
-<table>
-  <tr>
+<table >
+  <tr VALIGN=TOP>
     <th>
       **Zeit**
     </th>
@@ -151,25 +151,25 @@ Wählen Sie einen Termin und virtuellen Raum für die erste Online-Sitzung Ihrer
       **didaktische Ausgestaltung**
     </th>
   </tr>
-  <tr>
-    <td>
+  <tr VALIGN=TOP>
+    <td style="padding:20px">
       10
     </td>
-    <td>
+    <td style="padding:20px">
       Begrüßung
     </td>
-    <td>
+    <td style="padding:20px">
       **Begrüßen** Sie die Studierenden und leiten Sie ggf. eine kurze Vorstellungsrunde an.
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr VALIGN=TOP>
+    <td style="padding:20px">
       10
     </td>
-    <td>
+    <td style="padding:20px">
       Information zu Organisation
     </td>
-    <td>
+    <td style="padding:20px">
       Legen Sie den Studierenden die Organisation dieser Lehrveranstaltung dar. Informieren Sie hierbei über
 
       * Organisatorisches (z. B. Studien- und Prüfungsleistungen, Semestertermine, Zeitplanung etc.) und die Struktur der Veranstaltung
@@ -179,47 +179,47 @@ Wählen Sie einen Termin und virtuellen Raum für die erste Online-Sitzung Ihrer
       *  Phase 3: (Online-)Sitzung Fallpräsentation und Diskussion
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr VALIGN=TOP>
+    <td style="padding:20px">
       20
     </td>
-    <td>
+    <td style="padding:20px">
       Einstieg
     </td>
-    <td>
+    <td style="padding:20px">
       Teilen Sie die Gruppe nun in **Kleingruppen** ein und entsenden Sie die Kleingruppen zur Bearbeitung des **ersten Arbeitsauftrags** in individuelle virtuelle Räume. Leiten Sie nach der Bearbeitung des Arbeitsauftrags eine Ergebnisvorstellung an.
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr VALIGN=TOP>
+    <td style="padding:20px">
       20
     </td>
-    <td>
+    <td style="padding:20px">
       Information
     </td>
-    <td>
+    <td style="padding:20px">
       Geben Sie den Studierenden einen kurzen **Input zu den Zielen des Problembasierten Lernens** und der Siebensprungmethode. Nutzen Sie hierfür die u. s. Präsentation "Grundlagen: Problembasiertes Lernen". Gern können Sie sie nach Ihren individuellen Bedarfen bearbeiten, ergänzen und weiterentwickeln.
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr VALIGN=TOP>
+    <td style="padding:20px">
       20
     </td>
-    <td>
+    <td style="padding:20px">
       Vertiefung
     </td>
-    <td>
+    <td style="padding:20px">
       Ermöglichen Sie der Gruppe nun, sich in selbstgewählte Kleingruppen einzuteilen. Entsenden Sie die Kleingruppen zur Bearbeitung des **zweiten Arbeitsauftrags** in individuelle virtuelle Räume. Leiten Sie nach der Bearbeitung des Arbeitsauftrags eine Ergebnisdiskussion an.
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr VALIGN=TOP>
+    <td style="padding:20px">
       10
     </td>
-    <td>
+    <td style="padding:20px">
       Abschluss
     </td>
-    <td>
+    <td style="padding:20px">
       Entsenden Sie die Studierenden am Ende der Online-Sitzung in die selbstgesteuerte Lernphase im Siebensprung.
     </td>
   </tr>
