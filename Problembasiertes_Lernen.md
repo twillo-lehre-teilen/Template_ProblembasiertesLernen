@@ -11,9 +11,9 @@
 
 - [Informationen für Lehrende](#2)
 
-  - [Über diese Kursvorlage](#2)
   - [Was ist Problembasiertes Lernen?](#2)
-  - [Hinweis zur Nutzung](#2)
+  - [Hinweis zur Nutzung des Templates](#2)
+  - [OER Hinweis](#2)
 
 - [Kursinformationen](#3)
 - [Thematischer Einstieg](#4)
@@ -48,7 +48,7 @@ Dieses Template soll Sie bei der Gestaltung von Lerneinheiten nach der Siebenspr
 Selbstverständlich können Sie das Template - im Sinne der Lizenz CC BY (4.0) - bearbeiten und verändern.
 Grundsätzlich ist es möglich, einzelne Phasen der Lehrveranstaltung auszublenden. Um der Siebensprungmethode jedoch gerecht zu werden, sollten Sie beachten, dass jeder Schritt einen essentiellen Bestandteil darstellt und die einzelnen Lehreinheiten aufeinander aufbauen.
 
-**Literatur**
+*Weiterführende Literatur:*
 
 *Hiestand, S./Beutnagel, B./Rühling, S. (2020): Problemorientiertes Lernen in digital unterstützen Lehr-/Lernsettings – das Siebensprung-Konzept am Beispiel der (hochschulischen) Ausbildung. In: Dietl, S. F./Schmidt, H./Weiß, R.Wittwer, W. (Hrsg.): Ausbilder Handbuch. Aufgaben, Konzepte, Praxisbeispiele. Hürth, S. 1-26 (Kap. 6.1.28).*
 
@@ -61,6 +61,12 @@ Grundsätzlich ist es möglich, einzelne Phasen der Lehrveranstaltung auszublend
 *Weber, A. (2004): Problem-Based Learning - Ein Handbuch für die Ausbildung auf der Sekundarstufe II und der Tertiärstufe. Bern.*
 
 *Arnold, P./Kilian, L./Thillosen, A./Zimmer, G. (2018): Handbuch E-Learning (Kompetenzorientiertes Prüfen mit E-Portfolios?). Bielefeld.*
+
+----------------
+
+**Hinweise zur Nutzung des Templates**
+
+Bei diesem didaktischen Template handelt es sich um eine Kursvorlage für die Erstellung einer Lehreinheit nach den Prinzipien des Problembasierten Lernens. Die Vorlage ist mit ihren 13 Lehr-/Lerneinheiten (zwei Online-Sitzungen, eine Sprechstunde, zehn selbstgesteuerte E-Learning-Settings)  als Lehrveranstaltung eines kompletten Semesters angelegt. **Sie ist bereits methodisch aufbereitet, nur wenige Lehr-Lerninhalte müssen noch von Ihnen eingefügt werden.**
 
 **Schritte für eine Nachnutzung:**
 
@@ -94,32 +100,28 @@ Legen Sie hier alle organisatorischen Informationen zu Ihrem Kurs ab. (Fach, The
 
 Eine gute Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender Handlungsanleitung: Meyer Junker, R. (o.J.): Lernziele formulieren leicht gemacht, https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.html (18.12.2020).
 
-    Tragen Sie in das u.s. Feld ein, wie viele Leistungspunkte die Studierenden in Ihrer Veranstaltung erlangen können. Geben Sie an, welche Leistungen von den Studierenden abgelegt werden sollen und beschreiben Sie, worin diese konkret bestehen.
-    Für eine Lerneinheit im Siebensprung bietet es sich an, das im Laufe des Lernprozesses zu erstellende Portfolio als Studienleistung zu setzen. Als Prüfungsleistung kann z.B. eine schriftliche Fallausarbeitung gesetzt werden.
-    Erstellen Sie zudem eine Veranstaltungsübersicht (oder Semesterfahrplan bzw. Advance Organizer), aus der hervorgeht, welche Schritte bzw. Einheiten der Lehrveranstaltung in a) individueller Arbeit, b) in selbstorganisierten Gruppenarbeit und c) im Plenum erfolgen. Passen sie hierfür bei Bedarf die u.s. Vorlage an.
-  </p>
+Tragen Sie in das u.s. Feld ein, wie viele Leistungspunkte die Studierenden in Ihrer Veranstaltung erlangen können. Geben Sie an, welche Leistungen von den Studierenden abgelegt werden sollen und beschreiben Sie, worin diese konkret bestehen.
+Für eine Lerneinheit im Siebensprung bietet es sich an, das im Laufe des Lernprozesses zu erstellende Portfolio als Studienleistung zu setzen. Als Prüfungsleistung kann z.B. eine schriftliche Fallausarbeitung gesetzt werden.
+Erstellen Sie zudem eine Veranstaltungsübersicht (oder Semesterfahrplan bzw. Advance Organizer), aus der hervorgeht, welche Schritte bzw. Einheiten der Lehrveranstaltung in a) individueller Arbeit, b) in selbstorganisierten Gruppenarbeit und c) im Plenum erfolgen. Passen sie hierfür bei Bedarf die u.s. Vorlage an.
+</p>
 
 ![Kursübersicht](docs/introbild.svg)<!-- style = "text-align:center;" -->
+
 
 **Info**
 
 Auf dieser Seite sind alle organisatorischen Informationen zu dieser Lehrveranstaltung für Sie hinterlegt.
 
-**Fach/Disziplin:**
+-----------------
 
-**Leistungspunkte:**
+**Fach/Disziplin:**<br>
+**Leistungspunkte:**<br>
+**Inhalte & Schwerpunkte der Veranstaltung:**<br>
+**Lernziele:**<br>
+**Prüfungsform & Leistungsnachweise:**<br>
+**Kriterien der Bewertung:**<br>
 
-**Inhalte & Schwerpunkte der Veranstaltung:**
-
-**Lernziele:**
-
-**Prüfungsform & Leistungsnachweise:**
-
-**Kriterien der Bewertung:**
-
-
-**Vorlage Veranstaltungsübersicht:**
-[![Veranstaltungsübersicht Vorlage](docs/Kursinformationen/VAuebersicht.jpg)](https://www.twillo.de/edu-sharing/components/render/7eca4ffb-9d58-4cad-8bee-5a01e85f0a4c/)
+- [Veranstaltungsübersicht Vorlage](https://www.twillo.de/edu-sharing/components/render/7eca4ffb-9d58-4cad-8bee-5a01e85f0a4c/)
 
 ## Thematischer Einstieg
 <p>
@@ -135,9 +137,9 @@ Wählen Sie einen Termin und virtuellen Raum für die erste Online-Sitzung Ihrer
 
 **Wichtig:** Sofern Sie die didaktische Struktur des Templates beibehalten wollen, führen Sie folgende Vorbereitungen durch:
 
-    Schaffen Sie vor der Online-Sitzung Zugänge zu ausreichend virtuellen Breakout-Räumen für die geplanten Arbeitsphasen in Kleingruppen.
-    Für den inhaltlichen Einstieg nutzen Sie eine Karikatur als Impuls für einen ersten Austausch. Ersetzen Sie den **Platzhalter auf dem u.s. Arbeitsblatt zur Karikaturanalyse** durch eine Karikatur Ihrer Wahl, die thematisch zu Ihrer Veranstaltung passt.
-    Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemanalyse** durch ein eignes Fallbeispiel. (Wie Sie ein Fallbeispiel erstellen und worauf Sie dabei achten sollten, finden Sie u.a. bei Slemeyer, A. (o. J.): Aktivierung von Studierenden durch Problemorientiertes Lernen [https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/](https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/)
+Schaffen Sie vor der Online-Sitzung Zugänge zu ausreichend virtuellen Breakout-Räumen für die geplanten Arbeitsphasen in Kleingruppen.
+Für den inhaltlichen Einstieg nutzen Sie eine Karikatur als Impuls für einen ersten Austausch. Ersetzen Sie den **Platzhalter auf dem u.s. Arbeitsblatt zur Karikaturanalyse** durch eine Karikatur Ihrer Wahl, die thematisch zu Ihrer Veranstaltung passt.
+Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemanalyse** durch ein eignes Fallbeispiel. (Wie Sie ein Fallbeispiel erstellen und worauf Sie dabei achten sollten, finden Sie u.a. bei Slemeyer, A. (o. J.): Aktivierung von Studierenden durch Problemorientiertes Lernen [https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/](https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/)
 
 <table>
   <tr VALIGN=TOP; style="background-color:#88D2F5">
@@ -225,45 +227,57 @@ Wählen Sie einen Termin und virtuellen Raum für die erste Online-Sitzung Ihrer
   </tr>
 </table>
 
-**Vorlage Feinplanung**
-[![Vorlage Feinplanung](docs/thematischerEinstieg/vorlageFeinplanung.jpg)](https://github.com/pilotta314/Problembasiertes_Lernen/blob/master/docs/thematischerEinstieg/Feinplanung%20Sitzung1%20PbL.docx)
-</p>
+- [Vorlage Feinplanung](https://github.com/pilotta314/Problembasiertes_Lernen/blob/master/docs/thematischerEinstieg/Feinplanung%20Sitzung1%20PbL.docx)
 
 --------------------------
+</p>
 
-**Info:**
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Ziel dieser Phase ist ein Einstieg in die Thematik dieser Lehrveranstaltung und eine Vorbereitung auf den selbstgesteuerten Lernprozess innerhalb der Siebensprungmethode.
+</div>
 
-Ziel dieser Phase ist ein Einstieg in die Thematik dieser Lehrveranstaltung und eine Vorbereitung auf den selbstgesteuerten Lernprozess innerhalb der Siebensprungmethode.
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Diese Lerneinheit findet als **(Online-)Seminar** statt.
 
-Diese Lerneinheit findet als **(Online-)Seminar** statt.
+  **Datum:**<br>
+  **Uhrzeit:**<br>
+  **Virtueller Raum:**
 
-**Datum:**
-**Uhrzeit:**
-**Virtueller Raum:**
+  Das Online-Seminar gliedert sich wie folgt:
 
-Das Online-Seminar gliedert sich wie folgt:
+  1. Organisatorisches
+  2. Thematischer Einstieg: Karikatur-Analyse
+  3. Input: Grundlagen des Problembasierten Lernens
+  4. Übung: Einführung in die Siebensprungmethode
+</div>
 
-1. Organisatorisches
-2. Thematischer Einstieg: Karikatur-Analyse
-3. Input: Grundlagen des Problembasierten Lernens
-4. Übung: Einführung in die Siebensprungmethode
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+✎ **Arbeitsauftrag 1:**
 
-**Arbeitsauftrag 1:**
+  Finden Sie in Kleingruppen zusammen. Begeben Sie sich mit Ihrer Gruppe in einen eigenen virtuellen Raum. Analysieren Sie nun gemeinsam eine Karikatur. Nutzen Sie hierfür das nebenstehende Arbeitsblatt. Kehren Sie nach etwa 25 Minuten ins Plenum zurück und stellen Sie Ihre Ergebnisse der gesamten Gruppe vor.
 
-Finden Sie in Kleingruppen zusammen. Begeben Sie sich mit Ihrer Gruppe in einen eigenen virtuellen Raum. Analysieren Sie nun gemeinsam eine Karikatur. Nutzen Sie hierfür das nebenstehende Arbeitsblatt. Kehren Sie nach etwa 25 Minuten ins Plenum zurück und stellen Sie Ihre Ergebnisse der gesamten Gruppe vor.
+  - [**Vorlage Arbeitsblatt Karikaturanalyse**](https://www.twillo.de/edu-sharing/components/render/8c002542-86b4-4b0d-babd-f07aa84e4c71/)
+</div>
 
-[**Vorlage Arbeitsblatt Karikaturanalyse**](https://www.twillo.de/edu-sharing/components/render/8c002542-86b4-4b0d-babd-f07aa84e4c71/)
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Input:** Grundlagen: Problembasiertes Lernen
 
-**Input:** Grundlagen: Problembasiertes Lernen
+  - [**Foliensatz Grundlagen Problembasiertes Lernen**](https://www.twillo.de/edu-sharing/components/render/42e8a9f5-b273-4071-b3cf-caee6933b5dd/)
+</div>
 
-[**Foliensatz Grundlagen Problembasiertes Lernen**](https://www.twillo.de/edu-sharing/components/render/42e8a9f5-b273-4071-b3cf-caee6933b5dd/)
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+✎ **Arbeitsauftrag 2:**
 
-**Arbeitsauftrag 2:**
+  Finden Sie erneut in Kleingruppen zusammen. **Bitte wählen Sie Ihre Gruppe mit Bedacht aus, da die Gruppenzusammensetzung im restlichen Verlauf dieser Lehrveranstaltung bestehen bleiben soll.** Begeben Sie sich mit Ihrer Gruppe in einen eigenen virtuellen Raum. Führen Sie nun gemeinsam die Übung zur Problemanalyse anhand eines Beispielfalls durch. Alles, was Sie hierfür benötigen finden Sie auf dem u. s. Arbeitsblatt.
+  Kehren Sie nach etwa 40 Minuten ins Plenum zurück und diskutieren Sie Ihre Ergebnisse in der Gesamtgruppe.
 
-Finden Sie erneut in Kleingruppen zusammen. **Bitte wählen Sie Ihre Gruppe mit Bedacht aus, da die Gruppenzusammensetzung im restlichen Verlauf dieser Lehrveranstaltung bestehen bleiben soll.** Begeben Sie sich mit Ihrer Gruppe in einen eigenen virtuellen Raum. Führen Sie nun gemeinsam die Übung zur Problemanalyse anhand eines Beispielfalls durch. Alles, was Sie hierfür benötigen finden Sie auf dem u. s. Arbeitsblatt.
-Kehren Sie nach etwa 40 Minuten ins Plenum zurück und diskutieren Sie Ihre Ergebnisse in der Gesamtgruppe.
-
-[**Arbeitsblatt Problemanalyse**](https://www.twillo.de/edu-sharing/components/render/e1dc0991-5398-47ea-abc4-2639779e907e/)
+  - [**Arbeitsblatt Problemanalyse**](https://www.twillo.de/edu-sharing/components/render/e1dc0991-5398-47ea-abc4-2639779e907e/)
+</div>
 
 ## Kick-Off: Selbstgesteuertes Lernen im Siebensprungmethode
 <p>
@@ -295,36 +309,44 @@ Offenlegung des Portfolio-Einsatzes
 * Legen Sie dar, ob und wann die Abgabe des Portfolios erfolgen soll und wer die Lerndokumentation einsehen darf
 
 -------------------------------
-
 </p>
 
----------------------------------------------
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Diese Lerneinheit findet im Selbststudium statt.**
+</div>
 
-Diese Lerneinheit findet im **Selbststudium** statt.
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Liebe Studierende,
+  willkommen in Ihrer selbstgesteuerten Lernphase nach der Siebensprungmethode. Die Selbstlernphase findet in Ihren Kleingruppen sowie in Einzelarbeit statt.
+  Alle Informationen, Arbeitsaufträge und Materialien, die Sie im Verlauf der Veranstaltung benötigen, sind in diesem Online-Lernmodul hinterlegt. Bitte gehen Sie die einzelnen Lerneinheiten chronologisch durch: Lesen Sie die Informationen auf jeder Seite sorgfältig und bearbeiten Sie die Arbeitsaufträge nacheinander.
 
------------------------------------
+  Im Laufe des Kurses erstellen Sie ein Portfolio, in dem Sie Ihren Lernprozess und Ihre Arbeitsergebnisse dokumentieren. Am Ende dieser Lehrveranstaltung geben Sie Ihr Portfolio an die Lehrperson ab.
 
-Liebe Studierende,
-willkommen in Ihrer selbstgesteuerten Lernphase nach der Siebensprungmethode. Die Selbstlernphase findet in Ihren Kleingruppen sowie in Einzelarbeit statt.
-Alle Informationen, Arbeitsaufträge und Materialien, die Sie im Verlauf der Veranstaltung benötigen, sind in diesem Online-Lernmodul hinterlegt. Bitte gehen Sie die einzelnen Lerneinheiten chronologisch durch: Lesen Sie die Informationen auf jeder Seite sorgfältig und bearbeiten Sie die Arbeitsaufträge nacheinander.
+  Sollten Sie innerhalb der selbstgesteuerten Lernphase Fragen haben oder Unterstützung benötigen, gehen Sie bitte auf Ihre Lehrperson zu.
 
-Im Laufe des Kurses erstellen Sie ein Portfolio, in dem Sie Ihren Lernprozess und Ihre Arbeitsergebnisse dokumentieren. Am Ende dieser Lehrveranstaltung geben Sie Ihr Portfolio an die Lehrperson ab.
+  Wir wünschen Ihnen viel Spaß und gutes Gelingen im Lernprozess!
+</div>
 
-Sollten Sie innerhalb der selbstgesteuerten Lernphase Fragen haben oder Unterstützung benötigen, gehen Sie bitte auf Ihre Lehrperson zu.
+<!--  style = "background-color: #F7D358; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  💡 **Tipp**
 
-Wir wünschen Ihnen viel Spaß und gutes Gelingen im Lernprozess!
+  Das [Arbeitsblatt "Was ist ein Portfolio"](https://www.twillo.de/edu-sharing/components/render/68c581ba-3d5e-42e4-9203-0de8eb03cad1/) gibt Ihnen wichtige Informationen zu Zielen, Inhalten und der Gestaltung eines Portfolios.
+</div>
 
-----------------------------------
+<!--  style = "background-color: #F7D358; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  💡 **Tipp**
 
-**Tipp:**
-Das [Arbeitsblatt "Was ist ein Portfolio"](https://www.twillo.de/edu-sharing/components/render/68c581ba-3d5e-42e4-9203-0de8eb03cad1/) gibt Ihnen wichtige Informationen zu Zielen, Inhalten und der Gestaltung eines Portfolios.
+  Das [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/./) enthält einen Überblick sämtlicher Methoden, die im Rahmen der folgenden Lerneinheiten zum Einsatz kommen. Zudem finden Sie in dem Dokument eine Liste an Software, die Sie bei Bedarf für die Bearbeitung der einzelnen Aufgabenstellungen dieser Veranstaltung nutzen können.
+</div>
 
-**Tipp:**
-Das [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/./) enthält einen Überblick sämtlicher Methoden, die im Rahmen der folgenden Lerneinheiten zum Einsatz kommen. Zudem finden Sie in dem Dokument eine Liste an Software, die Sie bei Bedarf für die Bearbeitung der einzelnen Aufgabenstellungen dieser Veranstaltung nutzen können.
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+✎ **Arbeitsauftrag**
 
---------------------------------
-
-**Arbeitsauftrag:**
 Erstellen Sie ein Deckblatt für Ihr individuelles Portfolio. Nehmen Sie unbedingt folgende Informationen auf:
 
 * Titel Ihres Portfolios
@@ -337,7 +359,7 @@ Erstellen Sie ein Deckblatt für Ihr individuelles Portfolio. Nehmen Sie unbedin
 * Ihre Matrikelnummer
 
 Fügen Sie drei Bilder, Symbole oder Grafiken hinzu, die Ihre Erwartungen an diese Lehrveranstaltung darstellen.
-
+</div>
 
 ## Schritt 1: Problemkonfrontation und Begriffserklärung
 <p>
@@ -358,26 +380,32 @@ Im **zweiten Arbeitsauftrag** geht es um die Klärung von Schlüsselworten, die 
 * Unterstützen Sie das Zeitmanagement der Studierenden ggf. durch die Angabe des Umfangs der Bearbeitung der Aufgabenstellungen.
 * Legen Sie in ihrem LMS-Kurs für jede Gruppe vorab ein Wiki an, in dem die Studierenden ihre Begriffsdefinition eintragen können.
 * Stellen Sie einen Leitfaden zur Recherchearbeit oder Hinweise zu Begriffsannäherung bereit.
-</p>
 
 ----------------------------------
+</p>
 
-**Info:**
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Ziel des ersten Schrittes ist die Annäherung an Thema und Kontext eines Problemfalls. Im Zentrum steht die Definition zentraler Begriffe, die im Fallbeispiel eine Rolle spielen. Hiermit sind sowohl die konkeret im Problemfall verwendeten Fachwörter, als auch umschriebene Schlüsselworte gemeint.
+</div>
 
-Ziel des ersten Schrittes ist die Annäherung an Thema und Kontext eines Problemfalls. Im Zentrum steht die Definition zentraler Begriffe, die im Fallbeispiel eine Rolle spielen. Hiermit sind sowohl die konkeret im Problemfall verwendeten Fachwörter, als auch umschriebene Schlüsselworte gemeint.
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Diese Lerneinheit findet als selbstorganisierte Arbeitsphase in Kleingruppen statt.**
 
-Diese Lerneinheit findet als selbstorganisierte Arbeitsphase in Kleingruppen statt.
+  Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen gemeinsamen Termin. Finden Sie an diesem in einem Videokonferenzraum zusammen. Bearbeiten Sie gemeinsam die u. s. Arbeitsaufträge.
+</div>
 
-Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen gemeinsamen Termin. Finden Sie an diesem in einem Videokonferenzraum zusammen. Bearbeiten Sie gemeinsam die u. s. Arbeitsaufträge.
+<!--  style = "background-color: #F7D358; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  💡 **Tipp**
 
---------------------------
+  Sie sind sich unsicher, welche digitalen Tools für Ihr virtuelles Treffen geeignet sind? Vielleicht kann Ihnen das Methodenglossar bei der Entscheidung helfen.
+</div>
 
-**Tipp: **
-Sie sind sich unsicher, welche digitalen Tools für Ihr virtuelles Treffen geeignet sind? Vielleicht kann Ihnen das Methodenglossar bei der Entscheidung helfen.
-
------------------
-
-**Arbeitsauftrag 1**
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+✎ **Arbeitsauftrag 1**
 
 Wählen Sie im Zufallsprinzip eins der Fallbeispiele aus.  Bitte beachten Sie: Das gewählte Fallbeispiel bildet die Basis für alle folgenden Lern- und Arbeitsschritte dieser Lehrveranstaltung.
 
@@ -387,27 +415,32 @@ Lesen Sie sich Ihr Fallbeispiel gründlich durch und klären Sie Verständnisfra
 *  Was ist der Kontext Ihres Falls?
 *  Welche Informationen (Ort, zeitliche Einordnung, beteiligte Akteure, dargelegte Standpunkte) können Sie dem Fall entnehmen?
 *  Welche Fachbegriffe werden in dem Fall genannt oder umschrieben?
+</div>
 
-------------------------
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ✎ **Arbeitsauftrag 2**
 
-**Arbeitsauftrag 2**
+  Wählen Sie die zehn wichtigsten der genannten Fachbegriffe aus. Recherchieren Sie die in Ihrem Fachbereich geläufigen Definitionen dieser Begriffe. Halten Sie Ihre Ergebnisse in einem gemeinsamen Glossar (vgl. Methodenglossar) fest. Vergessen Sie hierbei nicht, anzugeben, welche Quellen Sie für die Definition der Begriffe verwendet haben.
+  Das Glossar erstellen Sie bitte innerhalb eines Wikis (vgl. Methodenglossar), damit Sie zeitgleich an dem Glossar arbeiten und die Änderungen aller Gruppenmitglieder nachvollziehen können.
 
-Wählen Sie die zehn wichtigsten der genannten Fachbegriffe aus. Recherchieren Sie die in Ihrem Fachbereich geläufigen Definitionen dieser Begriffe. Halten Sie Ihre Ergebnisse in einem gemeinsamen Glossar (vgl. Methodenglossar) fest. Vergessen Sie hierbei nicht, anzugeben, welche Quellen Sie für die Definition der Begriffe verwendet haben.
-Das Glossar erstellen Sie bitte innerhalb eines Wikis (vgl. Methodenglossar), damit Sie zeitgleich an dem Glossar arbeiten und die Änderungen aller Gruppenmitglieder nachvollziehen können.
+  Besprechen Sie Ihr Glossar in Ihrer Gruppe und nehmen Sie ggf. gemeinsam Korrekturen vor.
+</div>
 
-Besprechen Sie Ihr Glossar in Ihrer Gruppe und nehmen Sie ggf. gemeinsam Korrekturen vor.
-
-----------------------------
-
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
 **Vorlagen und Arbeitsblätter:**
+
 * Fallbeispiel 1
 * Fallbeispiel 2
 * Fallbeispiel 3
+</div>
 
-----------------------------
-
-**Wichtig:**
-Überführen Sie das fertige Glossar in Ihre Portfolios.
+<!--  style = "background-color: #F25B68; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ⚠️ **Wichtig:**
+  Überführen Sie das fertige Glossar in Ihre Portfolios.
+</div>
 
 ## Schritt 2: Problemdefinition
 <p>
@@ -423,30 +456,40 @@ Für die Erarbeitung des Arbeitsauftrages ist als Material lediglich das von der
 
 *  Bieten Sie jeder Gruppe für die Zusammenarbeit a) einen Konferenzraum an
 *  Stellen Sie ergänzende Tools bereit, um den Austausch in der Gruppen zu systematisieren und dokumentieren. Die Gruppen können die Ergebnisse (z.B. Screenshots oder Links zu erstelltem Cluster, Mindmaps) mit in ihre Portfolios übernehmen.
-</p>
 
 --------------------------------
+</p>
 
-Ziel des zweiten Schritts ist die Bestimmung der im Fall berührten (Teil-)Themen sowie der (abstrakten) Problemstellungen (bzw. Herausforderungen, Schwierigkeiten) der beruflichen Praxis, für die der Fall ein exemplarisches Beispiel darstellt.
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Ziel des zweiten Schritts ist die Bestimmung der im Fall berührten (Teil-)Themen sowie der (abstrakten) Problemstellungen (bzw. Herausforderungen, Schwierigkeiten) der beruflichen Praxis, für die der Fall ein exemplarisches Beispiel darstellt.
+</div>
 
-Diese Lerneinheit findet als **selbstorganisierte Arbeitsphase in Kleingruppen** statt.
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Diese Lerneinheit findet als selbstorganisierte Arbeitsphase in Kleingruppen statt.**
 
-Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen gemeinsamen Termin. Finden Sie an diesem in einem Online-Konferenzraum zusammen. Bearbeiten Sie gemeinsam die unten formulierten Arbeitsaufträge. Teilergebnisse und Arbeitsblätter sollten ins Portfolio aufgenommen werden.
+  Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen gemeinsamen Termin. Finden Sie an diesem in einem Online-Konferenzraum zusammen. Bearbeiten Sie gemeinsam die unten formulierten Arbeitsaufträge. Teilergebnisse und Arbeitsblätter sollten ins Portfolio aufgenommen werden.
+</div>
 
--------------------------
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ✎ **Arbeitsauftrag 1**
 
-**Arbeitsauftrag 1:**
-Bestimmen Sie die  (Teil-)Themen, die Ihr Fallbeispiel berührt.
-Diskutieren Sie, welche allgemeinen Problemstellungen (oder Herausforderungen, Schwierigkeiten) der beruflichen Praxis Ihr Fall exemplarisch darstellt. Distanzieren Sie sich hierbei ein wenig von der konkreten Darstellung Ihres Falls: Schließen Sie vom Konkreten auf das Allgemeine. Notieren Sie Ihre Ergebnisse.
+  Bestimmen Sie die  (Teil-)Themen, die Ihr Fallbeispiel berührt.
+  Diskutieren Sie, welche allgemeinen Problemstellungen (oder Herausforderungen, Schwierigkeiten) der beruflichen Praxis Ihr Fall exemplarisch darstellt. Distanzieren Sie sich hierbei ein wenig von der konkreten Darstellung Ihres Falls: Schließen Sie vom Konkreten auf das Allgemeine. Notieren Sie Ihre Ergebnisse.
+</div>
 
--------------------------
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ✎ **Arbeitsauftrag 2**
 
-**Arbeitsauftrag 2:**
-Ordnen Sie den identifizierten (Teil-)Themen  Problemstellungen/Herausforderungen zu und überlegen Sie, wie die Problemstellungen entstanden sein könnten. Visualisieren Sie Ihre Ergebnisse in einem Fischgräten-Diagramm (s. Methodenglossar). Versuchen Sie hierbei vor allem auf Ursache-Wirkungszusammenhänge einzugehen.
+  Ordnen Sie den identifizierten (Teil-)Themen  Problemstellungen/Herausforderungen zu und überlegen Sie, wie die Problemstellungen entstanden sein könnten. Visualisieren Sie Ihre Ergebnisse in einem Fischgräten-Diagramm (s. Methodenglossar). Versuchen Sie hierbei vor allem auf Ursache-Wirkungszusammenhänge einzugehen.
 
-Sie können für die Visualisierung das Arbeitsblatt Fischgräten-Diagramm nutzen oder eine eigene Darstellung entwickeln.
+  Sie können für die Visualisierung das Arbeitsblatt Fischgräten-Diagramm nutzen oder eine eigene Darstellung entwickeln.
 
-[Arbeitsblatt Fischgräten Diagramm](https://www.twillo.de/edu-sharing/components/render/1f73910c-adb1-45f3-91a5-474205a8f391/)
+  - [Arbeitsblatt Fischgräten Diagramm](https://www.twillo.de/edu-sharing/components/render/1f73910c-adb1-45f3-91a5-474205a8f391/)
+</div>
 
 ## Zwischenschritt: Sprechstunde
 <p>
@@ -473,34 +516,42 @@ Neben den inhaltlichen Schwerpunkten oder bisherigen Teilergebnissen können auc
 
 *  Als Nachbereitung können die Studierende für ihr Portfolio ein Gedächtnisprotokoll von der Sprechstunde anlegen.
 *  Bieten Sie sich als Ansprechpartner:in für aufkommende Probleme in diesem und den folgenden Schritten an.
-</p>
 
 --------------------------------
+</p>
 
-**Info:**
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Ziel dieser Sprechstunde ist es, Sie bestmöglich im Selbstlernprozess zu unterstützen.
+</div>
 
-Ziel dieser Sprechstunde ist es, Sie bestmöglich im Selbstlernprozess zu unterstützen.
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Da das induktive Schließen vom Kontext des Einzelfalls auf allgemeine Problemlagen des Themenfelds dieser Lehreinheit sehr herausfordernd sein kann, lassen Sie sich bitte von Ihrer Lehrperson beraten.
 
-Da das induktive Schließen vom Kontext des Einzelfalls auf allgemeine Problemlagen des Themenfelds dieser Lehreinheit sehr herausfordernd sein kann, lassen Sie sich bitte von Ihrer Lehrperson beraten.
+  **Bei dieser Einheit handelt es sich um einen individuellen Sprechstundentermin der Kleingruppen bei der Lehrperson**.
 
-Bei dieser Einheit handelt es sich um einen individuellen Sprechstundentermin der Kleingruppen bei der Lehrperson.
+  Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen Termin mit Ihrer Lehrperson. Finden Sie an diesem in einem Online-Konferenzraum zusammen. Die Sprechstunde wird etwa 30 Minuten in Anspruch nehmen.
+</div>
 
-Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen Termin mit Ihrer Lehrperson. Finden Sie an diesem in einem Online-Konferenzraum zusammen. Die Sprechstunde wird etwa 30 Minuten in Anspruch nehmen.
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ✎ **Aufgabe: Vorbereitung, Durchführung und Nachbereitung des Beratungsgesprächs**
 
---------------------
+  Stellen Sie Ihrer Lehrperson die Ergebnisse des Schrittes 2: Problemdefinition in aller Kürze vor. Nutzen Sie als Visualisierung hierbei Ihr Fischgräten-Diagramm.
+  Besprechen Sie Ihre Ergebnisse anhand folgender Leitfragen:
 
-**Aufgabe: Vorbereitung, Durchführung und Nachbereitung des Beratungsgesprächs**
+  Welche zentralen (Teil-)themen des Fallbeispiels haben wir evtl. übersehen?
+  Haben wir uns weit genug von der Spezifik unseres Falls distanziert und übergeordnete Problemstellungen erkannt?
 
-Stellen Sie Ihrer Lehrperson die Ergebnisse des Schrittes 2: Problemdefinition in aller Kürze vor. Nutzen Sie als Visualisierung hierbei Ihr Fischgräten-Diagramm.
-Besprechen Sie Ihre Ergebnisse anhand folgender Leitfragen:
+  Ergänzen und korrigieren Sie ggf. im Nachgang der Sprechstunde Ihr Fischgräten-Diagramm.
+</div>
 
-    Welche zentralen (Teil-)themen des Fallbeispiels haben wir evtl. übersehen?
-    Haben wir uns weit genug von der Spezifik unseres Falls distanziert und übergeordnete Problemstellungen erkannt?
-
-Ergänzen und korrigieren Sie ggf. im Nachgang der Sprechstunde Ihr Fischgräten-Diagramm.
-
-Wichtig:
-Überführen Sie das fertiggestellte Fischgräten-Diagramm in Ihre Portfolios.
+<!--  style = "background-color: #F25B68; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ⚠️ **Wichtig:**
+  Überführen Sie das fertiggestellte Fischgräten-Diagramm in Ihre Portfolios.
+</div>
 
 ## Schritt 3: Problemanalyse und Aktivierung von Vorwissen
 <p>
@@ -518,25 +569,30 @@ Da das Problembasierte Lernen im Siebensprung eine kollaborative Arbeitsweise ve
 
 *  Erstellen Sie eine Umfrage mit geschlossenen oder offenen Fragen, um die Stimmung der Studierenden im Hinblick auf Teamarbeit und Gruppendynamik abzufragen. (Hier können Umfragefunktion des LMS oder externe Tools verwendet werden.)
 *  Formulieren Sie in einer E-Mail an die Studierenden zwei bis drei Leitfragen zur Teamarbeit und Gruppenstimmung und bitten Sie sie diese zu beantworten.
-</p>
 
 ------------------------------------
+</p>
 
-**Info:**
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Das Ziel des dritten Schritts ist es, tiefer in die Problemanalyse einzusteigen und Ihr Vorwissen zu den in Schritt 2 identifizierten (Teil-)Themen und Problemstellungen zu aktivieren.
+</div>
 
-Das Ziel des dritten Schritts ist es, tiefer in die Problemanalyse einzusteigen und Ihr Vorwissen zu den in Schritt 2 identifizierten (Teil-)Themen und Problemstellungen zu aktivieren.
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Diese Lerneinheit findet im **Selbststudium** statt. Es ist lediglich eine **kurze Absprache mit Ihrer Kleingruppe** zu Beginn der Leineinheit notwendig (s. Arbeitsauftrag 1)
+</div>
 
-Diese Lerneinheit findet im **Selbststudium** statt. Es ist lediglich eine **kurze Absprache mit Ihrer Kleingruppe** zu Beginn der Leineinheit notwendig (s. Arbeitsauftrag 1)
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ✎ **Arbeitsauftrag 1**
 
---------------------------
+  Teilen Sie die in Schritt 2 und innerhalb der Sprechstunde identifizierten (Teil-)Themen/Problemstellungen innerhalb Ihrer Kleingruppe untereinander auf.
+</div>
 
-**Arbeitsauftrag 1:**
-
-Teilen Sie die in Schritt 2 und innerhalb der Sprechstunde identifizierten (Teil-)Themen/Problemstellungen innerhalb Ihrer Kleingruppe untereinander auf.
-
---------------------------
-
-**Arbeitsauftrag 2:**
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+✎ **Arbeitsauftrag 2**
 
 Setzen Sie sich in Einzelarbeit mit dem Ihnen zugeteilten (Teil-)Thema/der Problemstellung auseinander. Orientieren Sie sich dabei an folgenden Leitfragen:
 
@@ -550,14 +606,14 @@ Bilden Sie eine Hypothese, die konkret darauf eingeht, wie sich die Problemstell
 
 Sie können bei der Bearbeitung der Aufgabenstellung das Arbeitsblatt Zettelwand nutzen oder eine eigene Darstellung entwickeln.
 
-[Arbeitsblatt Zettelwand](https://www.twillo.de/edu-sharing/components/render/cb697d8d-54d8-4073-a4b4-ca8035e3b71e/)
+- [Arbeitsblatt Zettelwand](https://www.twillo.de/edu-sharing/components/render/cb697d8d-54d8-4073-a4b4-ca8035e3b71e/)
+</div>
 
-----------------------
-
-**Wichtig:**
-
-Überführen Sie die Zettelwand in Ihre Portfolios.
-
+<!--  style = "background-color: #F25B68; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ⚠️ **Wichtig:**
+  Überführen Sie die Zettelwand in Ihre Portfolios.
+</div>
 
 ## Schritt 4: Systematisierung von Erklärungen
 <p>
@@ -572,38 +628,46 @@ Für die Ergebnisdarstellung soll ein Produkt gemeinsam in der Gruppe erarbeitet
 **Hilfestellungen**
 
 In dem Template ist als Hilfestellung zur Erstellung eines Thesenpapiers bereits eine Handreichung verlinkt [https://www.uni-hildesheim.de/media/fb2/medien_theater/Downloads/Leitfaden_zur_Erstellung_eines_Thesenpapiers_1014.pdf](https://www.uni-hildesheim.de/media/fb2/medien_theater/Downloads/Leitfaden_zur_Erstellung_eines_Thesenpapiers_1014.pdf). Bei Bedarf, können Sie jedoch auch selbst ein Handout erstellen, aus dem hervorgeht, was die Studierenden bei der Erstellung eines Thesenpapiers beachten sollten.
+
+--------------------------
 </p>
 
---------------------------
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Ziel des vierten Schrittes ist es, durch Diskussion und Kommunikation Ihr Vorwissen zu systematisieren und zu ordnen.
+</div>
 
-**Info:**
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Diese Lerneinheit findet als selbstorganisierte Arbeitsphase in Kleingruppen statt.**
 
-Ziel des vierten Schrittes ist es, durch Diskussion und Kommunikation Ihr Vorwissen zu systematisieren und zu ordnen.
+  Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen gemeinsamen Termin. Finden Sie an diesem in einer einer Videokonferenz zusammen. Bearbeiten Sie gemeinsam den u. s. Arbeitsauftrag.
+</div>
 
-Diese Lerneinheit findet als **selbstorganisierte Arbeitsphase in Kleingruppen** statt.
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ✎ **Arbeitsauftrag**
 
-Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen gemeinsamen Termin. Finden Sie an diesem in einer einer Videokonferenz zusammen. Bearbeiten Sie gemeinsam den u. s. Arbeitsauftrag.
+  Stellen Sie sich die Ergebnisse Ihrer Zettelwand gegenseitig vor. Gehen Sie hierbei insbesondere auf die aufgestellten Hypothesen zur Falllösung ein.
 
-**Arbeitsauftrag:**
+  Diskutieren Sie die Hypothesen im Rahmen einer Pro- und Contra-Debatte kritisch und strukturieren Sie Ihre Ergebnisse in einem gemeinsamen Thesenpapier (s. Methodenglossar).  Halten Sie hierbei mindestens drei Pro- und drei Contra-Argumente pro These fest und erläutern Sie diese kurz und prägnant. Legen Sie für jede Hypothese ein pointiertes Fazit dar, das sich aus Ihrer Argumentation ergibt und Ihre persönliche Perspektive auf die Hypothese begründet.
+  Die Diskussion jeder Hypothese sollte etwa 200 Worte umfassen. Für Ihr Thesenpapier können Sie die u.s. Vorlage nutzen, oder eine eigene Darstellung wählen.
 
-Stellen Sie sich die Ergebnisse Ihrer Zettelwand gegenseitig vor. Gehen Sie hierbei insbesondere auf die aufgestellten Hypothesen zur Falllösung ein.
+  - [Vorlage Thesenpapier](https://www.twillo.de/edu-sharing/components/render/58ade5cb-41a8-43fa-8562-1d7d74822578/)
+</div>
 
-Diskutieren Sie die Hypothesen im Rahmen einer Pro- und Contra-Debatte kritisch und strukturieren Sie Ihre Ergebnisse in einem gemeinsamen Thesenpapier (s. Methodenglossar).  Halten Sie hierbei mindestens drei Pro- und drei Contra-Argumente pro These fest und erläutern Sie diese kurz und prägnant. Legen Sie für jede Hypothese ein pointiertes Fazit dar, das sich aus Ihrer Argumentation ergibt und Ihre persönliche Perspektive auf die Hypothese begründet.
-Die Diskussion jeder Hypothese sollte etwa 200 Worte umfassen. Für Ihr Thesenpapier können Sie die u.s. Vorlage nutzen, oder eine eigene Darstellung wählen.
+<!--  style = "background-color: #F7D358; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  💡 **Tipp**
 
-[Vorlage Thesenpapier](https://www.twillo.de/edu-sharing/components/render/58ade5cb-41a8-43fa-8562-1d7d74822578/)
+  Eine Handreichung, die Sie bei der Erstellung eines Thesenpapiers unterstützt, finden Sie [hier](https://www.uni-hildesheim.de/media/fb2/medien_theater/Downloads/Leitfaden_zur_Erstellung_eines_Thesenpapiers_1014.pdf).
+</div>
 
---------------------------
-
-**Tipp:**
-
-Eine Handreichung, die Sie bei der Erstellung eines Thesenpapiers unterstützt, finden Sie [hier](https://www.uni-hildesheim.de/media/fb2/medien_theater/Downloads/Leitfaden_zur_Erstellung_eines_Thesenpapiers_1014.pdf).
-
------------------------------
-
-**Wichtig:**
-
-Überführen Sie das Thesenpapier in Ihre E-Portfolios.  
+<!--  style = "background-color: #F25B68; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ⚠️ **Wichtig:**
+  Überführen Sie das Thesenpapier in Ihre E-Portfolios.  
+</div>
 
 ## Zwischenschritt: Inhaltliche Reflexion
 <p>
@@ -618,27 +682,33 @@ Für die Erstellung können Softwareanwendungen vorgegeben werden. Eine Anzahl d
 **Hilfestellungen**
 
 In dem Methodenglossar, finden die Studierenden im Bereich Software auch Tools für die Erstellung von Umfragen oder Wissensabfragen, um Quizze oder Rätsel zu erstellen.
+
+------------------------------
 </p>
 
-----------------------------------
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Ziel dieses Zwischenschrittes ist eine Reflexion und Festigung der neu erlernten Inhalte. Die Einheit stellt zudem einen Einstieg in Schritt 5: Entwicklung von Lernzielen dar, da Sie sich neu erlernte Inhalte bewusst machen und somit weitere individuelle Lernbedarfe besser identifiziern können.
+</div>
 
-**Info:**
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Diese Lerneinheit findet im Selbststudium statt.**
+</div>
 
-Ziel dieses Zwischenschrittes ist eine Reflexion und Festigung der neu erlernten Inhalte. Die Einheit stellt zudem einen Einstieg in Schritt 5: Entwicklung von Lernzielen dar, da Sie sich neu erlernte Inhalte bewusst machen und somit weitere individuelle Lernbedarfe besser identifiziern können.
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ✎ **Arbeitsauftrag**
 
-Diese **Lerneinheit findet im Selbststudium** statt.
+  Entwickeln Sie in Einzelarbeit mit einer Softwareanwendung ein interaktives Quiz/Rätsel (vgl. Methodenglossar), das die bisher in der Lerneinheit fokussierten Aspekte aufgreift. Entwickeln Sie mind. drei Fragen/Aufgaben inkl. der entsprechenden Lösungen. Werden Sie dabei kreativ. Die Form des Quizzes oder Rätsels (z. B. Multiple-Choice-Fragen, Lückentext, Schwedenrätsel) liegt ganz bei Ihnen.
+</div>
 
--------------------------------
+<!--  style = "background-color: #F25B68; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ⚠️ **Wichtig:**
 
-**Arbeitsauftrag:**
-
-Entwickeln Sie in Einzelarbeit mit einer Softwareanwendung ein interaktives Quiz/Rätsel (vgl. Methodenglossar), das die bisher in der Lerneinheit fokussierten Aspekte aufgreift. Entwickeln Sie mind. drei Fragen/Aufgaben inkl. der entsprechenden Lösungen. Werden Sie dabei kreativ. Die Form des Quizzes oder Rätsels (z. B. Multiple-Choice-Fragen, Lückentext, Schwedenrätsel) liegt ganz bei Ihnen.
-
--------------------------------------
-
-**Wichtig:**
-
-Überführen Sie Ihr Quiz/Rätsel in Ihr E-Portfolios und bringen Sie es zum nächsten Treffen in Ihrer Kleingruppe (Schritt 5: Entwicklung von Lernzielen) mit.
+  Überführen Sie Ihr Quiz/Rätsel in Ihr E-Portfolios und bringen Sie es zum nächsten Treffen in Ihrer Kleingruppe (Schritt 5: Entwicklung von Lernzielen) mit.
+</div>
 
 ## Schritt 5: Entwicklung von Lernzielen
 <p>
@@ -653,57 +723,68 @@ Digitale und kollaborative Tools können für die Dokumentation der gemeinsam ve
 **Hilfestellungen**
 
 Wenn die Gruppe wenig Erfahrung in der Formulierung von Lernzielen hat, können Leitfragen formuliert werden, die in den weiteren Schritten beantwortet werden sollen.
+
+-----------------------------
 </p>
 
-**Info:**
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Ziel des fünften Schritts ist es, Wissenslücken zu identifizieren und konkrete Lernziele zu operationalisieren, um diesen begegnen zu können. Durch die eigene Bestimmung der zu erreichenden Lernziele erhalten Sie die Freiheit, eigene Schwerpunkte in der Veranstaltung zu setzen und Ihre Expertise in einem Bereich zu erhöhen, der sie besonders interessiert und motiviert.
+</div>
 
-Ziel des fünften Schritts ist es, Wissenslücken zu identifizieren und konkrete Lernziele zu operationalisieren, um diesen begegnen zu können. Durch die eigene Bestimmung der zu erreichenden Lernziele erhalten Sie die Freiheit, eigene Schwerpunkte in der Veranstaltung zu setzen und Ihre Expertise in einem Bereich zu erhöhen, der sie besonders interessiert und motiviert.
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Diese Lerneinheit findet als selbstorganisierte Arbeitsphase in Kleingruppen statt.**
 
-Diese Lerneinheit findet als **selbstorganisierte Arbeitsphase in Kleingruppen** statt.
+  Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen Termin. Finden Sie an diesem in einem Online-Konferenzraum zusammen. Bearbeiten Sie gemeinsam die u. s. Arbeitsaufträge.
+</div>
 
-Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen Termin. Finden Sie an diesem in einem Online-Konferenzraum zusammen. Bearbeiten Sie gemeinsam die u. s. Arbeitsaufträge.
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ✎ **Arbeitsauftrag 1**
 
--------------------------------
+  Rätseln Sie gemeinsam: Stellen Sie nacheinander die in der inhaltlichen Reflexion entwickelten Quizze/Rätsel in der Kleingruppe vor und lassen Sie sie von den anderen Gruppenmitgliedern lösen.
+</div>
 
-**Arbeitsauftrag 1:**
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ✎ **Arbeitsauftrag 2**
 
-Rätseln Sie gemeinsam: Stellen Sie nacheinander die in der inhaltlichen Reflexion entwickelten Quizze/Rätsel in der Kleingruppe vor und lassen Sie sie von den anderen Gruppenmitgliedern lösen.
+  Bilanzieren Sie, in welchen Bereichen Ihrer Themen Sie sich bereits gut auskennen und wo Sie Wissenslücken erkennen.
+  Gestalten Sie mit einer Softwareanwendung in eine kreative Mind-Map (vgl. Methodenglossar), die darstellt mit welchen Inhalten Sie sich tiefergehend auseinandersetzen müssen, um die (Teil-)themen besser zu verstehen und die Problemstellung (wissenschaftlich) systematisch zu bearbeiten.
+</div>
 
--------------------------------
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ✎ **Arbeitsauftrag 3**
 
-**Arbeitsauftrag 2:**
+  Formulieren Sie Lernziele für eine weitere Auseinandersetzung mit den in der Mind-Map festgehaltenen, zu vertiefenden Inhalten.
+  Entwerfen Sie einen Arbeitsplan, in dem Sie die Lernziele in Form von Lernaufträge (konkreten Arbeitsaufträgen) festhalten. Teilen Sie hierbei auch ein, welches Gruppenmitglied sich mit den einzelnen Lernauftrag beschäftigt und in welchem Zeitraum die Bearbeitung abgeschlossen werden soll.
 
-Bilanzieren Sie, in welchen Bereichen Ihrer Themen Sie sich bereits gut auskennen und wo Sie Wissenslücken erkennen.
-Gestalten Sie mit einer Softwareanwendung in eine kreative Mind-Map (vgl. Methodenglossar), die darstellt mit welchen Inhalten Sie sich tiefergehend auseinandersetzen müssen, um die (Teil-)themen besser zu verstehen und die Problemstellung (wissenschaftlich) systematisch zu bearbeiten.
+  Sie können bei der Bearbeitung dieser Aufgabenstellung das untenstehende Arbeitsblatt nutzen oder eine eigene Darstellung entwickeln.
 
---------------------------------
+  - [Arbeitsblatt Arbeitsplan](https://www.twillo.de/edu-sharing/components/render/0d7845f6-e82f-49c9-b906-347bd8c5057c/)
+</div>
 
-**Arbeitsauftrag 3:**
+<!--  style = "background-color: #F7D358; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  💡 **Tipp**
 
-Formulieren Sie Lernziele für eine weitere Auseinandersetzung mit den in der Mind-Map festgehaltenen, zu vertiefenden Inhalten.
-Entwerfen Sie einen Arbeitsplan, in dem Sie die Lernziele in Form von Lernaufträge (konkreten Arbeitsaufträgen) festhalten. Teilen Sie hierbei auch ein, welches Gruppenmitglied sich mit den einzelnen Lernauftrag beschäftigt und in welchem Zeitraum die Bearbeitung abgeschlossen werden soll.
+  Eine Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender Handlungsanleitung: Meyer Junker, R. (o.J.): Lernziele formulieren leicht gemacht.
+</div>
 
-Sie können bei der Bearbeitung dieser Aufgabenstellung das untenstehende Arbeitsblatt nutzen oder eine eigene Darstellung entwickeln.
+<!--  style = "background-color: #F7D358; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  💡 **Tipp**
 
-[Arbeitsblatt Arbeitsplan](https://www.twillo.de/edu-sharing/components/render/0d7845f6-e82f-49c9-b906-347bd8c5057c/)
+  Überlegen Sie gut, auf welche Weise Ihre Ergebnisse später präsentiert werden sollen und halten Sie dies in Ihrem Arbeitsplan fest. Bei der Wahl eines geeigneten Formats sind Sie vollkommen frei. Sie können z. B. ein wiss. Poster, eine Präsentation, ein Lernvideo, einen Podcast o.ä. erstellen. Mögliche digitale Tools hierfür finden Sie im Methodenglossar.
+</div>
 
------------------------------------
-
-**Tipp:**
-
-Eine Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender Handlungsanleitung: Meyer Junker, R. (o.J.): Lernziele formulieren leicht gemacht.
-
---------------------------------
-
-**Tipp:**
-
-Überlegen Sie gut, auf welche Weise Ihre Ergebnisse später präsentiert werden sollen und halten Sie dies in Ihrem Arbeitsplan fest. Bei der Wahl eines geeigneten Formats sind Sie vollkommen frei. Sie können z. B. ein wiss. Poster, eine Präsentation, ein Lernvideo, einen Podcast o.ä. erstellen. Mögliche digitale Tools hierfür finden Sie im Methodenglossar.
-
-----------------------------------
-
-**Wichtig:**
-
-Überführen Sie die Mind-Map und den Arbeitsplan in Ihre Portfolios.
+<!--  style = "background-color: #F25B68; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ⚠️ **Wichtig:**
+  Überführen Sie die Mind-Map und den Arbeitsplan in Ihre Portfolios.
+</div>
 
 ## Schritt 6: Selbststudium (Recherche)
 <p>
@@ -718,33 +799,44 @@ Als Lehrperson können Sie das Selbststudium der Studierenden aktiv unterstütze
 **Hilfestellungen**
 
 Erinnern Sie die Studierenden daran, das Portfolio regelmäßig zu pflegen. Auch während der Recherche entwickelte Materialien (z.B. Notizen, Exzerpte) können in das Portfolio einfließen.
-</p>
-
-**Info:**
-Ziel des sechsten Schritts ist eine selbstständige und tiefgehende Auseinandersetzung mit den im vorangegangenen Schritt entwickelten Lernaufträgen.
-
-Diese **Lerneinheit findet im Selbststudium** statt.
 
 -------------------------------
+</p>
 
-**Arbeitsauftrag:**
-Bearbeiten Sie den Ihnen zugeteilten Lernauftrag in Einzelarbeit innerhalb der durch Ihre Gruppe gesetzten zeitlichen Vorgaben.
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Ziel des sechsten Schritts ist eine selbstständige und tiefgehende Auseinandersetzung mit den im vorangegangenen Schritt entwickelten Lernaufträgen.
+</div>
 
-Wissen und Informationen können Sie hierbei auf jedwede Weise gewinnen, die Ihnen sinnvoll erscheint. Sie können z. B. ein Interview mit Expert*innen des Themengebiets führen, eine Gruppendiskussion mit Praxisvertreter*innen anregen, eine Recherche im Internet oder in Fachpublikationen durchführen oder einen Prototyp erstellen.
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Diese Lerneinheit findet im Selbststudium statt**.
+</div>
 
-Dokumentieren Sie Ihre Ergebnisse und halten Sie die während Ihrer Recherche genutzten Quellen in einem Literaturverzeichnis fest. Sie sollten mindestens zehn Quellen angeben, um Ihre Erkenntnisse ausreichend zu belegen. Nutzen Sie die u.s. Vorlage oder entwickeln Sie eine eigene Darstellung für Ihre Literatur.
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ✎ **Arbeitsauftrag**
 
-[Vorlage Kommentierte Literaturliste](https://www.twillo.de/edu-sharing/components/render/64508e37-df25-4b2c-b5a2-f47cf654c930/)
+  Bearbeiten Sie den Ihnen zugeteilten Lernauftrag in Einzelarbeit innerhalb der durch Ihre Gruppe gesetzten zeitlichen Vorgaben.
 
----------------------------
+  Wissen und Informationen können Sie hierbei auf jedwede Weise gewinnen, die Ihnen sinnvoll erscheint. Sie können z. B. ein Interview mit Expert*innen des Themengebiets führen, eine Gruppendiskussion mit Praxisvertreter*innen anregen, eine Recherche im Internet oder in Fachpublikationen durchführen oder einen Prototyp erstellen.
 
-**Tipp:**
-Wählen Sie für die Dokumentation Ihrer Ergebnisse eine Form, die für die in Ihrer Gruppe festgelegte Präsentationsform (s. Schritt 5) angemessen ist.
+  Dokumentieren Sie Ihre Ergebnisse und halten Sie die während Ihrer Recherche genutzten Quellen in einem Literaturverzeichnis fest. Sie sollten mindestens zehn Quellen angeben, um Ihre Erkenntnisse ausreichend zu belegen. Nutzen Sie die u.s. Vorlage oder entwickeln Sie eine eigene Darstellung für Ihre Literatur.
 
---------------------------
+  - [Vorlage Kommentierte Literaturliste](https://www.twillo.de/edu-sharing/components/render/64508e37-df25-4b2c-b5a2-f47cf654c930/)
+</div>
 
-**Wichtig:**
-Überführen Sie die Ergebnisse Ihres Selbststudiums und Ihr Literaturverzeichnis in Ihr Portfolio.
+<!--  style = "background-color: #F7D358; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  💡 **Tipp**
+  Wählen Sie für die Dokumentation Ihrer Ergebnisse eine Form, die für die in Ihrer Gruppe festgelegte Präsentationsform (s. Schritt 5) angemessen ist.
+</div>
+
+<!--  style = "background-color: #F25B68; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ⚠️ **Wichtig:**
+  Überführen Sie die Ergebnisse Ihres Selbststudiums und Ihr Literaturverzeichnis in Ihr Portfolio.
+</div>
 
 ## Schritt 7: Informationsaustausch und Ergebnisaufbereitung
 <p>
@@ -755,45 +847,55 @@ Ziel des Schritts *Informationsaustausch und Ergebnisaufbereitung* ist es, dass 
 **Methoden und Materialien**
 
 Im Arbeitsauftrag formulierte Leitfragen unterstützen die Ergebnisaufbereitung und inhaltliche Reflexion.
+
+---------------------
 </p>
 
-**Info:**
-Ziel des siebten Schrittes ist eine selbstorganisierte Ergebnissicherung und -aufbereitung. Innerhalb Ihrer Kleingruppe diskutieren Sie ihre Rechercheergebnisse zunächst kritisch und ziehen ein Fazit für Ihre Problemlösung(en). Anschließend entwickelt Sie eine Präsentation, um Ihren Kommiliton*innen Ihre Ergebnisse in der abschließenden Sitzung vorzustellen.
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Ziel des siebten Schrittes ist eine selbstorganisierte Ergebnissicherung und -aufbereitung. Innerhalb Ihrer Kleingruppe diskutieren Sie ihre Rechercheergebnisse zunächst kritisch und ziehen ein Fazit für Ihre Problemlösung(en). Anschließend entwickelt Sie eine Präsentation, um Ihren Kommiliton*innen Ihre Ergebnisse in der abschließenden Sitzung vorzustellen.
+</div>
 
-Diese Lerneinheit findet als **selbstorganisierte Arbeitsphase in Kleingruppen** statt.
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Diese Lerneinheit findet als selbstorganisierte Arbeitsphase in Kleingruppen statt**.
 
-Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen Termin. Finden Sie an diesem in einem Webinarraum zusammen. Bearbeiten Sie gemeinsam die u. s. Arbeitsaufträge.
+  Bitte stimmen Sie sich innerhalb Ihrer Kleingruppe ab und vereinbaren Sie einen Termin. Finden Sie an diesem in einem Webinarraum zusammen. Bearbeiten Sie gemeinsam die u. s. Arbeitsaufträge.
+  </div>
 
-----------------------------
-
-**Arbeitsauftrag 1:**
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+✎ **Arbeitsauftrag 1**
 
 **Tauschen Sie sich über die Ergebnisse Ihrer Selbststudienphase aus. Ordnen Sie Ihre Gesamtergebnisse und entwickeln Sie systematische Lösungen für die Fallproblematik.  Orientieren Sie sich dabei an folgenden Leitfragen:**
 
 *  Wenn wir in der Position wären, etwas gegen die Problemstellung zu unternehmen, was würden wir tun? Warum würden wir genau diese Lösung anstreben?
 *  Mit welchen Chancen und Herausforderungen ist unsere Lösungsstrategie verbunden?
+</div>
 
-----------------------------
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ✎ **Arbeitsauftrag 2**
 
-**Arbeitsauftrag 2:**
+  Bereiten Sie eine kurze Präsentation vor, um Ihren Kommiliton*innen im folgenden Webinar die Problematik Ihres Fallbeispiels und Ihre Lösungsstrategie vorzustellen. Nutzen Sie hierbei die in Schritt 5 festgelegte Präsentationsform.
 
-Bereiten Sie eine kurze Präsentation vor, um Ihren Kommiliton*innen im folgenden Webinar die Problematik Ihres Fallbeispiels und Ihre Lösungsstrategie vorzustellen. Nutzen Sie hierbei die in Schritt 5 festgelegte Präsentationsform.
+  Formulieren Sie eine Diskussionsfrage, die Sie nach Ihrer Präsentation im abschließenden Online-Sitzung "Fallpräsentation und Diskussion" mit Ihren Kommiliton*innen im Plenum behandeln können. Überlegen Sie sich für die Bearbeitung der Diskussionsfrage eine kleine Übung.
 
-Formulieren Sie eine Diskussionsfrage, die Sie nach Ihrer Präsentation im abschließenden Online-Sitzung "Fallpräsentation und Diskussion" mit Ihren Kommiliton*innen im Plenum behandeln können. Überlegen Sie sich für die Bearbeitung der Diskussionsfrage eine kleine Übung.
+  **Ihre Fallpräsentation inkl. der anschließenden Übung sollte einen Umfang von 20 Minuten nicht überschreiten.**
+</div>
 
-**Ihre Fallpräsentation inkl. der anschließenden Übung sollte einen Umfang von 20 Minuten nicht überschreiten.**
+<!--  style = "background-color: #F7D358; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  💡 **Tipp**
 
----------------------------
+  Motivierende Methoden zur Gestaltung einer Übung finden Sie zum Beispiel bei Reich,  hierfür finden Sie u. a. hier: Reich, K. (2017): Methodenpool.
+</div>
 
-**Tipp:**
-
-Motivierende Methoden zur Gestaltung einer Übung finden Sie zum Beispiel bei Reich,  hierfür finden Sie u. a. hier: Reich, K. (2017): Methodenpool.
-
-----------------------------
-
-**Wichtig:**
-
-Überführen Sie Ihre Ergebnispräsentation in Ihre Portfolios.
+<!--  style = "background-color: #F25B68; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ⚠️ **Wichtig:**
+  Überführen Sie Ihre Ergebnispräsentation in Ihre Portfolios.
+</div>
 
 ## Zusätzlicher Schritt: Selbstreflexion
 <p>
@@ -810,31 +912,41 @@ Die Methode des Siebensprungs erfordert von den Studierenden Verantwortung für 
 Da es sich bei einer Selbstreflexion um eine individuelle und auch persönliche Aufgabe handelt, informieren Sie die Studierenden darüber, dass das Arbeitsblatt zur Selbstreflexion keinen Leistungsnachweis darstellt.
 
 Das Angebot eines freiwilligen Beratungsgesprächs, um den Studierenden bei Bedarf Möglichkeiten aufzuzeigen, wie sie ihre Kompetenzen weiterentwickeln können, ist sinnvoll.
+
+------------------------------
 </p>
 
-**Info:**
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Ziel dieses zusätzlichen Schrittes ist eine Reflexion Ihres individuellen Lernprozesses innerhalb des Siebensprungs. Ein besonderer Fokus soll zum einen auf Ihrer Kompetenzentwicklung, zum anderen auf der Bedeutung des Erlernten für Ihre (zukünftige) berufliche Praxis liegen.
+</div>
 
-Ziel dieses zusätzlichen Schrittes ist eine Reflexion Ihres individuellen Lernprozesses innerhalb des Siebensprungs. Ein besonderer Fokus soll zum einen auf Ihrer Kompetenzentwicklung, zum anderen auf der Bedeutung des Erlernten für Ihre (zukünftige) berufliche Praxis liegen.
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Diese Lerneinheit findet im Selbststudium statt**.
+</div>
 
-Diese **Lerneinheit findet im Selbststudium** statt.
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ✎ **Arbeitsauftrag**
 
-----------------------------
+  Füllen Sie das nebenstehende Arbeitsblatt zur Selbstreflexion aus. Nehmen Sie sich hierfür ruhig etwas Zeit und nutzen Sie die Gelegenheit intensiv um über Ihren Lernprozess und Ihre Kompetenzentwicklung in dieser Lehrveranstaltung nachzudenken.
 
-**Arbeitsauftrag:**
+  - [Arbeitsblatt Selbstreflexion](https://www.twillo.de/edu-sharing/components/render/be5845f2-1a34-4a52-b899-2eee477890f3/)
+</div>
 
-Füllen Sie das nebenstehende Arbeitsblatt zur Selbstreflexion aus. Nehmen Sie sich hierfür ruhig etwas Zeit und nutzen Sie die Gelegenheit intensiv um über Ihren Lernprozess und Ihre Kompetenzentwicklung in dieser Lehrveranstaltung nachzudenken.
+<!--  style = "background-color: #F7D358; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  💡 **Tipp**
 
-[Arbeitsblatt Selbstreflexion](https://www.twillo.de/edu-sharing/components/render/be5845f2-1a34-4a52-b899-2eee477890f3/)
+  Sie möchten mehr über die Relevanz von Reflexion im Lernprozess erfahren oder wünschen sich Unterstützung bei der Bearbeitung des Arbeitsauftrags? Lesen Sie die Handreichung des Forschungsprojekts "KomNetz": [Gillen, J./Proß, G. (2005): Kompetenzreflektor](https://www.ifbe.uni-hannover.de/fileadmin/ifbe/publications/Handreichung_Kompetenzreflektor.pdf).
+</div>
 
----------------------------
-
-**Tipp:**
-
-Sie möchten mehr über die Relevanz von Reflexion im Lernprozess erfahren oder wünschen sich Unterstützung bei der Bearbeitung des Arbeitsauftrags? Lesen Sie die Handreichung des Forschungsprojekts "KomNetz": [Gillen, J./Proß, G. (2005): Kompetenzreflektor](https://www.ifbe.uni-hannover.de/fileadmin/ifbe/publications/Handreichung_Kompetenzreflektor.pdf).
-
-**Wichtig:**
-
-Überführen Sie das Arbeitsblatt zur Selbstreflexion in Ihr Portfolio
+<!--  style = "background-color: #F25B68; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ⚠️ **Wichtig:**
+  Überführen Sie das Arbeitsblatt zur Selbstreflexion in Ihr Portfolio
+</div>
 
 ## Abschluss: Fallpräsentation und Diskussion
 <p>
@@ -851,42 +963,51 @@ Wählen Sie einen Termin und virtuellen Raum für die abschließende Online-Sitz
 |10|Begrüßung und Stimmungsbild|Lassen Sie zum Einstieg in die Veranstaltung den selbstgesteuerten Lernprozess der Studierenden Revue passieren. Nutzen Sie hierfür eine aktivierende Methode.|||
 |60|Ergebnispräsentation Gruppe 1 Gruppe 2 Gruppe 3|Die Präsentation der Fallbeispiele soll in Eigenregie durch die Studierenden erfolgen. Nehmen Sie die Rolle einer aktiven Zuhörerin/eines aktiven Zuhörers ein und unterstützen Sie bei Bedarf durch Kommentare, Informationen oder Korrekturen.||||
 |20|Evaluation und Abschluss|Die Evaluation der Veranstaltung (s. u. s. Arbeitsauftrag) soll die Lehrveranstaltung abschließen und Ihnen als Hilfestellung zur Verbesserung Ihrer Lehre dienen. Gern können Sie hierfür die u. s. Aufgabenstellung und das Arbeitsblatt zum Ampelfeedback nutzen.  Alternativ besteht selbstverständlich auch die Möglichkeit, das Feedback der Studierenden mündlich im Plenum einzuholen. |||
+
+------------------------
 </p>
 
-**Info:**
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Ziel dieser Einheit ist die Präsentation und Diskussion der Ergebnisse des selbstgesteuerten Lernprozesses in Kleingruppen- und Einzelarbeit nach der Siebensprungmethode.
+</div>
 
-Ziel dieser Einheit ist die Präsentation und Diskussion der Ergebnisse des selbstgesteuerten Lernprozesses in Kleingruppen- und Einzelarbeit nach der Siebensprungmethode.
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Diese Lerneinheit findet als Online-Seminar statt.**
 
-Diese Lerneinheit findet als Online-Seminar statt .
+  Datum:<br>
+  Uhrzeit:<br>
+  virtueller Raum:
 
-Datum:
-Uhrzeit:
-virtueller Raum:
+  Das Online-Seminar gliedert sich wie folgt:
 
-Das Online-Seminar gliedert sich wie folgt:
+  1.  Einstieg: Kurzreflexion des Lernprozesses (Wie es Ihnen in der selbstgesteuerten Arbeitsphase ergangen ist)
+  2.  Präsentation der Fallbeispiele und dessen Lösungen durch die Kleingruppen, Diskussion der einzelnen Fälle im Plenum
+  3.  Abschluss: Evaluation des Seminars
 
-1.  Einstieg: Kurzreflexion des Lernprozesses (Wie es Ihnen in der selbstgesteuerten Arbeitsphase ergangen ist)
-2.  Präsentation der Fallbeispiele und dessen Lösungen durch die Kleingruppen, Diskussion der einzelnen Fälle im Plenum
-3.  Abschluss: Evaluation des Seminars
+  Die Moderation der Punkte 1 und 3 wird von Ihrer Lehrperson übernommen, für den Punkt 2 sind die einzelnen Kleingruppen zuständig.
+</div>
 
-Die Moderation der Punkte 1 und 3 wird von Ihrer Lehrperson übernommen, für den Punkt 2 sind die einzelnen Kleingruppen zuständig.
-
------------------------
-
-**Arbeitsauftrag:**
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+✎ **Arbeitsauftrag**
 
 Reflektieren Sie die Lehrveranstaltung insgesamt und füllen Sie das nebenstehende Arbeitsblatt zum Ampelfeedback aus.
 
-[Arbeitsblatt Ampelfeedback](https://www.twillo.de/edu-sharing/components/render/205f22b7-e325-46bc-bcc1-7876d29d791a/)
+- [Arbeitsblatt Ampelfeedback](https://www.twillo.de/edu-sharing/components/render/205f22b7-e325-46bc-bcc1-7876d29d791a/)
+</div>
 
-------------------------
 
-**Wichtig:**
+<!--  style = "background-color: #F25B68; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ⚠️ **Wichtig:**
 
-Überführen Sie das Arbeitsblatt zum Ampelfeedback in Ihr Portfolio.
+  Überführen Sie das Arbeitsblatt zum Ampelfeedback in Ihr Portfolio.
 
-Nutzen Sie den Input aus der Präsentation und Diskussion Ihres Fallbeispiels, um Ihr Portfolio noch einmal zu korrigieren oder zu ergänzen.
+  Nutzen Sie den Input aus der Präsentation und Diskussion Ihres Fallbeispiels, um Ihr Portfolio noch einmal zu korrigieren oder zu ergänzen.
 
-Denken Sie daran, Ihr Portfolio fristgrecht bei Ihrer Lehrperson abzugeben.
+  Denken Sie daran, Ihr Portfolio fristgrecht bei Ihrer Lehrperson abzugeben.
+</div>
 
 **✔️Ende der Lehreinheit - Herzlichen Dank für Ihre aktive Teilnahme!**
