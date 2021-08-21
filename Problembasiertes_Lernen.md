@@ -135,43 +135,61 @@ Der thematische Einstieg wird in einem synchronen Plenumssetting mit Arbeitsphas
 
 Wählen Sie einen Termin und virtuellen Raum für die erste Online-Sitzung Ihrer Lehrveranstaltung und tragen Sie diese Information im Kasten unten ein. Selbstverständlich können Sie anstelle einer Online-Sitzung alternativ auch eine Präsenzveranstaltung planen.
 
-**Wichtig:** Sofern Sie die didaktische Struktur des Templates beibehalten wollen, führen Sie folgende Vorbereitungen durch:
+**Wichtig:**
+
+Sofern Sie die didaktische Struktur des Templates beibehalten wollen, führen Sie folgende Vorbereitungen durch:
 
 Schaffen Sie vor der Online-Sitzung Zugänge zu ausreichend virtuellen Breakout-Räumen für die geplanten Arbeitsphasen in Kleingruppen.
 Für den inhaltlichen Einstieg nutzen Sie eine Karikatur als Impuls für einen ersten Austausch. Ersetzen Sie den **Platzhalter auf dem u.s. Arbeitsblatt zur Karikaturanalyse** durch eine Karikatur Ihrer Wahl, die thematisch zu Ihrer Veranstaltung passt.
 Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemanalyse** durch ein eignes Fallbeispiel. (Wie Sie ein Fallbeispiel erstellen und worauf Sie dabei achten sollten, finden Sie u.a. bei Slemeyer, A. (o. J.): Aktivierung von Studierenden durch Problemorientiertes Lernen [https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/](https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/)
 
+**Ablauf der Online-Sitzung:**
+
+<!-- style="border: 1px solid black; width: 100%;"
+-->
 <table>
-  <tr VALIGN=TOP; style="background-color:#88D2F5">
+  <!-- style="border: 1px solid black; background-color: #D1D8E1;" -->
+  <tr>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center; vertical-align: middle; width: 10%" -->
     <th>
       **Zeit**
     </th>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center; vertical-align: middle;" -->
     <th>
       **Phasen**
     </th>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center; vertical-align:middle;" -->
     <th>
       **didaktische Ausgestaltung**
     </th>
   </tr>
-  <tr VALIGN=TOP>
-    <td style="padding:20px">
+  <!-- style="border: 1px solid black; background-color: #FAFAFC;" -->
+  <tr>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
       10
     </td>
-    <td style="padding:20px">
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
       Begrüßung
     </td>
-    <td style="padding:20px">
+    <!-- style="border: 1px solid black; padding: 10px;" -->
+    <td>
       **Begrüßen** Sie die Studierenden und leiten Sie ggf. eine kurze Vorstellungsrunde an.
     </td>
   </tr>
-  <tr VALIGN=TOP>
-    <td style="padding:20px">
+  <!-- style="border: 1px solid black; background-color: #FAFAFC;" -->
+  <tr>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
       10
     </td>
-    <td style="padding:20px">
-      Information zu Organisation
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
+      Information zur Organisation
     </td>
-    <td style="padding:20px">
+    <!-- style="border: 1px solid black; padding: 10px;" -->
+    <td>
       Legen Sie den Studierenden die Organisation dieser Lehrveranstaltung dar. Informieren Sie hierbei über
 
       * Organisatorisches (z. B. Studien- und Prüfungsleistungen, Semestertermine, Zeitplanung etc.) und die Struktur der Veranstaltung
@@ -181,51 +199,69 @@ Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemana
       *  Phase 3: (Online-)Sitzung Fallpräsentation und Diskussion
     </td>
   </tr>
-  <tr VALIGN=TOP>
-    <td style="padding:20px">
+  <!-- style="border: 1px solid black; background-color: #FAFAFC;" -->
+  <tr>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
       20
     </td>
-    <td style="padding:20px">
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
       Einstieg
     </td>
-    <td style="padding:20px">
+    <!-- style="border: 1px solid black; padding: 10px;" -->
+    <td>
       Teilen Sie die Gruppe nun in **Kleingruppen** ein und entsenden Sie die Kleingruppen zur Bearbeitung des **ersten Arbeitsauftrags** in individuelle virtuelle Räume. Leiten Sie nach der Bearbeitung des Arbeitsauftrags eine Ergebnisvorstellung an.
     </td>
   </tr>
-  <tr VALIGN=TOP>
-    <td style="padding:20px">
+  <!-- style="border: 1px solid black; background-color: #FAFAFC;" -->
+  <tr>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
       20
     </td>
-    <td style="padding:20px">
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
       Information
     </td>
-    <td style="padding:20px">
+    <!-- style="border: 1px solid black; padding: 10px;" -->
+    <td>
       Geben Sie den Studierenden einen kurzen **Input zu den Zielen des Problembasierten Lernens** und der Siebensprungmethode. Nutzen Sie hierfür die u. s. Präsentation "Grundlagen: Problembasiertes Lernen". Gern können Sie sie nach Ihren individuellen Bedarfen bearbeiten, ergänzen und weiterentwickeln.
     </td>
   </tr>
-  <tr VALIGN=TOP>
-    <td style="padding:20px">
+  <!-- style="border: 1px solid black; background-color: #FAFAFC;" -->
+  <tr>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
       20
     </td>
-    <td style="padding:20px">
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
       Vertiefung
     </td>
-    <td style="padding:20px">
+    <!-- style="border: 1px solid black; padding: 10px;" -->
+    <td>
       Ermöglichen Sie der Gruppe nun, sich in selbstgewählte Kleingruppen einzuteilen. Entsenden Sie die Kleingruppen zur Bearbeitung des **zweiten Arbeitsauftrags** in individuelle virtuelle Räume. Leiten Sie nach der Bearbeitung des Arbeitsauftrags eine Ergebnisdiskussion an.
     </td>
   </tr>
-  <tr VALIGN=TOP>
-    <td style="padding:20px">
+  <!-- style="border: 1px solid black; background-color: #FAFAFC;" -->
+  <tr>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
       10
     </td>
-    <td style="padding:20px">
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
       Abschluss
     </td>
-    <td style="padding:20px">
+    <!-- style="border: 1px solid black; padding: 10px;" -->
+    <td>
       Entsenden Sie die Studierenden am Ende der Online-Sitzung in die selbstgesteuerte Lernphase im Siebensprung.
     </td>
   </tr>
 </table>
+
+<br>
 
 - [Vorlage Feinplanung](https://github.com/pilotta314/Problembasiertes_Lernen/blob/master/docs/thematischerEinstieg/Feinplanung%20Sitzung1%20PbL.docx)
 
@@ -958,11 +994,107 @@ Ziel des Abschlusses Fallpräsentation und Diskussion ist es, dass die Studieren
 
 Wählen Sie einen Termin und virtuellen Raum für die abschließende Online-Sitzung und tragen Sie diese Information im Kasten unten. Selbstverständlich können Sie anstelle einer Online-Sitzung alternativ auch eine Präsenzveranstaltung planen.
 
-|Zeit|Phasen|didaktische Ausgestaltung|Methoden|Materialien|
-|---------|----------|---------|--------|-------|
-|10|Begrüßung und Stimmungsbild|Lassen Sie zum Einstieg in die Veranstaltung den selbstgesteuerten Lernprozess der Studierenden Revue passieren. Nutzen Sie hierfür eine aktivierende Methode.|||
-|60|Ergebnispräsentation Gruppe 1 Gruppe 2 Gruppe 3|Die Präsentation der Fallbeispiele soll in Eigenregie durch die Studierenden erfolgen. Nehmen Sie die Rolle einer aktiven Zuhörerin/eines aktiven Zuhörers ein und unterstützen Sie bei Bedarf durch Kommentare, Informationen oder Korrekturen.||||
-|20|Evaluation und Abschluss|Die Evaluation der Veranstaltung (s. u. s. Arbeitsauftrag) soll die Lehrveranstaltung abschließen und Ihnen als Hilfestellung zur Verbesserung Ihrer Lehre dienen. Gern können Sie hierfür die u. s. Aufgabenstellung und das Arbeitsblatt zum Ampelfeedback nutzen.  Alternativ besteht selbstverständlich auch die Möglichkeit, das Feedback der Studierenden mündlich im Plenum einzuholen. |||
+<!-- style="border: 1px solid black; width: 100%;"
+-->
+<table>
+  <!-- style="border: 1px solid black; background-color: #D1D8E1;" -->
+  <tr>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center; vertical-align: middle; width: 10%" -->
+    <th>
+      **Zeit**
+    </th>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center; vertical-align: middle;" -->
+    <th>
+      **Phasen**
+    </th>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center; vertical-align:middle;" -->
+    <th>
+      **didaktische Ausgestaltung**
+    </th>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center; vertical-align: middle;" -->
+    <th>
+      **Methoden**
+    </th>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center; vertical-align: middle;" -->
+    <th>
+      **Materialien**
+    </th>
+  </tr>
+  <!-- style="border: 1px solid black; padding: 10px; background-color: #FAFAFC;" -->
+  <tr>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
+      10
+    </td>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
+      Begrüßung und Stimmungsbild
+    </td>
+    <!-- style="border: 1px solid black; padding: 10px;" -->
+    <td>
+      Lassen Sie zum Einstieg in die Veranstaltung den selbstgesteuerten Lernprozess der Studierenden Revue passieren. Nutzen Sie hierfür eine aktivierende Methode.
+    </td>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
+
+    </td>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
+
+    </td>
+  </tr>
+  <!-- style="border: 1px solid black; padding: 10px; background-color: #FAFAFC;" -->
+  <tr>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
+      60
+    </td>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
+      Ergebnispräsentation:
+
+      Gruppe 1<br>
+      Gruppe 2<br>
+      Gruppe 3
+    </td>
+    <!-- style="border: 1px solid black; padding: 10px;" -->
+    <td>
+      Die Präsentation der Fallbeispiele soll in Eigenregie durch die Studierenden erfolgen. Nehmen Sie die Rolle einer aktiven Zuhörerin/eines aktiven Zuhörers ein und unterstützen Sie bei Bedarf durch Kommentare, Informationen oder Korrekturen.
+    </td>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
+
+    </td>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
+
+    </td>
+  </tr>
+  <!-- style="border: 1px solid black; background-color: #FAFAFC;" -->
+  <tr>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
+      20
+    </td>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
+      Evaluation und Abschluss
+    </td>
+    <!-- style="border: 1px solid black; padding: 10px;" -->
+    <td>
+      Die Evaluation der Veranstaltung (s. u. s. Arbeitsauftrag) soll die Lehrveranstaltung abschließen und Ihnen als Hilfestellung zur Verbesserung Ihrer Lehre dienen. Gern können Sie hierfür die u. s. Aufgabenstellung und das Arbeitsblatt zum Ampelfeedback nutzen.  Alternativ besteht selbstverständlich auch die Möglichkeit, das Feedback der Studierenden mündlich im Plenum einzuholen.
+    </td>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
+
+    </td>
+    <!-- style="border: 1px solid black; padding: 10px; text-align: center;" -->
+    <td>
+
+    </td>
+  </tr>
+</table>
+
 
 ------------------------
 </p>
@@ -1010,4 +1142,6 @@ Reflektieren Sie die Lehrveranstaltung insgesamt und füllen Sie das nebenstehen
   Denken Sie daran, Ihr Portfolio fristgrecht bei Ihrer Lehrperson abzugeben.
 </div>
 
+<center>
 **✔️Ende der Lehreinheit - Herzlichen Dank für Ihre aktive Teilnahme!**
+</center>
