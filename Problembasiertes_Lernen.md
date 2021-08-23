@@ -302,7 +302,7 @@ Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemana
 <div>
   **Input:** Grundlagen: Problembasiertes Lernen
 
-  - [**Foliensatz Grundlagen Problembasiertes Lernen**](https://www.twillo.de/edu-sharing/components/render/42e8a9f5-b273-4071-b3cf-caee6933b5dd/)
+  - [**Foliensatz Grundlagen Problembasiertes Lernen**](docs/thematischerEinstieg/karikaturanalyse.jpg)
 </div>
 
 <!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
