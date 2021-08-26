@@ -91,6 +91,7 @@ Sie haben Fragen zu OER im Allgemeinen oder zu diesem Template? Gern steht Ihnen
 
 ## Kursinformationen
 
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
 
@@ -107,23 +108,25 @@ Erstellen Sie zudem eine Veranstaltungsübersicht (oder Semesterfahrplan bzw. Ad
 
 ![Kursübersicht](docs/introbild.svg)<!-- style = "text-align:center;" -->
 
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Auf dieser Seite sind **alle organisatorischen Informationen** zu dieser Lehrveranstaltung für Sie hinterlegt.
+</div>
 
-**Info**
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Fach/Disziplin:**<!--Text comes here--><br>
+  **Leistungspunkte:**<!--Text comes here--><br>
+  **Inhalte & Schwerpunkte der Veranstaltung:**<!--Text comes here--><br>
+  **Lernziele:**<!--Text comes here--><br>
+  **Prüfungsform & Leistungsnachweise:**<!--Text comes here--><br>
+  **Kriterien der Bewertung:**<!--Text comes here--><br>
 
-Auf dieser Seite sind alle organisatorischen Informationen zu dieser Lehrveranstaltung für Sie hinterlegt.
-
------------------
-
-**Fach/Disziplin:**<br>
-**Leistungspunkte:**<br>
-**Inhalte & Schwerpunkte der Veranstaltung:**<br>
-**Lernziele:**<br>
-**Prüfungsform & Leistungsnachweise:**<br>
-**Kriterien der Bewertung:**<br>
-
-- [Veranstaltungsübersicht Vorlage](https://www.twillo.de/edu-sharing/components/render/7eca4ffb-9d58-4cad-8bee-5a01e85f0a4c/)
+  - [Veranstaltungsübersicht Vorlage](https://www.twillo.de/edu-sharing/components/render/7eca4ffb-9d58-4cad-8bee-5a01e85f0a4c/)
+</div>
 
 ## Thematischer Einstieg
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
 
@@ -264,8 +267,6 @@ Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemana
 <br>
 
 - [Vorlage Feinplanung](https://github.com/pilotta314/Problembasiertes_Lernen/blob/master/docs/thematischerEinstieg/Feinplanung%20Sitzung1%20PbL.docx)
-
---------------------------
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -275,7 +276,7 @@ Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemana
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
-  Diese Lerneinheit findet als **(Online-)Seminar** statt.
+  **Diese Lerneinheit findet als (Online-)Seminar statt.**
 
   **Datum:**<br>
   **Uhrzeit:**<br>
@@ -316,6 +317,7 @@ Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemana
 </div>
 
 ## Kick-Off: Selbstgesteuertes Lernen im Siebensprungmethode
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
 
@@ -343,8 +345,6 @@ Offenlegung des Portfolio-Einsatzes
 * Informieren Sie die Studierenden über die Ausrichtung des Portfolios (Arbeitsportfolio, Reflexionsportfolio, Präsentationsportfolio, Entwicklungsportfolio etc.)
 * Geben Sie an, ob es sich um eine Studienleistung handelt oder für Prüfungszwecken oder Beurteilungen dient
 * Legen Sie dar, ob und wann die Abgabe des Portfolios erfolgen soll und wer die Lerndokumentation einsehen darf
-
--------------------------------
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -398,6 +398,7 @@ Fügen Sie drei Bilder, Symbole oder Grafiken hinzu, die Ihre Erwartungen an die
 </div>
 
 ## Schritt 1: Problemkonfrontation und Begriffserklärung
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
 
@@ -416,8 +417,6 @@ Im **zweiten Arbeitsauftrag** geht es um die Klärung von Schlüsselworten, die 
 * Unterstützen Sie das Zeitmanagement der Studierenden ggf. durch die Angabe des Umfangs der Bearbeitung der Aufgabenstellungen.
 * Legen Sie in ihrem LMS-Kurs für jede Gruppe vorab ein Wiki an, in dem die Studierenden ihre Begriffsdefinition eintragen können.
 * Stellen Sie einen Leitfaden zur Recherchearbeit oder Hinweise zu Begriffsannäherung bereit.
-
-----------------------------------
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -479,6 +478,7 @@ Lesen Sie sich Ihr Fallbeispiel gründlich durch und klären Sie Verständnisfra
 </div>
 
 ## Schritt 2: Problemdefinition
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
 
@@ -492,8 +492,6 @@ Für die Erarbeitung des Arbeitsauftrages ist als Material lediglich das von der
 
 *  Bieten Sie jeder Gruppe für die Zusammenarbeit a) einen Konferenzraum an
 *  Stellen Sie ergänzende Tools bereit, um den Austausch in der Gruppen zu systematisieren und dokumentieren. Die Gruppen können die Ergebnisse (z.B. Screenshots oder Links zu erstelltem Cluster, Mindmaps) mit in ihre Portfolios übernehmen.
-
---------------------------------
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -528,6 +526,7 @@ Für die Erarbeitung des Arbeitsauftrages ist als Material lediglich das von der
 </div>
 
 ## Zwischenschritt: Sprechstunde
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisung für Lehrende**
 
@@ -552,8 +551,6 @@ Neben den inhaltlichen Schwerpunkten oder bisherigen Teilergebnissen können auc
 
 *  Als Nachbereitung können die Studierende für ihr Portfolio ein Gedächtnisprotokoll von der Sprechstunde anlegen.
 *  Bieten Sie sich als Ansprechpartner:in für aufkommende Probleme in diesem und den folgenden Schritten an.
-
---------------------------------
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -590,6 +587,7 @@ Neben den inhaltlichen Schwerpunkten oder bisherigen Teilergebnissen können auc
 </div>
 
 ## Schritt 3: Problemanalyse und Aktivierung von Vorwissen
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
 
@@ -605,8 +603,6 @@ Da das Problembasierte Lernen im Siebensprung eine kollaborative Arbeitsweise ve
 
 *  Erstellen Sie eine Umfrage mit geschlossenen oder offenen Fragen, um die Stimmung der Studierenden im Hinblick auf Teamarbeit und Gruppendynamik abzufragen. (Hier können Umfragefunktion des LMS oder externe Tools verwendet werden.)
 *  Formulieren Sie in einer E-Mail an die Studierenden zwei bis drei Leitfragen zur Teamarbeit und Gruppenstimmung und bitten Sie sie diese zu beantworten.
-
-------------------------------------
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -616,7 +612,7 @@ Da das Problembasierte Lernen im Siebensprung eine kollaborative Arbeitsweise ve
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
-  Diese Lerneinheit findet im **Selbststudium** statt. Es ist lediglich eine **kurze Absprache mit Ihrer Kleingruppe** zu Beginn der Leineinheit notwendig (s. Arbeitsauftrag 1)
+  **Diese Lerneinheit findet im Selbststudium statt.** Es ist lediglich eine **kurze Absprache mit Ihrer Kleingruppe** zu Beginn der Lerneinheit notwendig (s. Arbeitsauftrag 1)
 </div>
 
 <!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -652,6 +648,7 @@ Sie können bei der Bearbeitung der Aufgabenstellung das Arbeitsblatt Zettelwand
 </div>
 
 ## Schritt 4: Systematisierung von Erklärungen
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
 
@@ -664,8 +661,6 @@ Für die Ergebnisdarstellung soll ein Produkt gemeinsam in der Gruppe erarbeitet
 **Hilfestellungen**
 
 In dem Template ist als Hilfestellung zur Erstellung eines Thesenpapiers bereits eine Handreichung verlinkt [https://www.uni-hildesheim.de/media/fb2/medien_theater/Downloads/Leitfaden_zur_Erstellung_eines_Thesenpapiers_1014.pdf](https://www.uni-hildesheim.de/media/fb2/medien_theater/Downloads/Leitfaden_zur_Erstellung_eines_Thesenpapiers_1014.pdf). Bei Bedarf, können Sie jedoch auch selbst ein Handout erstellen, aus dem hervorgeht, was die Studierenden bei der Erstellung eines Thesenpapiers beachten sollten.
-
---------------------------
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -706,6 +701,7 @@ In dem Template ist als Hilfestellung zur Erstellung eines Thesenpapiers bereits
 </div>
 
 ## Zwischenschritt: Inhaltliche Reflexion
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
 
@@ -718,8 +714,6 @@ Für die Erstellung können Softwareanwendungen vorgegeben werden. Eine Anzahl d
 **Hilfestellungen**
 
 In dem Methodenglossar, finden die Studierenden im Bereich Software auch Tools für die Erstellung von Umfragen oder Wissensabfragen, um Quizze oder Rätsel zu erstellen.
-
-------------------------------
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -747,6 +741,7 @@ In dem Methodenglossar, finden die Studierenden im Bereich Software auch Tools f
 </div>
 
 ## Schritt 5: Entwicklung von Lernzielen
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
 
@@ -759,8 +754,6 @@ Digitale und kollaborative Tools können für die Dokumentation der gemeinsam ve
 **Hilfestellungen**
 
 Wenn die Gruppe wenig Erfahrung in der Formulierung von Lernzielen hat, können Leitfragen formuliert werden, die in den weiteren Schritten beantwortet werden sollen.
-
------------------------------
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -823,6 +816,7 @@ Wenn die Gruppe wenig Erfahrung in der Formulierung von Lernzielen hat, können 
 </div>
 
 ## Schritt 6: Selbststudium (Recherche)
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für die Lehrperson:**
 
@@ -835,8 +829,6 @@ Als Lehrperson können Sie das Selbststudium der Studierenden aktiv unterstütze
 **Hilfestellungen**
 
 Erinnern Sie die Studierenden daran, das Portfolio regelmäßig zu pflegen. Auch während der Recherche entwickelte Materialien (z.B. Notizen, Exzerpte) können in das Portfolio einfließen.
-
--------------------------------
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -875,6 +867,7 @@ Erinnern Sie die Studierenden daran, das Portfolio regelmäßig zu pflegen. Auch
 </div>
 
 ## Schritt 7: Informationsaustausch und Ergebnisaufbereitung
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
 
@@ -883,8 +876,6 @@ Ziel des Schritts *Informationsaustausch und Ergebnisaufbereitung* ist es, dass 
 **Methoden und Materialien**
 
 Im Arbeitsauftrag formulierte Leitfragen unterstützen die Ergebnisaufbereitung und inhaltliche Reflexion.
-
----------------------
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -934,6 +925,7 @@ Im Arbeitsauftrag formulierte Leitfragen unterstützen die Ergebnisaufbereitung 
 </div>
 
 ## Zusätzlicher Schritt: Selbstreflexion
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
 
@@ -948,8 +940,6 @@ Die Methode des Siebensprungs erfordert von den Studierenden Verantwortung für 
 Da es sich bei einer Selbstreflexion um eine individuelle und auch persönliche Aufgabe handelt, informieren Sie die Studierenden darüber, dass das Arbeitsblatt zur Selbstreflexion keinen Leistungsnachweis darstellt.
 
 Das Angebot eines freiwilligen Beratungsgesprächs, um den Studierenden bei Bedarf Möglichkeiten aufzuzeigen, wie sie ihre Kompetenzen weiterentwickeln können, ist sinnvoll.
-
-------------------------------
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -985,6 +975,7 @@ Das Angebot eines freiwilligen Beratungsgesprächs, um den Studierenden bei Beda
 </div>
 
 ## Abschluss: Fallpräsentation und Diskussion
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
 
@@ -1095,8 +1086,6 @@ Wählen Sie einen Termin und virtuellen Raum für die abschließende Online-Sitz
   </tr>
 </table>
 
-
-------------------------
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
