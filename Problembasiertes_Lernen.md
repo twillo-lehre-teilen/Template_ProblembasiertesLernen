@@ -15,11 +15,10 @@
   - [Hinweis zur Nutzung des Templates](#2)
   - [OER Hinweis](#2)
 
-- [Kursinformationen](#3)
-- [Thematischer Einstieg](#4)
+- [Lernmodul](#3)
 
-- [Lernmodul](#5)
-
+  - [Allgemeine Kursinformationen](#3)
+  - [Thematischer Einstieg](#4)
   - [Kick-Off: Selbstgesteuertes Lernen im Siebensprung](#5)
   - [Schritt 1: Problemkonfrontation und Begriffsklärung](#6)
   - [Schritt 2: Problemdefinition](#7)
@@ -89,7 +88,7 @@ Die Kursvorlage zählt aufgrund ihrer Lizenz zu den Open Educational Resources (
 
 Sie haben Fragen zu OER im Allgemeinen oder zu diesem Template? Gern steht Ihnen das twillo-Team zur Verfügung. Sie erreichen uns via E-Mail an support.twillo@tib.eu.
 
-## Kursinformationen
+## Allgemeine Kursinformationen
 
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
@@ -101,12 +100,12 @@ Legen Sie hier alle organisatorischen Informationen zu Ihrem Kurs ab. (Fach, The
 
 Eine gute Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender Handlungsanleitung: Meyer Junker, R. (o.J.): Lernziele formulieren leicht gemacht, https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.html (18.12.2020).
 
-Tragen Sie in das u.s. Feld ein, wie viele Leistungspunkte die Studierenden in Ihrer Veranstaltung erlangen können. Geben Sie an, welche Leistungen von den Studierenden abgelegt werden sollen und beschreiben Sie, worin diese konkret bestehen.
-Für eine Lerneinheit im Siebensprung bietet es sich an, das im Laufe des Lernprozesses zu erstellende Portfolio als Studienleistung zu setzen. Als Prüfungsleistung kann z.B. eine schriftliche Fallausarbeitung gesetzt werden.
-Erstellen Sie zudem eine Veranstaltungsübersicht (oder Semesterfahrplan bzw. Advance Organizer), aus der hervorgeht, welche Schritte bzw. Einheiten der Lehrveranstaltung in a) individueller Arbeit, b) in selbstorganisierten Gruppenarbeit und c) im Plenum erfolgen. Passen sie hierfür bei Bedarf die u.s. Vorlage an.
+- Tragen Sie in das u.s. Feld ein, wie viele Leistungspunkte die Studierenden in Ihrer Veranstaltung erlangen können. Geben Sie an, welche Leistungen von den Studierenden abgelegt werden sollen und beschreiben Sie, worin diese konkret bestehen.
+- Für eine Lerneinheit im Siebensprung bietet es sich an, das im Laufe des Lernprozesses zu erstellende Portfolio als Studienleistung zu setzen. Als Prüfungsleistung kann z.B. eine schriftliche Fallausarbeitung gesetzt werden.
+- Erstellen Sie zudem eine Veranstaltungsübersicht (oder Semesterfahrplan bzw. Advance Organizer), aus der hervorgeht, welche Schritte bzw. Einheiten der Lehrveranstaltung in a) individueller Arbeit, b) in selbstorganisierten Gruppenarbeit und c) im Plenum erfolgen. Passen sie hierfür bei Bedarf die u.s. Vorlage an.
 </p>
 
-![Kursübersicht](docs/introbild.svg)<!-- style = "text-align:center;" -->
+![Advanced Organizer](docs/AdvancedOrganizer.svg)<!-- style = "text-align:center;" -->
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -123,6 +122,7 @@ Erstellen Sie zudem eine Veranstaltungsübersicht (oder Semesterfahrplan bzw. Ad
   **Kriterien der Bewertung:**<!--Text comes here--><br>
 
   - [Veranstaltungsübersicht Vorlage](https://www.twillo.de/edu-sharing/components/render/7eca4ffb-9d58-4cad-8bee-5a01e85f0a4c/)
+  - [Advanced Organizer](https://www.twillo.de/edu-sharing/components/render/d96767c5-d188-41f2-9e52-fd67b8bf52f8)
 </div>
 
 ## Thematischer Einstieg
