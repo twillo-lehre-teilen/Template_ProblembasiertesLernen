@@ -114,16 +114,15 @@ Eine gute Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender 
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
-  **Fach/Disziplin:**<!--Text comes here--><br>
-  **Leistungspunkte:**<!--Text comes here--><br>
-  **Inhalte & Schwerpunkte der Veranstaltung:**<!--Text comes here--><br>
-  **Lernziele:**<!--Text comes here--><br>
-  **Prüfungsform & Leistungsnachweise:**<!--Text comes here--><br>
-  **Kriterien der Bewertung:**<!--Text comes here--><br>
+**Fach/Disziplin:**<!--Text comes here--><br>
+**Leistungspunkte:**<!--Text comes here--><br>
+**Inhalte & Schwerpunkte der Veranstaltung:**<!--Text comes here--><br>
+**Lernziele:**<!--Text comes here--><br>
+**Prüfungsform & Leistungsnachweise:**<!--Text comes here--><br>
+**Kriterien der Bewertung:**<!--Text comes here--><br>
 
-  - [Veranstaltungsübersicht Vorlage](https://www.twillo.de/edu-sharing/components/render/7eca4ffb-9d58-4cad-8bee-5a01e85f0a4c/)
-  
-  - [Advanced Organizer](https://www.twillo.de/edu-sharing/components/render/d96767c5-d188-41f2-9e52-fd67b8bf52f8)
+- [Veranstaltungsübersicht Vorlage](https://www.twillo.de/edu-sharing/components/render/7eca4ffb-9d58-4cad-8bee-5a01e85f0a4c/)
+- [Advanced Organizer](https://www.twillo.de/edu-sharing/components/render/d96767c5-d188-41f2-9e52-fd67b8bf52f8)
 </div>
 
 ## Thematischer Einstieg
