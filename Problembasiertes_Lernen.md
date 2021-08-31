@@ -122,6 +122,7 @@ Eine gute Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender 
   **Kriterien der Bewertung:**<!--Text comes here--><br>
 
   - [Veranstaltungsübersicht Vorlage](https://www.twillo.de/edu-sharing/components/render/7eca4ffb-9d58-4cad-8bee-5a01e85f0a4c/)
+  
   - [Advanced Organizer](https://www.twillo.de/edu-sharing/components/render/d96767c5-d188-41f2-9e52-fd67b8bf52f8)
 </div>
 
