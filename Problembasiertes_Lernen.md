@@ -8,6 +8,15 @@
 -->
 
 # Template - Problembasiertes Lernen
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<p>**Lizenzhinweis**
+
+Diese Kursvorlage von Stefanie Hiestand, Britta Beutnagel und twillo ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) (Logos ausgenommen).
+
+Die Kursvorlage zählt aufgrund ihrer Lizenz zu den Open Educational Resources (OER). Möchten auch Sie einen Beitrag zur offenen Hochschullehre leisten? Teilen Sie Ihre Lehrmaterialien auf dem OER-Portal twillo (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur).
+
+Sie haben Fragen zu OER im Allgemeinen oder zu diesem Template? Gern steht Ihnen das twillo-Team zur Verfügung. Sie erreichen uns via E-Mail an **support.twillo@tib.eu**.
+</p>
 
 - [Informationen für Lehrende](#2)
 
@@ -29,15 +38,7 @@
   - [Phase 7: Erarbeitung und Präsentation der Ergebnisse](#12)
   - [Phase 8: Reflexion des gesamten Prozesses](#13)
 
-<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
-<p>**Lizenzhinweis**
 
-Diese Kursvorlage von Stefanie Hiestand, Britta Beutnagel und twillo ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) (Logos ausgenommen).
-
-Die Kursvorlage zählt aufgrund ihrer Lizenz zu den Open Educational Resources (OER). Möchten auch Sie einen Beitrag zur offenen Hochschullehre leisten? Teilen Sie Ihre Lehrmaterialien auf dem OER-Portal twillo (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur).
-
-Sie haben Fragen zu OER im Allgemeinen oder zu diesem Template? Gern steht Ihnen das twillo-Team zur Verfügung. Sie erreichen uns via E-Mail an **support.twillo@tib.eu**.
-</p>
 
 
 ## Informationen für Lehrende
