@@ -112,12 +112,12 @@ Eine gute Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender 
 - Erstellen Sie zudem eine Veranstaltungsübersicht (oder Semesterfahrplan bzw. Advance Organizer), aus der hervorgeht, welche Schritte bzw. Einheiten der Lehrveranstaltung in a) individueller Arbeit, b) in selbstorganisierten Gruppenarbeit und c) im Plenum erfolgen. Passen sie hierfür bei Bedarf die u.s. Vorlage an.
 </p>
 
-![Advanced Organizer](docs/AdvancedOrganizer.svg)<!-- style = "text-align:center;" -->
-
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
   Auf dieser Seite sind **alle organisatorischen Informationen** zu dieser Lehrveranstaltung für Sie hinterlegt.
 </div>
+
+![Advanced Organizer](docs/AdvancedOrganizer.svg)<!-- style = "text-align:center;" -->
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -151,7 +151,7 @@ Sofern Sie die didaktische Struktur des Templates beibehalten wollen, führen Si
 
 Schaffen Sie vor der Online-Sitzung Zugänge zu ausreichend virtuellen Breakout-Räumen für die geplanten Arbeitsphasen in Kleingruppen.
 Für den inhaltlichen Einstieg nutzen Sie eine Karikatur als Impuls für einen ersten Austausch. Ersetzen Sie den **Platzhalter auf dem u.s. Arbeitsblatt zur Karikaturanalyse** durch eine Karikatur Ihrer Wahl, die thematisch zu Ihrer Veranstaltung passt.
-Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemanalyse** durch ein eignes Fallbeispiel. (Wie Sie ein Fallbeispiel erstellen und worauf Sie dabei achten sollten, finden Sie u.a. bei Slemeyer, A. (o. J.): Aktivierung von Studierenden durch Problemorientiertes Lernen [https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/](https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/)
+Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemanalyse** durch ein eignes Fallbeispiel. (Wie Sie ein Fallbeispiel erstellen und worauf Sie dabei achten sollten, finden Sie u.a. bei Slemeyer, A. (o. J.): [Aktivierung von Studierenden durch Problemorientiertes Lernen](https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/problemorientiertes-lernen/aktivierung-von-studierenden-durch-problemorientiertes-lernen/).
 
 **Ablauf der Online-Sitzung:**
 
@@ -204,9 +204,9 @@ Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemana
 
       * Organisatorisches (z. B. Studien- und Prüfungsleistungen, Semestertermine, Zeitplanung etc.) und die Struktur der Veranstaltung
 
-      *  Phase 1: (Online-)Sitzung Thematischer Einstieg,
-      *  Phase 2: ausgiebige selbstgesteuerte Lernphase in Kleingruppen mit der Siebensprung-Methode
-      *  Phase 3: (Online-)Sitzung Fallpräsentation und Diskussion
+      * Phase 1: (Online-)Sitzung Thematischer Einstieg,
+      * Phase 2: ausgiebige selbstgesteuerte Lernphase in Kleingruppen mit der Siebensprung-Methode
+      * Phase 3: (Online-)Sitzung Fallpräsentation und Diskussion
     </td>
   </tr>
   <!-- style="border: 1px solid black; background-color: #FAFAFC;" -->
