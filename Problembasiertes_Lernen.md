@@ -804,7 +804,7 @@ Wenn die Gruppe wenig Erfahrung in der Formulierung von Lernzielen hat, können 
 <div>
   💡 **Tipp**
 
-  Eine Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender Handlungsanleitung: Meyer Junker, R. (o.J.): Lernziele formulieren leicht gemacht.
+  Eine Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender Handlungsanleitung: Meyer Junker, R. (o.J.): Lernziele formulieren leicht gemacht, https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.html
 </div>
 
 <!--  style = "background-color: #F7D358; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -920,7 +920,7 @@ Im Arbeitsauftrag formulierte Leitfragen unterstützen die Ergebnisaufbereitung 
 <div>
   💡 **Tipp**
 
-  Motivierende Methoden zur Gestaltung einer Übung finden Sie zum Beispiel bei Reich,  hierfür finden Sie u. a. hier: Reich, K. (2017): Methodenpool.
+  Motivierende Methoden zur Gestaltung einer Übung finden Sie zum Beispiel bei Reich,  hierfür finden Sie u. a. hier: Reich, K. (2017): [Methodenpool](https://methodenpool.uni-koeln.de/).
 </div>
 
 <!--  style = "background-color: #F25B68; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
