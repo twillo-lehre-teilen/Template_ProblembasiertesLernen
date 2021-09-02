@@ -82,16 +82,6 @@ Bei diesem didaktischen Template handelt es sich um eine Kursvorlage für die Er
 ![Sichtbarkeit von Regieanweisungen](docs/visibility.svg)<!-- style = "text-align:center;" -->
 
 
-<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
-<p>**Lizenzhinweis**
-
-Diese Kursvorlage von Stefanie Hiestand, Britta Beutnagel und [twillo](https://www.twillo.de) ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) (Logos ausgenommen).
-
-Die Kursvorlage zählt aufgrund ihrer Lizenz zu den Open Educational Resources (OER). Möchten auch Sie einen Beitrag zur offenen Hochschullehre leisten? Teilen Sie Ihre Lehrmaterialien auf dem OER-Portal twillo (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur).
-
-Sie haben Fragen zu OER im Allgemeinen oder zu diesem Template? Gern steht Ihnen das twillo-Team zur Verfügung. Sie erreichen uns via E-Mail an (mailto:support.twillo@tib.eu).
-</p>
-
 ## Allgemeine Kursinformationen
 
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
