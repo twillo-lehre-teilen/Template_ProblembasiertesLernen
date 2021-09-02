@@ -47,7 +47,8 @@ Dieses Template soll Sie bei der Gestaltung von Lerneinheiten nach der Siebenspr
 Selbstverständlich können Sie das Template - im Sinne der Lizenz CC BY (4.0) - bearbeiten und verändern.
 Grundsätzlich ist es möglich, einzelne Phasen der Lehrveranstaltung auszublenden. Um der Siebensprungmethode jedoch gerecht zu werden, sollten Sie beachten, dass jeder Schritt einen essentiellen Bestandteil darstellt und die einzelnen Lehreinheiten aufeinander aufbauen.
 
-*Weiterführende Literatur:*
+
+**Weiterführende Literatur:**
 
 *Hiestand, S./Beutnagel, B./Rühling, S. (2020): Problemorientiertes Lernen in digital unterstützen Lehr-/Lernsettings – das Siebensprung-Konzept am Beispiel der (hochschulischen) Ausbildung. In: Dietl, S. F./Schmidt, H./Weiß, R.Wittwer, W. (Hrsg.): Ausbilder Handbuch. Aufgaben, Konzepte, Praxisbeispiele. Hürth, S. 1-26 (Kap. 6.1.28).*
 
@@ -69,7 +70,7 @@ Bei diesem didaktischen Template handelt es sich um eine Kursvorlage für die Er
 
 **Schritte für eine Nachnutzung:**
 
-1. Um diese LiaScript-Vorlage nachnutzen zu können benötigen Sie einen kostenlosen [GitHub-Account](https://github.com/). Besitzen Sie schon einen GitHub-Account können Sie mit Schritt 2 fortfahren. Falls Sie noch keinen Account bei GitHub besitzen erstellen Sie sich zunächst einen. [Hier gehts zur Anmeldung.](https://github.com/)
+1. Um diese LiaScript-Vorlage nachnutzen zu können benötigen Sie einen kostenlosen **GitHub-Account**. Besitzen Sie schon einen GitHub-Account können Sie mit Schritt 2 fortfahren. Falls Sie noch keinen Account bei GitHub besitzen erstellen Sie sich zunächst einen. [Hier gehts zur Anmeldung.](https://github.com/)
 2. Erstellen Sie nun ein neues Repository für Ihren eigenen Kurs. Zum importieren dieser Vorlage wählen Sie beim erstellen des Repositories die Option **"Import a repository"** aus. Gebe Sie als URL folgendes an: https://github.com/twillo-lehre-teilen/Template_ProblembasiertesLernen.git. Desweiteren sollten Sie ihrem Repository einen prägnanten Titel für Ihren Kurs geben und es auf **"public"** stellen, damit LiaScript daraus einen Kurs generieren kann.
 3. Prüfen Sie nach dem Import, ob die Strukturen und Inhalte der Vorlage korrekt vorhanden sind.
 4. Zum generieren des Kurses besuchen Sie die [LiaScript-Website](https://liascript.github.io/). Fügen Sie hier die URL zur **Kursdatei (.md)** innerhalb des Repositories ein und klicken Sie auf **"Load Course"**. Ihr Kurs ist jetzt erstellt und erreichbar über der von LiaScript generierten URL.
@@ -82,11 +83,11 @@ Bei diesem didaktischen Template handelt es sich um eine Kursvorlage für die Er
 
 **OER Hinweis**
 
-Diese Kursvorlage von Stefanie Hiestand, Britta Beutnagel und twillo ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz CC BY 4.0 (Logos ausgenommen).
+Diese Kursvorlage von Stefanie Hiestand, Britta Beutnagel und twillo ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) (Logos ausgenommen).
 
 Die Kursvorlage zählt aufgrund ihrer Lizenz zu den Open Educational Resources (OER). Möchten auch Sie einen Beitrag zur offenen Hochschullehre leisten? Teilen Sie Ihre Lehrmaterialien auf dem OER-Portal twillo (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur).
 
-Sie haben Fragen zu OER im Allgemeinen oder zu diesem Template? Gern steht Ihnen das twillo-Team zur Verfügung. Sie erreichen uns via E-Mail an support.twillo@tib.eu.
+Sie haben Fragen zu OER im Allgemeinen oder zu diesem Template? Gern steht Ihnen das twillo-Team zur Verfügung. Sie erreichen uns via E-Mail an [support.twillo@tib.eu].
 
 ## Allgemeine Kursinformationen
 
