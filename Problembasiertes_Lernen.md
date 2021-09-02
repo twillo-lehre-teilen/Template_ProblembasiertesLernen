@@ -459,6 +459,13 @@ Lesen Sie sich Ihr Fallbeispiel gründlich durch und klären Sie Verständnisfra
 *  Welche Fachbegriffe werden in dem Fall genannt oder umschrieben?
 </div>
 
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+* Fallbeispiel 1 
+* Fallbeispiel 2 
+* Fallbeispiel 3
+</div>
+
 <!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
   ✎ **Arbeitsauftrag 2**
@@ -467,15 +474,6 @@ Lesen Sie sich Ihr Fallbeispiel gründlich durch und klären Sie Verständnisfra
   Das Glossar erstellen Sie bitte innerhalb eines Wikis (vgl. Methodenglossar), damit Sie zeitgleich an dem Glossar arbeiten und die Änderungen aller Gruppenmitglieder nachvollziehen können.
 
   Besprechen Sie Ihr Glossar in Ihrer Gruppe und nehmen Sie ggf. gemeinsam Korrekturen vor.
-</div>
-
-<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
-<div>
-**Vorlagen und Arbeitsblätter:**
-
-* Fallbeispiel 1
-* Fallbeispiel 2
-* Fallbeispiel 3
 </div>
 
 <!--  style = "background-color: #F25B68; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
