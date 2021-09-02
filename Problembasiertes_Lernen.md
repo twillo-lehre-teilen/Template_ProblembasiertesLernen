@@ -665,7 +665,7 @@ Für die Ergebnisdarstellung soll ein Produkt gemeinsam in der Gruppe erarbeitet
 
 **Hilfestellungen**
 
-In dem Template ist als Hilfestellung zur Erstellung eines Thesenpapiers bereits eine Handreichung verlinkt [https://www.uni-hildesheim.de/media/fb2/medien_theater/Downloads/Leitfaden_zur_Erstellung_eines_Thesenpapiers_1014.pdf](https://www.uni-hildesheim.de/media/fb2/medien_theater/Downloads/Leitfaden_zur_Erstellung_eines_Thesenpapiers_1014.pdf). Bei Bedarf, können Sie jedoch auch selbst ein Handout erstellen, aus dem hervorgeht, was die Studierenden bei der Erstellung eines Thesenpapiers beachten sollten.
+In dem Template ist als Hilfestellung zur Erstellung eines Thesenpapiers bereits eine Handreichung verlinkt (s. Tipp). Bei Bedarf, können Sie jedoch auch selbst ein Handout erstellen, aus dem hervorgeht, was die Studierenden bei der Erstellung eines Thesenpapiers beachten sollten.
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -735,7 +735,7 @@ In dem Methodenglossar, finden die Studierenden im Bereich Software auch Tools f
 <div>
   ✎ **Arbeitsauftrag**
 
-  Entwickeln Sie in Einzelarbeit mit einer Softwareanwendung ein interaktives Quiz/Rätsel (vgl. Methodenglossar), das die bisher in der Lerneinheit fokussierten Aspekte aufgreift. Entwickeln Sie mind. drei Fragen/Aufgaben inkl. der entsprechenden Lösungen. Werden Sie dabei kreativ. Die Form des Quizzes oder Rätsels (z. B. Multiple-Choice-Fragen, Lückentext, Schwedenrätsel) liegt ganz bei Ihnen.
+  Entwickeln Sie in Einzelarbeit mit einer Softwareanwendung ein interaktives Quiz/Rätsel (vgl. [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/)), das die bisher in der Lerneinheit fokussierten Aspekte aufgreift. Entwickeln Sie mind. drei Fragen/Aufgaben inkl. der entsprechenden Lösungen. Werden Sie dabei kreativ. Die Form des Quizzes oder Rätsels (z. B. Multiple-Choice-Fragen, Lückentext, Schwedenrätsel) liegt ganz bei Ihnen.
 </div>
 
 <!--  style = "background-color: #F25B68; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
