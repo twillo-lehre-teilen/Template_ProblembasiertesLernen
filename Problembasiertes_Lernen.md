@@ -29,15 +29,16 @@
   - [Phase 7: Erarbeitung und Präsentation der Ergebnisse](#12)
   - [Phase 8: Reflexion des gesamten Prozesses](#13)
 
-<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
-<p>**Lizenzhinweis**
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>**Lizenzhinweis**
 
 Diese Kursvorlage von Stefanie Hiestand, Britta Beutnagel und [twillo](https://www.twillo.de) ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) (Logos ausgenommen).
+  </div>
 
-Die Kursvorlage zählt aufgrund ihrer Lizenz zu den Open Educational Resources (OER). Möchten auch Sie einen Beitrag zur offenen Hochschullehre leisten? Teilen Sie Ihre Lehrmaterialien auf dem OER-Portal twillo (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur).
+Die Kursvorlage zählt aufgrund ihrer Lizenz zu den **Open Educational Resources (OER)**. Möchten auch Sie einen Beitrag zur offenen Hochschullehre leisten? Teilen Sie Ihre Lehrmaterialien auf dem OER-Portal twillo (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur).
 
 Sie haben Fragen zu OER im Allgemeinen oder zu diesem Template? Gern steht Ihnen das twillo-Team zur Verfügung. Sie erreichen uns via E-Mail an (mailto:support.twillo@tib.eu).
-</p>
+
 
 
 ## Informationen für Lehrende
@@ -57,7 +58,7 @@ Dieses Template soll Sie bei der Gestaltung von Lerneinheiten nach der Siebenspr
 Selbstverständlich können Sie das Template - im Sinne der Lizenz CC BY (4.0) - bearbeiten und verändern.
 Grundsätzlich ist es möglich, einzelne Phasen der Lehrveranstaltung auszublenden. Um der Siebensprungmethode jedoch gerecht zu werden, sollten Sie beachten, dass jeder Schritt einen essentiellen Bestandteil darstellt und die einzelnen Lehreinheiten aufeinander aufbauen.
 
-
+----------------
 **Weiterführende Literatur:**
 
 *Hiestand, S./Beutnagel, B./Rühling, S. (2020): Problemorientiertes Lernen in digital unterstützen Lehr-/Lernsettings – das Siebensprung-Konzept am Beispiel der (hochschulischen) Ausbildung. In: Dietl, S. F./Schmidt, H./Weiß, R.Wittwer, W. (Hrsg.): Ausbilder Handbuch. Aufgaben, Konzepte, Praxisbeispiele. Hürth, S. 1-26 (Kap. 6.1.28).*
@@ -86,7 +87,7 @@ Bei diesem didaktischen Template handelt es sich um eine Kursvorlage für die Er
 4. Zum generieren des Kurses besuchen Sie die [LiaScript-Website](https://liascript.github.io/). Fügen Sie hier die URL zur **Kursdatei (.md)** innerhalb des Repositories ein und klicken Sie auf **"Load Course"**. Ihr Kurs ist jetzt erstellt und erreichbar über der von LiaScript generierten URL.
 5. Nun können Sie innerhalb der Markdown-Datei (.md) die Inhalte jeder einzelnen Phase anpassen oder ergänzen. Alle Veränderungen werden dabei automatisch von LiaScript übernommen (Dies kann allerdings einige Minuten dauern). Um das Bearbeiten und Verändern des Kurses zu vereinfachen empfehlen wir Ihnen die Nutzung des **Texteditor Atom** in Verbindung mit dem **LiaScript Plugin** "liascript-preview"
 6. Denken Sie daran, die Regieanweisungen entweder zu löschen oder unsichtbar zu machen. Das Template ist so konzipiert, dass die Regieanweisungen für Lehrende innerhalb des LiaScript Kurses zunächst für jeden sichtbar sind. Möchten Sie dies ändern, sodass die Regieanweisungen innerhalb des LiaScript Kurses für jeden unsichtbar sind, so müssen Sie die Sichtbarkeit der Regieanweisungen in jeder Phase des Lernmoduls in der Kursdatei (.md) anpassen. Die Regieanweisungen finden Sie zu Beginn jeder Lernmodul Phase, sie sind jeweils umklammert von HTML p-tags. Um die Regieanweisungen unsichtbar zu machen muss das Wort "**hidden**" dem vorangehenden p-tag hinzugefügt werden. Der unten zu sehende Screenshot zeigt wie dies innerhalb der Kursdatei (.md) aussehen würde.
-7. Überprüfen Sie vor der Freigabe des Kurses, ob die Sichtbarkeit in allen Lernmodul Phasen entsprechend Ihren wünschen eingestellt ist.
+7. Überprüfen Sie vor der Freigabe des Kurses, ob die Sichtbarkeit in allen Lernmodul Phasen entsprechend Ihren Wünschen eingestellt ist.
 
 ![Sichtbarkeit von Regieanweisungen](docs/visibility.svg)<!-- style = "text-align:center;" -->
 
@@ -124,8 +125,8 @@ Eine gute Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender 
 **Prüfungsform & Leistungsnachweise:**<!--Text comes here--><br>
 **Kriterien der Bewertung:**<!--Text comes here--><br>
 
-- [Veranstaltungsübersicht Vorlage](https://www.twillo.de/edu-sharing/components/render/7eca4ffb-9d58-4cad-8bee-5a01e85f0a4c/)
-- [Advanced Organizer](https://www.twillo.de/edu-sharing/components/render/d96767c5-d188-41f2-9e52-fd67b8bf52f8)
+- [Veranstaltungsübersicht Vorlage](https://www.twillo.de/edu-sharing/components/render/7eca4ffb-9d58-4cad-8bee-5a01e85f0a4c)
+- [Advanced Organizer](https://www.twillo.de/edu-sharing/components/render/eea0155f-f394-4627-8e14-79e5363a7fdf)
 </div>
 
 ## Thematischer Einstieg
