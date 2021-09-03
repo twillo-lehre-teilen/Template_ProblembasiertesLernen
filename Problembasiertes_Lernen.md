@@ -45,7 +45,7 @@ Sie haben Fragen zu OER im Allgemeinen oder zu diesem Template? Gern steht Ihnen
 
 
 ## Informationen für Lehrende
-
+---
 **Das Wichtigste auf einen Blick: Problembasiertes Lernen**
 
 Problembasiertes Lernen (auch Problemorientiertes Lernen) ist ein didaktisches Konzept, in dessen Zentrum das Lernen an und in praxisrelevanten Problemlagen steht. Das Problem ist hierbei als ein authentisches Fallbeispiel - eine Schwierigkeit oder Herausforderung des beruflichen Alltags - zu verstehen, das die Lernenden selbstgesteuert lösen müssen. Da zur Lösung der Problemlage sowohl das praktische Erfahrungswissen, als auch das abstrakte (theoretische) Wissen der Lernenden aktiviert und erweitert wird, fördert Problembasiertes Lernen eine reflexive Verbindung von Theorie und Praxis in besonderem Maße (vgl. u. a. Hiestand et al. 2020, Weber 2014).
@@ -84,8 +84,8 @@ Bei diesem didaktischen Template handelt es sich um eine Kursvorlage für die Er
 
 **Schritte für eine Nachnutzung:**
 
-1. Um diese LiaScript-Vorlage nachnutzen zu können benötigen Sie einen kostenlosen **GitHub-Account**. Besitzen Sie schon einen GitHub-Account können Sie mit Schritt 2 fortfahren. Falls Sie noch keinen Account bei GitHub besitzen erstellen Sie sich zunächst einen. [Hier gehts zur Anmeldung.](https://github.com/)
-2. Erstellen Sie nun ein neues Repository für Ihren eigenen Kurs. Zum importieren dieser Vorlage wählen Sie beim erstellen des Repositories die Option **"Import a repository"** aus. Gebe Sie als URL folgendes an: https://github.com/twillo-lehre-teilen/Template_ProblembasiertesLernen.git. Desweiteren sollten Sie ihrem Repository einen prägnanten Titel für Ihren Kurs geben und es auf **"public"** stellen, damit LiaScript daraus einen Kurs generieren kann.
+1. Um diese LiaScript-Vorlage nachnutzen zu können benötigen Sie einen kostenlosen **GitHub-Account**. Besitzen Sie schon einen GitHub-Account können Sie mit Schritt 2 fortfahren. Falls Sie noch keinen Account bei GitHub besitzen erstellen Sie sich zunächst einen. [Hier gehts zur Anmeldung](https://github.com/).
+2. Erstellen Sie nun ein neues Repository für Ihren eigenen Kurs. Zum importieren dieser Vorlage wählen Sie beim erstellen des Repositories die Option **"Import a repository"** aus. Gebe Sie als URL folgendes an: [https://github.com/twillo-lehre-teilen/Template_ProblembasiertesLernen.git](https://github.com/twillo-lehre-teilen/Template_ProblembasiertesLernen.git). Desweiteren sollten Sie ihrem Repository einen prägnanten Titel für Ihren Kurs geben und es auf **"public"** stellen, damit LiaScript daraus einen Kurs generieren kann.
 3. Prüfen Sie nach dem Import, ob die Strukturen und Inhalte der Vorlage korrekt vorhanden sind.
 4. Zum generieren des Kurses besuchen Sie die [LiaScript-Website](https://liascript.github.io/). Fügen Sie hier die URL zur **Kursdatei (.md)** innerhalb des Repositories ein und klicken Sie auf **"Load Course"**. Ihr Kurs ist jetzt erstellt und erreichbar über der von LiaScript generierten URL.
 5. Nun können Sie innerhalb der Markdown-Datei (.md) die Inhalte jeder einzelnen Phase anpassen oder ergänzen. Alle Veränderungen werden dabei automatisch von LiaScript übernommen (Dies kann allerdings einige Minuten dauern). Um das Bearbeiten und Verändern des Kurses zu vereinfachen empfehlen wir Ihnen die Nutzung des **Texteditor Atom** in Verbindung mit dem **LiaScript Plugin** "liascript-preview"
@@ -96,7 +96,7 @@ Bei diesem didaktischen Template handelt es sich um eine Kursvorlage für die Er
 
 
 ## Allgemeine Kursinformationen
-
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -117,7 +117,7 @@ Eine gute Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender 
   Auf dieser Seite sind **alle organisatorischen Informationen** zu dieser Lehrveranstaltung für Sie hinterlegt.
 </div>
 
-![Advanced Organizer](docs/AdvancedOrganizer.svg)<!-- style = "text-align:center;" -->
+![Advanced Organizer](docs/AdvanceOrganizer.svg)<!-- style = "text-align:center;" -->
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -129,10 +129,11 @@ Eine gute Hilfestellung zur Formulierung von Lernzielen finden Sie in folgender 
 **Kriterien der Bewertung:**<!--Text comes here--><br>
 
 - [Veranstaltungsübersicht Vorlage](https://www.twillo.de/edu-sharing/components/render/7eca4ffb-9d58-4cad-8bee-5a01e85f0a4c)
-- [Advanced Organizer](https://www.twillo.de/edu-sharing/components/render/eea0155f-f394-4627-8e14-79e5363a7fdf)
+- [Advance Organizer](https://www.twillo.de/edu-sharing/components/render/eea0155f-f394-4627-8e14-79e5363a7fdf)
 </div>
 
 ## Thematischer Einstieg
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -273,7 +274,7 @@ Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemana
 
 <br>
 
-- [Vorlage Feinplanung](https://github.com/pilotta314/Problembasiertes_Lernen/blob/master/docs/thematischerEinstieg/Feinplanung%20Sitzung1%20PbL.docx)
+- <a href="https://github.com/twillo-lehre-teilen/Template_ProblembasiertesLernen/blob/master/docs/thematischerEinstieg/Feinplanung%20Sitzung1%20PbL.docx" download>Vorlage Feinplanung</a>
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -303,14 +304,14 @@ Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemana
 
   Finden Sie in Kleingruppen zusammen. Begeben Sie sich mit Ihrer Gruppe in einen eigenen virtuellen Raum. Analysieren Sie nun gemeinsam eine Karikatur. Nutzen Sie hierfür das nebenstehende Arbeitsblatt. Kehren Sie nach etwa 25 Minuten ins Plenum zurück und stellen Sie Ihre Ergebnisse der gesamten Gruppe vor.
 
-  - [**Vorlage Arbeitsblatt Karikaturanalyse**](https://www.twillo.de/edu-sharing/components/render/8c002542-86b4-4b0d-babd-f07aa84e4c71/)
+  - [Vorlage Arbeitsblatt Karikaturanalyse](https://www.twillo.de/edu-sharing/components/render/8c002542-86b4-4b0d-babd-f07aa84e4c71/)
 </div>
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
   **Input:** Grundlagen: Problembasiertes Lernen
 
-  - [**Foliensatz Grundlagen Problembasiertes Lernen**](https://www.twillo.de/edu-sharing/components/render/42e8a9f5-b273-4071-b3cf-caee6933b5dd/)
+  - [Foliensatz Grundlagen Problembasiertes Lernen](https://www.twillo.de/edu-sharing/components/render/42e8a9f5-b273-4071-b3cf-caee6933b5dd/)
 </div>
 
 <!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -320,10 +321,11 @@ Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemana
   Finden Sie erneut in Kleingruppen zusammen. **Bitte wählen Sie Ihre Gruppe mit Bedacht aus, da die Gruppenzusammensetzung im restlichen Verlauf dieser Lehrveranstaltung bestehen bleiben soll.** Begeben Sie sich mit Ihrer Gruppe in einen eigenen virtuellen Raum. Führen Sie nun gemeinsam die Übung zur Problemanalyse anhand eines Beispielfalls durch. Alles, was Sie hierfür benötigen finden Sie auf dem u. s. Arbeitsblatt.
   Kehren Sie nach etwa 40 Minuten ins Plenum zurück und diskutieren Sie Ihre Ergebnisse in der Gesamtgruppe.
 
-  - [**Arbeitsblatt Problemanalyse**](https://www.twillo.de/edu-sharing/components/render/e1dc0991-5398-47ea-abc4-2639779e907e/)
+  - [Arbeitsblatt Problemanalyse](https://www.twillo.de/edu-sharing/components/render/e1dc0991-5398-47ea-abc4-2639779e907e/)
 </div>
 
 ## Kick-Off: Selbstgesteuertes Lernen im Siebensprungmethode
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -405,6 +407,7 @@ Fügen Sie drei Bilder, Symbole oder Grafiken hinzu, die Ihre Erwartungen an die
 </div>
 
 ## Schritt 1: Problemkonfrontation und Begriffserklärung
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -483,6 +486,7 @@ Lesen Sie sich Ihr Fallbeispiel gründlich durch und klären Sie Verständnisfra
 </div>
 
 ## Schritt 2: Problemdefinition
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -531,6 +535,7 @@ Für die Erarbeitung des Arbeitsauftrages ist als Material lediglich das von der
 </div>
 
 ## Zwischenschritt: Sprechstunde
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisung für Lehrende**
@@ -592,6 +597,7 @@ Neben den inhaltlichen Schwerpunkten oder bisherigen Teilergebnissen können auc
 </div>
 
 ## Schritt 3: Problemanalyse und Aktivierung von Vorwissen
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -653,6 +659,7 @@ Sie können bei der Bearbeitung der Aufgabenstellung das Arbeitsblatt Zettelwand
 </div>
 
 ## Schritt 4: Systematisierung von Erklärungen
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -706,6 +713,7 @@ In dem Template ist als Hilfestellung zur Erstellung eines Thesenpapiers bereits
 </div>
 
 ## Zwischenschritt: Inhaltliche Reflexion
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -746,6 +754,7 @@ In dem Methodenglossar, finden die Studierenden im Bereich Software auch Tools f
 </div>
 
 ## Schritt 5: Entwicklung von Lernzielen
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -872,6 +881,7 @@ Erinnern Sie die Studierenden daran, das Portfolio regelmäßig zu pflegen. Auch
 </div>
 
 ## Schritt 7: Informationsaustausch und Ergebnisaufbereitung
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -930,6 +940,7 @@ Im Arbeitsauftrag formulierte Leitfragen unterstützen die Ergebnisaufbereitung 
 </div>
 
 ## Zusätzlicher Schritt: Selbstreflexion
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -980,6 +991,7 @@ Das Angebot eines freiwilligen Beratungsgesprächs, um den Studierenden bei Beda
 </div>
 
 ## Abschluss: Fallpräsentation und Diskussion
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
