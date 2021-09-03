@@ -274,7 +274,7 @@ Ersetzen Sie auch den **Textplatzhalter auf dem u.s. Arbeitsblatt zur Problemana
 
 <br>
 
-- <a href="https://github.com/twillo-lehre-teilen/Template_ProblembasiertesLernen/blob/master/docs/thematischerEinstieg/Feinplanung%20Sitzung1%20PbL.docx" download>Vorlage Feinplanung</a>
+- <a href="docs/thematischerEinstieg/Feinplanung%20Sitzung1%20PbL.docx" download>Vorlage Feinplanung</a>
 </p>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
