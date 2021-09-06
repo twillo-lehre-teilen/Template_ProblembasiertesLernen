@@ -445,7 +445,7 @@ Im **zweiten Arbeitsauftrag** geht es um die Klärung von Schlüsselworten, die 
 <div>
   💡 **Tipp**
 
-  Sie sind sich unsicher, welche digitalen Tools für Ihr virtuelles Treffen geeignet sind? Vielleicht kann Ihnen das Methodenglossar bei der Entscheidung helfen.
+  Sie sind sich unsicher, welche digitalen Tools für Ihr virtuelles Treffen geeignet sind? Vielleicht kann Ihnen das [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/./) bei der Entscheidung helfen.
 </div>
 
 <!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -473,7 +473,7 @@ Lesen Sie sich Ihr Fallbeispiel gründlich durch und klären Sie Verständnisfra
 <div>
   ✎ **Arbeitsauftrag 2**
 
-  Wählen Sie die zehn wichtigsten der genannten Fachbegriffe aus. Recherchieren Sie die in Ihrem Fachbereich geläufigen Definitionen dieser Begriffe. Halten Sie Ihre Ergebnisse in einem gemeinsamen Glossar (vgl. Methodenglossar) fest. Vergessen Sie hierbei nicht, anzugeben, welche Quellen Sie für die Definition der Begriffe verwendet haben.
+  Wählen Sie die zehn wichtigsten der genannten Fachbegriffe aus. Recherchieren Sie die in Ihrem Fachbereich geläufigen Definitionen dieser Begriffe. Halten Sie Ihre Ergebnisse in einem gemeinsamen Glossar (vgl. [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/./)) fest. Vergessen Sie hierbei nicht, anzugeben, welche Quellen Sie für die Definition der Begriffe verwendet haben.
   Das Glossar erstellen Sie bitte innerhalb eines Wikis (vgl. Methodenglossar), damit Sie zeitgleich an dem Glossar arbeiten und die Änderungen aller Gruppenmitglieder nachvollziehen können.
 
   Besprechen Sie Ihr Glossar in Ihrer Gruppe und nehmen Sie ggf. gemeinsam Korrekturen vor.
