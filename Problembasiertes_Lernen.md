@@ -14,7 +14,7 @@
 
 
 ![CC BY Icon](docs/CC_BY_ICON.svg)<!-- style = "text-align:center;" -->
-Diese Kursvorlage von Stefanie Hiestand, Britta Beutnagel und [twillo](https://www.twillo.de) ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) (Logos ausgenommen). <br><br>
+Diese Kursvorlage von Stefanie Hiestand, Britta Beutnagel und [twillo](https://www.twillo.de) ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) (Logos ausgenommen). <br>
 <b>Das Git-Hub Repository zu diesem Kurs finden Sie [hier](https://github.com/twillo-lehre-teilen/Template_ProblembasiertesLernen).</b>
 </div>
 
