@@ -1,4 +1,23 @@
 <!--
+author:   twillo
+
+email:    support.twillo@tib.eu
+
+version:  1.0.0
+
+language: de
+
+narrator: Stefanie Hiestand, Britta Beutnagel, Stina Schäfer, Lennart Rosseburg
+
+comment:  Diese Kursvorlage von Stefanie Hiestand, Britta Beutnagel und <b>[twillo](https://www.twillo.de)</b> ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz <b>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)</b> (Logos ausgenommen). <br>Das Git-Hub Repository zu diesem Kurs finden Sie [hier](https://github.com/twillo-lehre-teilen/Template_ProblembasiertesLernen)</b>.
+
+mode:     Presentation
+
+link:     
+
+script:   
+-->
+<!--
   Einstellung der Sichtbarkeit von Regieanweisungen:
   - Die Regieanweisungen befinden sich direkt zu Beginn jeder Phase und sind umklammert von HTML p-tags (Bsp.: <p>...Regieanweisung...</p>)
   - Um die Sichtabrkeit zu ändern muss lediglich das Wort "hidden" dem vorangehenden p-tag hinzugefügt bzw. entfernt werden.
