@@ -9,7 +9,7 @@ language: de
 
 narrator: Stefanie Hiestand, Britta Beutnagel, Stina Schäfer, Lennart Rosseburg
 
-comment:  Diese Kursvorlage von Stefanie Hiestand, Britta Beutnagel und <b>[twillo](https://www.twillo.de)</b> ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz <b>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)</b> (Logos ausgenommen). <br>Das Git-Hub Repository zu diesem Kurs finden Sie [hier](https://github.com/twillo-lehre-teilen/Template_ProblembasiertesLernen)</b>.
+comment:  Diese Kursvorlage von Stefanie Hiestand, Britta Beutnagel und <b>[twillo](https://www.twillo.de)</b> ist – sofern nicht anders an einzelnen Objekten ausgewiesen – lizenziert unter der Lizenz <b>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)</b> (Logos ausgenommen). <br>Das Git-Hub Repository zu diesem Kurs finden Sie <b>[hier](https://github.com/twillo-lehre-teilen/Template_ProblembasiertesLernen)</b>.
 
 mode:     Presentation
 
