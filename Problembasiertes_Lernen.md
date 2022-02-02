@@ -5,6 +5,8 @@ email:    support.twillo@tib.eu
 
 version:  1.0.0
 
+repository: https://github.com/twillo-lehre-teilen/Template_ProblembasiertesLernen
+
 language: de
 
 narrator: Stefanie Hiestand, Britta Beutnagel, Franziska Bock, Stina Schäfer, Lennart Rosseburg
